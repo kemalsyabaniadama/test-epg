@@ -35,7 +35,12 @@ jobs:
         run: |
           cd external-repo
           npm install
-          
+
+      - name: Download chlist.txt file
+        run: |
+          cd external-repo
+          curl -o chlist.txt https://raw.githubusercontent.com/kemalsyabaniadama/test-epg/refs/heads/main/.github/workflows/chlist.txt
+
       - name: Run script
         run: |
           cd external-repo
