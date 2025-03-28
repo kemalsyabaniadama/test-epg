@@ -16,9 +16,13 @@ jobs:
           echo "Cloning external repository..."
           git clone --depth 1 -b master https://github.com/iptv-org/epg.git external-repo
       
-      - name: Use files from cloned repository
-        run: |
-          echo "Using files from the cloned repository..."
-          cd external-repo
-          ls -la # List semua file, opsional
-          npm run grab -- --channels=chlist.txt
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20.x'
+
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Run script
+        run: npx tsx scripts/commands/epg/grab.ts --channels=chlist.txt
