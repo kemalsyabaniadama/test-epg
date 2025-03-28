@@ -45,3 +45,17 @@ jobs:
         run: |
           cd external-repo
           npx tsx scripts/commands/epg/grab.ts --channels=chlist.txt
+
+      - name: Copy EPG file to main repository
+        run: |
+          cp external-repo/guide.xml .
+
+      - name: Commit and Push EPG file
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git add guide.xml
+          git commit -m "Upload generated guide.xml"
+          git push
