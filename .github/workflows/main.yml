@@ -1,0 +1,24 @@
+name: Clone External Repository and Use It
+
+on:
+  workflow_dispatch: # Pemicu manual (bisa diganti sesuai kebutuhan)
+
+jobs:
+  clone-and-use:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v3
+
+      - name: Clone external repository
+        run: |
+          echo "Cloning external repository..."
+          git clone --depth 1 -b master https://github.com/iptv-org/epg.git external-repo
+      
+      - name: Use files from cloned repository
+        run: |
+          echo "Using files from the cloned repository..."
+          cd external-repo
+          ls -la # List semua file, opsional
+          npm run grab -- --channels=chlist.txt
