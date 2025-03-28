@@ -10,22 +10,22 @@ jobs:
     steps:
       - name: Checkout current repository
         uses: actions/checkout@v3
-
-      - name: Clone external repository
-        run: |
-          echo "Cloning external repository..."
-          git clone --depth 1 -b master https://github.com/iptv-org/epg.git external-repo
       
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
           node-version: '20.x'
 
-      - name: Install dependencies
-        run: npm install
-        
       - name: Change working directory
         run: cd /home/runner/work/test-epg/test-epg
+
+      - name: Clone external repository
+        run: |
+          echo "Cloning external repository..."
+          git clone --depth 1 -b master https://github.com/iptv-org/epg.git external-repo
+
+      - name: Install dependencies
+        run: npm install
       
       - name: Run script
         run: npx tsx scripts/commands/epg/grab.ts --channels=chlist.txt
