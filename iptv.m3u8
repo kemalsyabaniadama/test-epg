@@ -56,11 +56,11 @@ http://192.168.1.2:8999/stream=40.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/50px-RCTI_logo_2015.svg.png" tvg-id="RCTI.id" group-title="192.168.1.2", RCTI
 http://192.168.1.2:8999/stream=11.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b3/Rodja_TV.png/75px-Rodja_TV.png" tvg-id="RodjaTV.id" group-title="192.168.1.2", Rodja TV
+http://192.168.1.2:8999/stream=49.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/50px-Rajawali_Televisi.svg.png" tvg-id="RajawaliTV.id" group-title="192.168.1.2", RTV
 http://192.168.1.2:8999/stream=7.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/50px-Rajawali_Televisi.svg.png" tvg-id="RajawaliTV.id" group-title="192.168.1.2", RTV
 http://192.168.1.2:8999/stream=6.ts
-http://192.168.1.2:8999/stream=49.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/50px-SCTV_Logo.svg.png" tvg-id="SCTV.id" group-title="192.168.1.2", SCTV
 http://192.168.1.2:8999/stream=2.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/50px-Sin_Po_TV.svg.png" tvg-id="SinPoTV.id" group-title="192.168.1.2", Sin Po TV
