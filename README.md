@@ -3,7 +3,7 @@
 ## guide.xml
 test-epg/guide.xml adalah jadwal siaran televisi nasional di Indonesia, untuk melengkapi playlist m3u IPTV anda. Jadi lebih mudah untuk merekam siaran dan memasang pengingat<br>
 
-**Kelebihan**:<br>
+### Kelebihan
 - **Update Otomatis**: Dua kali setiap hari, memastikan jadwal adalah yang terbaru
 - **Sumber Banyak**: Menggunakan berbagai situs *OTT Streaming* di Indonesia
 - **Saluran Didukung**: Hingga 30 channel TV Nasional *(bisa request kalo mau)*
