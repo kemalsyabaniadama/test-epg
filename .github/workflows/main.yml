@@ -2,7 +2,7 @@ name: Clone External Repository and Use It
 
 on:
     schedule:
-      - cron: "0 17,5 * * *" #
+      - cron: "0 17,23 * * *" #
     workflow_dispatch:
 
 jobs:
