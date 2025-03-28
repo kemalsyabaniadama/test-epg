@@ -1,7 +1,9 @@
 name: Clone External Repository and Use It
 
 on:
-  workflow_dispatch: # Pemicu manual (bisa diganti sesuai kebutuhan)
+    schedule:
+      - cron: "0 17,5 * * *" #
+    workflow_dispatch:
 
 jobs:
   clone-and-use:
