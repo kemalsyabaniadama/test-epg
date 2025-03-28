@@ -426,7 +426,8 @@
 <programme start="20250329030000 +0000" stop="20250329033000 +0000" channel="GarudaTV.id"><title lang="id">Tamadun Islam</title></programme>
 <programme start="20250329033000 +0000" stop="20250329040000 +0000" channel="GarudaTV.id"><title lang="id">Anak Ajaib</title></programme>
 <programme start="20250329040000 +0000" stop="20250329043000 +0000" channel="GarudaTV.id"><title lang="id">The Power Of Netizen</title></programme>
-<programme start="20250329043000 +0000" stop="20250329060000 +0000" channel="GarudaTV.id"><title lang="id">Reportase Weekend</title></programme>
+<programme start="20250329043000 +0000" stop="20250329050000 +0000" channel="GarudaTV.id"><title lang="id">Reportase Weekend</title></programme>
+<programme start="20250329050000 +0000" stop="20250329060000 +0000" channel="GarudaTV.id"><title lang="id">Laporan 8 Siang</title></programme>
 <programme start="20250329060000 +0000" stop="20250329063000 +0000" channel="GarudaTV.id"><title lang="id">Gosip Panas Selebriti</title></programme>
 <programme start="20250329063000 +0000" stop="20250329070000 +0000" channel="GarudaTV.id"><title lang="id">Orang Baik</title></programme>
 <programme start="20250329070000 +0000" stop="20250329080000 +0000" channel="GarudaTV.id"><title lang="id">Syiar Pengembara</title></programme>
