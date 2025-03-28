@@ -24,6 +24,9 @@ jobs:
           echo "Cloning external repository..."
           git clone --depth 1 -b master https://github.com/iptv-org/epg.git external-repo
 
+      - name: Create default
+        run: npm init
+
       - name: Install dependencies
         run: npm install
       
