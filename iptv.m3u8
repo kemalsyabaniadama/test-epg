@@ -25,7 +25,7 @@ http://192.168.1.2:8999/stream=22.ts
 http://192.168.1.2:8999/stream=14.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/50px-Indosiar_2015.svg.png" tvg-id="Indosiar.id" group-title="192.168.1.2", Indosiar
 http://192.168.1.2:8999/stream=3.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/50px-INews.svg.png" tvg-id="INews.id" group-title="192.168.1.2", iNews
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/50px-INews.svg.png" tvg-id="iNews.id" group-title="192.168.1.2", iNews
 http://192.168.1.2:8999/stream=12.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Inspira.png/50px-Inspira.png" tvg-id="InspiraTV.id" group-title="192.168.1.2", Inspira TV
 http://192.168.1.2:8999/stream=41.ts
