@@ -23,9 +23,6 @@ jobs:
 
       - name: Change working directory
         run: cd /home/runner/work/test-epg/test-epg
-
-      - name: Install dependencies
-        run: npm install
       
       - name: Run script
         run: npx tsx scripts/commands/epg/grab.ts --channels=chlist.txt
