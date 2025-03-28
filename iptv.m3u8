@@ -1,0 +1,89 @@
+#EXTM3U  x-tvg-url=https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml refresh="1440" max-conn="1" refresh="24"
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/50px-Antv_logo.svg.png" tvg-id="ANTV.id" group-title="192.168.1.2", ANTV
+http://192.168.1.2:8999/stream=24.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berita_Nasional_logo.svg/75px-Berita_Nasional_logo.svg.png" tvg-id="BeritaNasionalTV.id" group-title="192.168.1.2", Berita Nasional TV
+http://192.168.1.2:8999/stream=47.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/50px-BN_Channel.png" tvg-id="BNTV.id" group-title="192.168.1.2", BN Channel
+http://192.168.1.2:8999/stream=17.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Logo_BRTV.png/50px-Logo_BRTV.png" tvg-id="BRTV.id" group-title="192.168.1.2", BRTV
+http://192.168.1.2:8999/stream=45.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/75px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" tvg-id="BeritaSatuNewsChannel.id" group-title="192.168.1.2", BTV
+http://192.168.1.2:8999/stream=10.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CNBC_Indonesia_2024.svg/75px-CNBC_Indonesia_2024.svg.png" tvg-id="CNBCIndonesia.id" group-title="192.168.1.2", CNBC Indonesia
+http://192.168.1.2:8999/stream=32.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/50px-CNN_Indonesia_logo_%282023%29.svg.png" tvg-id="CNNIndonesia.id" group-title="192.168.1.2", CNN Indonesia
+http://192.168.1.2:8999/stream=33.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/46/Logo_CTV_-_MOS_Network_2023.png/50px-Logo_CTV_-_MOS_Network_2023.png" tvg-id="CTV.id" group-title="192.168.1.2", CTV
+http://192.168.1.2:8999/stream=9.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DAAI_TV.svg/50px-DAAI_TV.svg.png" tvg-id="DAAITV.id" group-title="192.168.1.2", DAAI TV
+http://192.168.1.2:8999/stream=42.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ElshintaTV2019.png/50px-ElshintaTV2019.png" tvg-id="ElshintaTV.id" group-title="192.168.1.2", Elshinta TV
+http://192.168.1.2:8999/stream=44.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_GarudaTV_Merah_Putih_Silver_Merah.svg/50px-Logo_GarudaTV_Merah_Putih_Silver_Merah.svg.png" tvg-id="GarudaTV.id" group-title="192.168.1.2", Garuda TV
+http://192.168.1.2:8999/stream=22.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/50px-GTV_%282017%29.svg.png" tvg-id="GTV.id" group-title="192.168.1.2", GTV
+http://192.168.1.2:8999/stream=14.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/50px-Indosiar_2015.svg.png" tvg-id="Indosiar.id" group-title="192.168.1.2", Indosiar
+http://192.168.1.2:8999/stream=3.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/50px-INews.svg.png" tvg-id="INews.id" group-title="192.168.1.2", iNews
+http://192.168.1.2:8999/stream=12.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Inspira.png/50px-Inspira.png" tvg-id="InspiraTV.id" group-title="192.168.1.2", Inspira TV
+http://192.168.1.2:8999/stream=41.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/cc/Logo_Jak_TV_%282018%29.png/50px-Logo_Jak_TV_%282018%29.png" tvg-id="JakTV.id" group-title="192.168.1.2", Jak TV
+http://192.168.1.2:8999/stream=31.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/75px-Jawa_Pos_TV_2024.svg.png" tvg-id="JawaposTV.id" group-title="192.168.1.2", Jawapos TV
+http://192.168.1.2:8999/stream=50.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/60px-KOMPAS_TV_%282017%29.svg.png" tvg-id="KompasTV.id" group-title="192.168.1.2", Kompas TV
+http://192.168.1.2:8999/stream=1.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/21/KTV_28UHF.png/50px-KTV_28UHF.png" tvg-id="KTV.id" group-title="192.168.1.2", K T V
+http://192.168.1.2:8999/stream=8.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MagnaChannel.png/50px-MagnaChannel.png" tvg-id="MagnaChannel.id" group-title="192.168.1.2", Magna Channel
+http://192.168.1.2:8999/stream=15.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/75px-MDTV_logo.svg.png" tvg-id="MDTV.id" group-title="192.168.1.2", MDTV
+http://192.168.1.2:8999/stream=35.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/75px-MDTV_logo.svg.png" tvg-id="MDTV.id" group-title="192.168.1.2", MDTV
+http://192.168.1.2:8999/stream=25.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/50px-Mentari_TV.svg.png" tvg-id="MentariTV.id" group-title="192.168.1.2", Mentari TV
+http://192.168.1.2:8999/stream=5.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/50px-LogoMetroTVsince2010.svg.png" tvg-id="MetroTV.id" group-title="192.168.1.2", Metro TV
+http://192.168.1.2:8999/stream=21.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/50px-MNCTV_logo_2015.svg.png" tvg-id="MNCTV.id" group-title="192.168.1.2", MNCTV
+http://192.168.1.2:8999/stream=13.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/50px-Moji_blue.svg.png" tvg-id="Moji.id" group-title="192.168.1.2", Moji
+http://192.168.1.2:8999/stream=4.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Nusantara_TV.png/45px-Nusantara_TV.png" tvg-id="NusantaraTV.id" group-title="192.168.1.2", Nusantara TV
+http://192.168.1.2:8999/stream=40.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/50px-RCTI_logo_2015.svg.png" tvg-id="RCTI.id" group-title="192.168.1.2", RCTI
+http://192.168.1.2:8999/stream=11.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b3/Rodja_TV.png/75px-Rodja_TV.png" tvg-id="RodjaTV.id" group-title="192.168.1.2", Rodja TV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/50px-Rajawali_Televisi.svg.png" tvg-id="RajawaliTV.id" group-title="192.168.1.2", RTV
+http://192.168.1.2:8999/stream=7.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/50px-Rajawali_Televisi.svg.png" tvg-id="RajawaliTV.id" group-title="192.168.1.2", RTV
+http://192.168.1.2:8999/stream=6.ts
+http://192.168.1.2:8999/stream=49.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/50px-SCTV_Logo.svg.png" tvg-id="SCTV.id" group-title="192.168.1.2", SCTV
+http://192.168.1.2:8999/stream=2.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/50px-Sin_Po_TV.svg.png" tvg-id="SinPoTV.id" group-title="192.168.1.2", Sin Po TV
+http://192.168.1.2:8999/stream=27.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Smile_TV_Indonesia.png/50px-Smile_TV_Indonesia.png" tvg-id="SmileTV.id" group-title="192.168.1.2", Smile TV
+http://192.168.1.2:8999/stream=18.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/50px-Trans_7_2013.svg.png" tvg-id="Trans7.id" group-title="192.168.1.2", Trans 7
+http://192.168.1.2:8999/stream=34.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/50px-Trans_TV_2013.svg.png" tvg-id="TransTV.id" group-title="192.168.1.2", Trans TV
+http://192.168.1.2:8999/stream=36.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/TvMu.png/50px-TvMu.png" tvg-id="TVMu.id" group-title="192.168.1.2", TVMu
+http://192.168.1.2:8999/stream=39.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/50px-TvOne_2023.svg.png" tvg-id="tvOne.id" group-title="192.168.1.2", TVOne
+http://192.168.1.2:8999/stream=23.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/50px-TVRILogo2019.svg.png" tvg-id="TVRI.id" group-title="192.168.1.2", TVRI
+http://192.168.1.2:8999/stream=38.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TVRI_JAKARTA_2023.svg/50px-TVRI_JAKARTA_2023.svg.png" tvg-id="TVRIDKIJakarta.id" group-title="192.168.1.2", TVRI Jakarta
+http://192.168.1.2:8999/stream=43.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/50px-TVRI_Sport_2022.svg.png" tvg-id="TVRISport.id" group-title="192.168.1.2", TVRI Sport
+http://192.168.1.2:8999/stream=46.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/50px-TVRI-World.svg.png" tvg-id="TVRIWorld.id" group-title="192.168.1.2", TVRI World
+http://192.168.1.2:8999/stream=37.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/UGTV_Indonesia.png/50px-UGTV_Indonesia.png" tvg-id="UGTV.id" group-title="192.168.1.2", UGTV
+http://192.168.1.2:8999/stream=16.ts
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/50px-VTV_Indonesia_2023.svg.png" tvg-id="VTV.id" group-title="192.168.1.2", VTV
+http://192.168.1.2:8999/stream=30.ts
