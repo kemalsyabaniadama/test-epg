@@ -21,6 +21,9 @@ jobs:
         with:
           node-version: '20.x'
 
+      - name: Change working directory
+        run: cd /home/runner/work/test-epg/test-epg
+
       - name: Install dependencies
         run: npm install
       
