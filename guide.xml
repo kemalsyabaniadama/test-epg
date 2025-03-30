@@ -1343,34 +1343,25 @@
 <programme start="20250330145800 +0000" stop="20250330153000 +0000" channel="tvOne.id"><title lang="id">Tafakur Ramadhan</title></programme>
 <programme start="20250330153000 +0000" stop="20250330163000 +0000" channel="tvOne.id"><title lang="id">Benang Merah</title></programme>
 <programme start="20250330163000 +0000" stop="20250330170000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini</title></programme>
-<programme start="20250330170000 +0000" stop="20250330180000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20250330180000 +0000" stop="20250330190000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
-<programme start="20250330190000 +0000" stop="20250330193000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20250330193000 +0000" stop="20250330200000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini</title></programme>
-<programme start="20250330200000 +0000" stop="20250330203000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi</title></programme>
-<programme start="20250330203000 +0000" stop="20250330213000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini</title></programme>
-<programme start="20250330213000 +0000" stop="20250330230000 +0000" channel="tvOne.id"><title lang="id">Kabar Pagi</title></programme>
-<programme start="20250330230000 +0000" stop="20250330233000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi</title></programme>
-<programme start="20250330233000 +0000" stop="20250331013000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
-<programme start="20250331013000 +0000" stop="20250331020000 +0000" channel="tvOne.id"><title lang="id">Hidup Sehat</title></programme>
-<programme start="20250331020000 +0000" stop="20250331023000 +0000" channel="tvOne.id"><title lang="id">Inspirasi Pagi</title></programme>
-<programme start="20250331023000 +0000" stop="20250331032800 +0000" channel="tvOne.id"><title lang="id">Kabar Utama Pagi</title></programme>
-<programme start="20250331032800 +0000" stop="20250331033000 +0000" channel="tvOne.id"><title lang="id">Tafakur Bunda Munifah</title></programme>
-<programme start="20250331033000 +0000" stop="20250331040000 +0000" channel="tvOne.id"><title lang="id">Kabar Ramadhan 2025</title></programme>
-<programme start="20250331040000 +0000" stop="20250331060000 +0000" channel="tvOne.id"><title lang="id">Kabar Siang</title></programme>
-<programme start="20250331060000 +0000" stop="20250331073000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Siang</title></programme>
-<programme start="20250331073000 +0000" stop="20250331080000 +0000" channel="tvOne.id"><title lang="id">Kabar Merah Putih</title></programme>
-<programme start="20250331080000 +0000" stop="20250331093000 +0000" channel="tvOne.id"><title lang="id">Damai Indonesiaku</title></programme>
-<programme start="20250331093000 +0000" stop="20250331110000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
-<programme start="20250331110000 +0000" stop="20250331111500 +0000" channel="tvOne.id"><title lang="id">Jelang Berbuka</title></programme>
-<programme start="20250331111500 +0000" stop="20250331130000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
-<programme start="20250331130000 +0000" stop="20250331135800 +0000" channel="tvOne.id"><title lang="id">Fakta</title></programme>
-<programme start="20250331135800 +0000" stop="20250331140000 +0000" channel="tvOne.id"><title lang="id">Tafakur Bunda Munifah</title></programme>
-<programme start="20250331140000 +0000" stop="20250331145800 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20250331145800 +0000" stop="20250331150000 +0000" channel="tvOne.id"><title lang="id">Tafakur Ramadhan</title></programme>
-<programme start="20250331150000 +0000" stop="20250331160000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini</title></programme>
+<programme start="20250330170000 +0000" stop="20250330180000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
+<programme start="20250330180000 +0000" stop="20250330190000 +0000" channel="tvOne.id"><title lang="id">Indonesia Bertakbir</title></programme>
+<programme start="20250330190000 +0000" stop="20250330200000 +0000" channel="tvOne.id"><title lang="id">Indonesia Bertakbir</title></programme>
+<programme start="20250330200000 +0000" stop="20250330210000 +0000" channel="tvOne.id"><title lang="id">Gema Takbir</title></programme>
+<programme start="20250330210000 +0000" stop="20250330213000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi</title></programme>
+<programme start="20250330213000 +0000" stop="20250330230000 +0000" channel="tvOne.id"><title lang="id">Kabar Pagi (Live)</title></programme>
+<programme start="20250330230000 +0000" stop="20250330233000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi (Live)</title></programme>
+<programme start="20250330233000 +0000" stop="20250331013000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Pagi (Live)</title></programme>
+<programme start="20250331013000 +0000" stop="20250331040000 +0000" channel="tvOne.id"><title lang="id">Indonesia Berlebaran (Live)</title></programme>
+<programme start="20250331040000 +0000" stop="20250331060000 +0000" channel="tvOne.id"><title lang="id">Kabar Siang (Live)</title></programme>
+<programme start="20250331060000 +0000" stop="20250331073000 +0000" channel="tvOne.id"><title lang="id">Damai Indonesiaku Spesial Idul Fitri 1446 H</title></programme>
+<programme start="20250331073000 +0000" stop="20250331090000 +0000" channel="tvOne.id"><title lang="id">Indonesia Berlebaran (Live)</title></programme>
+<programme start="20250331090000 +0000" stop="20250331110000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang (Live)</title></programme>
+<programme start="20250331110000 +0000" stop="20250331130000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam (Live)</title></programme>
+<programme start="20250331130000 +0000" stop="20250331143000 +0000" channel="tvOne.id"><title lang="id">Renungan Jiwa</title></programme>
+<programme start="20250331143000 +0000" stop="20250331153000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama (Live)</title></programme>
+<programme start="20250331153000 +0000" stop="20250331160000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini (Live)</title></programme>
 <programme start="20250331160000 +0000" stop="20250331163000 +0000" channel="tvOne.id"><title lang="id">Menyingkap Tabir</title></programme>
-<programme start="20250331163000 +0000" stop="20250331170000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Malam</title></programme>
+<programme start="20250331163000 +0000" stop="20250331170000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Malam (Live)</title></programme>
 <programme start="20250330163000 +0000" stop="20250330170000 +0000" channel="TVRINasional.id"><title lang="id">Monitor Olahraga</title></programme>
 <programme start="20250330170000 +0000" stop="20250330173000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Malam</title></programme>
 <programme start="20250330173000 +0000" stop="20250330180000 +0000" channel="TVRINasional.id"><title lang="id">Flasback</title></programme>
