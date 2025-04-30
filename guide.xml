@@ -405,6 +405,9 @@
 <programme start="20250430150000 +0000" stop="20250430160000 +0000" channel="GarudaTV.id"><title lang="id">Laporan 8 Malam</title></programme>
 <programme start="20250430160000 +0000" stop="20250430163000 +0000" channel="GarudaTV.id"><title lang="id">Garuda Sport 8</title></programme>
 <programme start="20250430163000 +0000" stop="20250430165800 +0000" channel="GarudaTV.id"><title lang="id">Garda Dunia</title></programme>
+<programme start="20250430170000 +0000" stop="20250430173000 +0000" channel="GarudaTV.id"><title lang="id">IN MILITER</title></programme>
+<programme start="20250430173000 +0000" stop="20250430180000 +0000" channel="GarudaTV.id"><title lang="id">Di Balik Senjata</title></programme>
+<programme start="20250430180000 +0000" stop="20250430190000 +0000" channel="GarudaTV.id"><title lang="id">Jelajah Masjid Nusantara</title></programme>
 <programme start="20250430190000 +0000" stop="20250430230000 +0000" channel="GarudaTV.id"><title lang="id">Garuda TV</title></programme>
 <programme start="20250430230000 +0000" stop="20250501000000 +0000" channel="GarudaTV.id"><title lang="id">Laporan 8 Pagi</title></programme>
 <programme start="20250501000000 +0000" stop="20250501003000 +0000" channel="GarudaTV.id"><title lang="id">Sport 8</title></programme>
