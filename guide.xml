@@ -27,7 +27,7 @@
 <channel id="TransTV.id"><display-name>TransTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVMu.id"><display-name>Muhammadiyah TV</display-name><icon src="https://i.imgur.com/rR2iPBk.png"/><url>https://indihometv.com</url></channel>
 <channel id="tvOne.id"><display-name>TV One</display-name><icon src="https://i.imgur.com/LCzQYdy.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRINasional.id"><display-name>TVRI</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRINasional.id"><display-name>TVRI</display-name><url>https://indihometv.com</url></channel>
 <channel id="TVRISport.id"><display-name>TVRI Sport</display-name><icon src="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png"/><url>https://dens.tv</url></channel>
 <programme start="20250505170000 +0000" stop="20250505190000 +0000" channel="ANTV.id"><title lang="id">Sinema Horor Asia : Keranda Kuntilanak</title></programme>
 <programme start="20250505190000 +0000" stop="20250505213000 +0000" channel="ANTV.id"><title lang="id">Anandhi</title></programme>
@@ -710,6 +710,26 @@
 <programme start="20250507143000 +0000" stop="20250507153000 +0000" channel="KompasTV.id"><title lang="id">Kompas Malam</title></programme>
 <programme start="20250507153000 +0000" stop="20250507163000 +0000" channel="KompasTV.id"><title lang="id">Berita Utama</title></programme>
 <programme start="20250507163000 +0000" stop="20250507170000 +0000" channel="KompasTV.id"><title lang="id">Kilas Kompas</title></programme>
+<programme start="20250505170000 +0000" stop="20250505180000 +0000" channel="MentariTV.id"><title lang="id">Madun</title></programme>
+<programme start="20250505180000 +0000" stop="20250505190000 +0000" channel="MentariTV.id"><title lang="id">Just For Laughs</title></programme>
+<programme start="20250505190000 +0000" stop="20250505200000 +0000" channel="MentariTV.id"><title lang="id">Under The Sea</title></programme>
+<programme start="20250505200000 +0000" stop="20250505210000 +0000" channel="MentariTV.id"><title lang="id">Go Buster &amp; Super Builders</title></programme>
+<programme start="20250505210000 +0000" stop="20250505213000 +0000" channel="MentariTV.id"><title lang="id">Little Angel</title></programme>
+<programme start="20250505213000 +0000" stop="20250505223000 +0000" channel="MentariTV.id"><title lang="id">Cocomelon Eng</title></programme>
+<programme start="20250505223000 +0000" stop="20250506000000 +0000" channel="MentariTV.id"><title lang="id">Babybus</title></programme>
+<programme start="20250506000000 +0000" stop="20250506004500 +0000" channel="MentariTV.id"><title lang="id">Bebefinn</title></programme>
+<programme start="20250506004500 +0000" stop="20250506010000 +0000" channel="MentariTV.id"><title lang="id">Hogi, The Detective</title></programme>
+<programme start="20250506010000 +0000" stop="20250506023000 +0000" channel="MentariTV.id"><title lang="id">Tayo, The Little Bus</title></programme>
+<programme start="20250506023000 +0000" stop="20250506040000 +0000" channel="MentariTV.id"><title lang="id">Katuri</title></programme>
+<programme start="20250506040000 +0000" stop="20250506060000 +0000" channel="MentariTV.id"><title lang="id">Pororo, The Little Penguin</title></programme>
+<programme start="20250506060000 +0000" stop="20250506073000 +0000" channel="MentariTV.id"><title lang="id">Shimajiro 3D</title></programme>
+<programme start="20250506073000 +0000" stop="20250506090000 +0000" channel="MentariTV.id"><title lang="id">Mooboo Mission</title></programme>
+<programme start="20250506090000 +0000" stop="20250506103000 +0000" channel="MentariTV.id"><title lang="id">Little Hakka</title></programme>
+<programme start="20250506103000 +0000" stop="20250506110000 +0000" channel="MentariTV.id"><title lang="id">Cipung Abubu</title></programme>
+<programme start="20250506110000 +0000" stop="20250506120000 +0000" channel="MentariTV.id"><title lang="id">Keluarga Somat</title></programme>
+<programme start="20250506120000 +0000" stop="20250506140000 +0000" channel="MentariTV.id"><title lang="id">Bioskop Keluarga Indonesia (Mannu In Canakkle)</title></programme>
+<programme start="20250506140000 +0000" stop="20250506160000 +0000" channel="MentariTV.id"><title lang="id">Pokemon Season 23: The Journeys</title></programme>
+<programme start="20250506160000 +0000" stop="20250506170000 +0000" channel="MentariTV.id"><title lang="id">Digimon Adventure</title></programme>
 <programme start="20250506170000 +0000" stop="20250506180000 +0000" channel="MentariTV.id"><title lang="id">Madun</title></programme>
 <programme start="20250506180000 +0000" stop="20250506190000 +0000" channel="MentariTV.id"><title lang="id">Just For Laughs</title></programme>
 <programme start="20250506190000 +0000" stop="20250506200000 +0000" channel="MentariTV.id"><title lang="id">Under The Sea</title></programme>
