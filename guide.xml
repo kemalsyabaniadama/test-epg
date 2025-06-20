@@ -1095,35 +1095,6 @@
 <programme start="20250621140000 +0000" stop="20250621150000 +0000" channel="NusantaraTV.id"><title lang="id">NTV Highlight</title></programme>
 <programme start="20250621150000 +0000" stop="20250621160000 +0000" channel="NusantaraTV.id"><title lang="id">Sport Arena</title></programme>
 <programme start="20250621160000 +0000" stop="20250621170000 +0000" channel="NusantaraTV.id"><title lang="id">Kok Bisa Viral</title></programme>
-<programme start="20250619170000 +0000" stop="20250619173000 +0000" channel="RajawaliTV.id"><title lang="id">Jejak Raja Jawa</title></programme>
-<programme start="20250619173000 +0000" stop="20250619180000 +0000" channel="RajawaliTV.id"><title lang="id">Dunia Dalam Cerita</title></programme>
-<programme start="20250619180000 +0000" stop="20250619183000 +0000" channel="RajawaliTV.id"><title lang="id">Terang Kasih</title></programme>
-<programme start="20250619183000 +0000" stop="20250619190000 +0000" channel="RajawaliTV.id"><title lang="id">BESTI Best Informasi</title></programme>
-<programme start="20250619190000 +0000" stop="20250619203000 +0000" channel="RajawaliTV.id"><title lang="id">Movinesia</title></programme>
-<programme start="20250619203000 +0000" stop="20250619210000 +0000" channel="RajawaliTV.id"><title lang="id">Ustadz On The Road</title></programme>
-<programme start="20250619210000 +0000" stop="20250619213000 +0000" channel="RajawaliTV.id"><title lang="id">KOKOM Kompilasi Komedi</title></programme>
-<programme start="20250619213000 +0000" stop="20250619220000 +0000" channel="RajawaliTV.id"><title lang="id">Tawa Satwa</title></programme>
-<programme start="20250619220000 +0000" stop="20250619230000 +0000" channel="RajawaliTV.id"><title lang="id">Riko The Series</title></programme>
-<programme start="20250619230000 +0000" stop="20250620003000 +0000" channel="RajawaliTV.id"><title lang="id">Bread Barbershop</title></programme>
-<programme start="20250620003000 +0000" stop="20250620013000 +0000" channel="RajawaliTV.id"><title lang="id">Metal Cardbot</title></programme>
-<programme start="20250620013000 +0000" stop="20250620020000 +0000" channel="RajawaliTV.id"><title lang="id">Robocar Poli</title></programme>
-<programme start="20250620020000 +0000" stop="20250620023000 +0000" channel="RajawaliTV.id"><title lang="id">Totally Spies</title></programme>
-<programme start="20250620023000 +0000" stop="20250620030000 +0000" channel="RajawaliTV.id"><title lang="id">Rainbow Ruby</title></programme>
-<programme start="20250620030000 +0000" stop="20250620040000 +0000" channel="RajawaliTV.id"><title lang="id">Catch! Teenieping</title></programme>
-<programme start="20250620040000 +0000" stop="20250620043000 +0000" channel="RajawaliTV.id"><title lang="id">BOBA Bombastis Banget</title></programme>
-<programme start="20250620043000 +0000" stop="20250620050000 +0000" channel="RajawaliTV.id"><title lang="id">Tawa Satwa</title></programme>
-<programme start="20250620050000 +0000" stop="20250620063000 +0000" channel="RajawaliTV.id"><title lang="id">Boboiboy</title></programme>
-<programme start="20250620063000 +0000" stop="20250620080000 +0000" channel="RajawaliTV.id"><title lang="id">Super Wings</title></programme>
-<programme start="20250620080000 +0000" stop="20250620100000 +0000" channel="RajawaliTV.id"><title lang="id">Boboiboy Galaxy</title></programme>
-<programme start="20250620100000 +0000" stop="20250620113000 +0000" channel="RajawaliTV.id"><title lang="id">Grizzy And The Lemmings</title></programme>
-<programme start="20250620113000 +0000" stop="20250620123000 +0000" channel="RajawaliTV.id"><title lang="id">Quantum Heroes Dinoster</title></programme>
-<programme start="20250620123000 +0000" stop="20250620140000 +0000" channel="RajawaliTV.id"><title lang="id">Mechamato</title></programme>
-<programme start="20250620140000 +0000" stop="20250620143000 +0000" channel="RajawaliTV.id"><title lang="id">BOBA Bombastis Banget</title></programme>
-<programme start="20250620143000 +0000" stop="20250620150000 +0000" channel="RajawaliTV.id"><title lang="id">Check In Check Informasi</title></programme>
-<programme start="20250620150000 +0000" stop="20250620153000 +0000" channel="RajawaliTV.id"><title lang="id">Top Trending</title></programme>
-<programme start="20250620153000 +0000" stop="20250620160000 +0000" channel="RajawaliTV.id"><title lang="id">STB Sangat Tidak Biasa</title></programme>
-<programme start="20250620160000 +0000" stop="20250620163000 +0000" channel="RajawaliTV.id"><title lang="id">Lensa Indonesia Malam</title></programme>
-<programme start="20250620163000 +0000" stop="20250620170000 +0000" channel="RajawaliTV.id"><title lang="id">Catatan Seputar Investigasi</title></programme>
 <programme start="20250620170000 +0000" stop="20250620173000 +0000" channel="RajawaliTV.id"><title lang="id">Jejak Raja Jawa</title></programme>
 <programme start="20250620173000 +0000" stop="20250620180000 +0000" channel="RajawaliTV.id"><title lang="id">Dunia Dalam Cerita</title></programme>
 <programme start="20250620180000 +0000" stop="20250620183000 +0000" channel="RajawaliTV.id"><title lang="id">Terang Kasih</title></programme>
@@ -1188,6 +1159,25 @@
 <programme start="20250621200000 +0000" stop="20250621203000 +0000" channel="RCTI.id"><title lang="id">Mujizat Itu Nyata</title><desc lang="id">Acara kerohanian agama Kristen.</desc><category lang="id">Culture/Documentaries</category></programme>
 <programme start="20250621203000 +0000" stop="20250621233000 +0000" channel="RCTI.id"><title lang="id">Preman Pensiun S8</title><desc lang="id">Balas dendam belum usai! Bang Edi akan kembali berusaha untuk mengambil alih pasar, jalanan dan terminal dengan formasi yang baru.</desc><category lang="id">Series</category><category lang="id">Series/Comedy</category><category lang="id">Series/Drama</category></programme>
 <programme start="20250621233000 +0000" stop="20250622003000 +0000" channel="RCTI.id"><title lang="id">Upin Ipin</title><desc lang="id">Serial televisi animasi kartun anak-anak yang mengisahkan kehidupan Upin &amp; Ipin, sepasang anak laki-laki kembar berusia 5 tahun yang tinggal bersama kakaknya bernama Kak Ros dan neneknya yang biasa dipanggil Opa di Kampung Durian Runtuh.</desc><category lang="id">Series/Children</category><category lang="id">Series</category><category lang="id">Children/Series</category><category lang="id">Children</category><category lang="id">Series/Animated</category></programme>
+<programme start="20250619183000 +0000" stop="20250619203000 +0000" channel="RodjaTV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20250619203000 +0000" stop="20250619223000 +0000" channel="RodjaTV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20250619223000 +0000" stop="20250620000000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20250620000000 +0000" stop="20250620003000 +0000" channel="RodjaTV.id"><title lang="id">Fatawa</title></programme>
+<programme start="20250620003000 +0000" stop="20250620010000 +0000" channel="RodjaTV.id"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20250620010000 +0000" stop="20250620030000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20250620030000 +0000" stop="20250620043000 +0000" channel="RodjaTV.id"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20250620043000 +0000" stop="20250620060000 +0000" channel="RodjaTV.id"><title lang="id">Khutbah dan Shalat Jumat</title></programme>
+<programme start="20250620060000 +0000" stop="20250620073000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20250620073000 +0000" stop="20250620080000 +0000" channel="RodjaTV.id"><title lang="id">Ayat Dan Tafsir Pilihan</title></programme>
+<programme start="20250620080000 +0000" stop="20250620083000 +0000" channel="RodjaTV.id"><title lang="id">Qola Rasul</title></programme>
+<programme start="20250620083000 +0000" stop="20250620093000 +0000" channel="RodjaTV.id"><title lang="id">Untaian Mutiara Nasihat</title></programme>
+<programme start="20250620093000 +0000" stop="20250620103000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20250620103000 +0000" stop="20250620113000 +0000" channel="RodjaTV.id"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20250620113000 +0000" stop="20250620123000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20250620123000 +0000" stop="20250620130000 +0000" channel="RodjaTV.id"><title lang="id">Qola Rasul</title></programme>
+<programme start="20250620130000 +0000" stop="20250620150000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20250620150000 +0000" stop="20250620163000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20250620163000 +0000" stop="20250620183000 +0000" channel="RodjaTV.id"><title lang="id">Sign Off</title></programme>
 <programme start="20250620183000 +0000" stop="20250620203000 +0000" channel="RodjaTV.id"><title lang="id">Sign Off</title></programme>
 <programme start="20250620203000 +0000" stop="20250620223000 +0000" channel="RodjaTV.id"><title lang="id">Sign Off</title></programme>
 <programme start="20250620223000 +0000" stop="20250620233000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
