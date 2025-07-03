@@ -1,4 +1,4 @@
-#EXTM3U  x-tvg-url=https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml refresh="1440" max-conn="1" refresh="24"
+#EXTM3U  x-tvg-url=https://raw.githubusercontent.com/kemalsyabaniadama/test-epg/main/guide.xml refresh="1440" max-conn="1" refresh="24"
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/50px-Antv_logo.svg.png" tvg-id="ANTV.id" group-title="192.168.1.2", ANTV
 http://192.168.1.2:8999/stream=24.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berita_Nasional_logo.svg/75px-Berita_Nasional_logo.svg.png" tvg-id="BeritaNasionalTV.id" group-title="192.168.1.2", Berita Nasional TV
