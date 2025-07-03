@@ -39,9 +39,9 @@ http://192.168.1.2:8999/stream=1.ts
 http://192.168.1.2:8999/stream=8.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MagnaChannel.png/50px-MagnaChannel.png" tvg-id="MagnaChannel.id" group-title="192.168.1.2", Magna Channel
 http://192.168.1.2:8999/stream=15.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/75px-MDTV_logo.svg.png" tvg-id="Net.id" group-title="192.168.1.2", MDTV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/75px-MDTV_logo.svg.png" tvg-id="NET.id" group-title="192.168.1.2", MDTV
 http://192.168.1.2:8999/stream=35.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/75px-MDTV_logo.svg.png" tvg-id="Net.id" group-title="192.168.1.2", MDTV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/75px-MDTV_logo.svg.png" tvg-id="NET.id" group-title="192.168.1.2", MDTV
 http://192.168.1.2:8999/stream=25.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/50px-Mentari_TV.svg.png" tvg-id="MentariTV.id" group-title="192.168.1.2", Mentari TV
 http://192.168.1.2:8999/stream=5.ts
