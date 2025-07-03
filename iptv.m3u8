@@ -7,7 +7,7 @@ http://192.168.1.2:8999/stream=47.ts
 http://192.168.1.2:8999/stream=17.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Logo_BRTV.png/50px-Logo_BRTV.png" tvg-id="BRTV.id" group-title="192.168.1.2", BRTV
 http://192.168.1.2:8999/stream=45.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/75px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" tvg-id="BeritaSatuNewsChannel.id" group-title="192.168.1.2", BTV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/75px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" tvg-id="BTV.id" group-title="192.168.1.2", BTV
 http://192.168.1.2:8999/stream=10.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CNBC_Indonesia_2024.svg/75px-CNBC_Indonesia_2024.svg.png" tvg-id="CNBCIndonesia.id" group-title="192.168.1.2", CNBC Indonesia
 http://192.168.1.2:8999/stream=32.ts
@@ -31,17 +31,17 @@ http://192.168.1.2:8999/stream=12.ts
 http://192.168.1.2:8999/stream=41.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/cc/Logo_Jak_TV_%282018%29.png/50px-Logo_Jak_TV_%282018%29.png" tvg-id="JakTV.id" group-title="192.168.1.2", Jak TV
 http://192.168.1.2:8999/stream=31.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/75px-Jawa_Pos_TV_2024.svg.png" tvg-id="JawaposTV.id" group-title="192.168.1.2", Jawapos TV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/75px-Jawa_Pos_TV_2024.svg.png" tvg-id="JPMTV.id" group-title="192.168.1.2", Jawapos TV
 http://192.168.1.2:8999/stream=50.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/KOMPAS_TV_%282017%29.svg/60px-KOMPAS_TV_%282017%29.svg.png" tvg-id="KompasTV.id" group-title="192.168.1.2", Kompas TV
 http://192.168.1.2:8999/stream=1.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/21/KTV_28UHF.png/50px-KTV_28UHF.png" tvg-id="KTV.id" group-title="192.168.1.2", K T V
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/21/KTV_28UHF.png/50px-KTV_28UHF.png" tvg-id="KTV.id" group-title="192.168.1.2", KTV
 http://192.168.1.2:8999/stream=8.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MagnaChannel.png/50px-MagnaChannel.png" tvg-id="MagnaChannel.id" group-title="192.168.1.2", Magna Channel
 http://192.168.1.2:8999/stream=15.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/75px-MDTV_logo.svg.png" tvg-id="MDTV.id" group-title="192.168.1.2", MDTV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/75px-MDTV_logo.svg.png" tvg-id="Net.id" group-title="192.168.1.2", MDTV
 http://192.168.1.2:8999/stream=35.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/75px-MDTV_logo.svg.png" tvg-id="MDTV.id" group-title="192.168.1.2", MDTV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/75px-MDTV_logo.svg.png" tvg-id="Net.id" group-title="192.168.1.2", MDTV
 http://192.168.1.2:8999/stream=25.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/50px-Mentari_TV.svg.png" tvg-id="MentariTV.id" group-title="192.168.1.2", Mentari TV
 http://192.168.1.2:8999/stream=5.ts
@@ -75,7 +75,7 @@ http://192.168.1.2:8999/stream=36.ts
 http://192.168.1.2:8999/stream=39.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/50px-TvOne_2023.svg.png" tvg-id="tvOne.id" group-title="192.168.1.2", TVOne
 http://192.168.1.2:8999/stream=23.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/50px-TVRILogo2019.svg.png" tvg-id="TVRI.id" group-title="192.168.1.2", TVRI
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/50px-TVRILogo2019.svg.png" tvg-id="TVRINasional.id" group-title="192.168.1.2", TVRI
 http://192.168.1.2:8999/stream=38.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TVRI_JAKARTA_2023.svg/50px-TVRI_JAKARTA_2023.svg.png" tvg-id="TVRIDKIJakarta.id" group-title="192.168.1.2", TVRI Jakarta
 http://192.168.1.2:8999/stream=43.ts
