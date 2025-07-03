@@ -8,7 +8,7 @@
   <channel site="vidio.com" lang="id" xmltv_id="ElshintaTV.id" site_id="10975">Elshinta TV</channel>
   <channel site="vidio.com" lang="id" xmltv_id="GarudaTV.id" site_id="18162">Garuda TV</channel>
   <channel site="visionplus.id" lang="id" xmltv_id="GTV.id" site_id="00000000000000000003">GTV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="Indosiar.id" site_id="indosiar">Indosiar</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="Indosiar.id" site_id="205">Indosiar</channel>
   <channel site="visionplus.id" lang="id" xmltv_id="iNews.id" site_id="00000000000000000004">iNews</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="JakTV.id" site_id="jaktv">JakTV</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="JawaPosTV.id" site_id="jawapos">Jawa Pos TV</channel>
@@ -23,11 +23,10 @@
   <channel site="visionplus.id" lang="id" xmltv_id="RCTI.id" site_id="00000000000000000001">RCTI</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="RajawaliTV.id" site_id="rtv">Rajawali TV</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="RodjaTV.id" site_id="rodjatv">Rodja TV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="SCTV.id" site_id="sctv">SCTV</channel>
+  <channel site="vidio.com" lang="id" xmltv_id="SCTV.id" site_id="204">SCTV</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="Trans7.id" site_id="trans7">Trans7</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="TransTV.id" site_id="transtv">TransTV</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="TVMu.id" site_id="muhammadiyahtv">Muhammadiyah TV</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="tvOne.id" site_id="tvone">TV One</channel>
   <channel site="indihometv.com" lang="id" xmltv_id="TVRINasional.id" site_id="tvri">TVRI</channel>
-  <channel site="dens.tv" lang="id" xmltv_id="TVRISport.id" site_id="118">TVRI Sport</channel>
 </channels>
