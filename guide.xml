@@ -780,6 +780,10 @@
 <programme start="20250720120000 +0000" stop="20250720140000 +0000" channel="MentariTV.id"><title lang="id">Bioskop Keluarga Indonesia (Akhir Yang Baru: Supa Strikas Vs Invincible United)</title></programme>
 <programme start="20250720140000 +0000" stop="20250720160000 +0000" channel="MentariTV.id"><title lang="id">Pokemon Season 23: The Journeys</title></programme>
 <programme start="20250720160000 +0000" stop="20250720170000 +0000" channel="MentariTV.id"><title lang="id">Digimon Adventure</title></programme>
+<programme start="20250720170000 +0000" stop="20250720180000 +0000" channel="MentariTV.id"><title lang="id">Madun</title></programme>
+<programme start="20250720180000 +0000" stop="20250720190000 +0000" channel="MentariTV.id"><title lang="id">Oddbods</title></programme>
+<programme start="20250720190000 +0000" stop="20250720200000 +0000" channel="MentariTV.id"><title lang="id">Extreme Snakes</title></programme>
+<programme start="20250720200000 +0000" stop="20250720210000 +0000" channel="MentariTV.id"><title lang="id">Morphle</title></programme>
 <programme start="20250719170000 +0000" stop="20250719170500 +0000" channel="MetroTV.id"><title lang="id">Headline News</title></programme>
 <programme start="20250719170500 +0000" stop="20250719173000 +0000" channel="MetroTV.id"><title lang="id">Metro Hari Ini</title></programme>
 <programme start="20250719173000 +0000" stop="20250719180000 +0000" channel="MetroTV.id"><title lang="id">Metro Hari Ini</title></programme>
@@ -975,22 +979,8 @@
 <programme start="20250721220000 +0000" stop="20250721230000 +0000" channel="MNCTV.id"><title lang="id">MNC TV</title><desc lang="id">MNCTV adalah stasiun televisi swasta di Indonesia yang mulai mengudara pada 1990. Menyajikan program beragam seperti drama, musik, dan acara anak-anak, MNCTV menjadi salah satu kanal favorit pemirsa Indonesia.</desc><category lang="id">Entertainment</category></programme>
 <programme start="20250721230000 +0000" stop="20250721233000 +0000" channel="MNCTV.id"><title lang="id">MNC TV</title><desc lang="id">MNCTV adalah stasiun televisi swasta di Indonesia yang mulai mengudara pada 1990. Menyajikan program beragam seperti drama, musik, dan acara anak-anak, MNCTV menjadi salah satu kanal favorit pemirsa Indonesia.</desc><category lang="id">Entertainment</category></programme>
 <programme start="20250721233000 +0000" stop="20250722000000 +0000" channel="MNCTV.id"><title lang="id">MNC TV</title><desc lang="id">MNCTV adalah stasiun televisi swasta di Indonesia yang mulai mengudara pada 1990. Menyajikan program beragam seperti drama, musik, dan acara anak-anak, MNCTV menjadi salah satu kanal favorit pemirsa Indonesia.</desc><category lang="id">Entertainment</category></programme>
-<programme start="20250719173000 +0000" stop="20250719190000 +0000" channel="Moji.id"><title lang="id">One Fight Night</title></programme>
-<programme start="20250719190000 +0000" stop="20250719210000 +0000" channel="Moji.id"><title lang="id">VNL 2025 Men</title></programme>
-<programme start="20250719210000 +0000" stop="20250719220000 +0000" channel="Moji.id"><title lang="id">VNL 2025</title></programme>
-<programme start="20250719220000 +0000" stop="20250719231500 +0000" channel="Moji.id"><title lang="id">Moji Sport</title></programme>
-<programme start="20250719231500 +0000" stop="20250720000000 +0000" channel="Moji.id"><title lang="id">Liputan 6 Pagi Moji</title></programme>
-<programme start="20250720000000 +0000" stop="20250720010000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
-<programme start="20250720010000 +0000" stop="20250720020000 +0000" channel="Moji.id"><title lang="id">Trust</title></programme>
-<programme start="20250720020000 +0000" stop="20250720040000 +0000" channel="Moji.id"><title lang="id">VNL 2025 Men (Live)</title></programme>
-<programme start="20250720040000 +0000" stop="20250720053000 +0000" channel="Moji.id"><title lang="id">Tercyduk</title></programme>
-<programme start="20250720053000 +0000" stop="20250720073000 +0000" channel="Moji.id"><title lang="id">VNL 2025 Men (Live)</title></programme>
-<programme start="20250720073000 +0000" stop="20250720083000 +0000" channel="Moji.id"><title lang="id">Moji Drama</title></programme>
-<programme start="20250720083000 +0000" stop="20250720110000 +0000" channel="Moji.id"><title lang="id">Sea V League 2025 Men (Live)</title></programme>
-<programme start="20250720110000 +0000" stop="20250720140000 +0000" channel="Moji.id"><title lang="id">Sea V League 2025 Men (Live)</title></programme>
-<programme start="20250720140000 +0000" stop="20250720163000 +0000" channel="Moji.id"><title lang="id">VNL 2025 Men (Live)</title></programme>
 <programme start="20250720163000 +0000" stop="20250720183000 +0000" channel="Moji.id"><title lang="id">Proliga 2025</title></programme>
-<programme start="20250720183000 +0000" stop="20250720203000 +0000" channel="Moji.id"><title lang="id">VNL 2025 Men (Live)</title></programme>
+<programme start="20250720183000 +0000" stop="20250720203000 +0000" channel="Moji.id"><title lang="id">VNL 2025 Men</title></programme>
 <programme start="20250720203000 +0000" stop="20250720220000 +0000" channel="Moji.id"><title lang="id">VNL 2025</title></programme>
 <programme start="20250720220000 +0000" stop="20250720231500 +0000" channel="Moji.id"><title lang="id">Moji Sport</title></programme>
 <programme start="20250720231500 +0000" stop="20250721000000 +0000" channel="Moji.id"><title lang="id">Liputan 6 Pagi Moji</title></programme>
