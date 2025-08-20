@@ -28,6 +28,21 @@
 <channel id="TVMu.id"><display-name>Muhammadiyah TV</display-name><icon src="https://i.imgur.com/rR2iPBk.png"/><url>https://indihometv.com</url></channel>
 <channel id="tvOne.id"><display-name>TV One</display-name><icon src="https://i.imgur.com/LCzQYdy.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVRINasional.id"><display-name>TVRI</display-name><url>https://indihometv.com</url></channel>
+<programme start="20250819170000 +0000" stop="20250819190000 +0000" channel="ANTV.id"><title lang="id">Sinema Horor Asia : Keranda Kuntilanak</title></programme>
+<programme start="20250819190000 +0000" stop="20250819213000 +0000" channel="ANTV.id"><title lang="id">Anandhi</title></programme>
+<programme start="20250819213000 +0000" stop="20250819220000 +0000" channel="ANTV.id"><title lang="id">Senyum Iman</title></programme>
+<programme start="20250819220000 +0000" stop="20250819223000 +0000" channel="ANTV.id"><title lang="id">Cakrawala</title></programme>
+<programme start="20250819223000 +0000" stop="20250819230000 +0000" channel="ANTV.id"><title lang="id">Kasus Viral</title></programme>
+<programme start="20250819230000 +0000" stop="20250819233000 +0000" channel="ANTV.id"><title lang="id">Masquerade</title></programme>
+<programme start="20250819233000 +0000" stop="20250820003000 +0000" channel="ANTV.id"><title lang="id">Folbec</title></programme>
+<programme start="20250820003000 +0000" stop="20250820020000 +0000" channel="ANTV.id"><title lang="id">Terpaksa Menikahi Tuan Muda</title></programme>
+<programme start="20250820020000 +0000" stop="20250820040000 +0000" channel="ANTV.id"><title lang="id">Takdir Lonceng Cinta</title></programme>
+<programme start="20250820040000 +0000" stop="20250820070000 +0000" channel="ANTV.id"><title lang="id">Mega Bollywood : My Name is Khan</title></programme>
+<programme start="20250820070000 +0000" stop="20250820090000 +0000" channel="ANTV.id"><title lang="id">Parineeti</title></programme>
+<programme start="20250820090000 +0000" stop="20250820110000 +0000" channel="ANTV.id"><title lang="id">Cinta Untuk Guddan</title></programme>
+<programme start="20250820110000 +0000" stop="20250820130000 +0000" channel="ANTV.id"><title lang="id">Bioskop Asia : Chai Lai Angels</title></programme>
+<programme start="20250820130000 +0000" stop="20250820150000 +0000" channel="ANTV.id"><title lang="id">Bioskop Asia : Warriors 2</title></programme>
+<programme start="20250820150000 +0000" stop="20250820170000 +0000" channel="ANTV.id"><title lang="id">Sinema Spesial : Night Mare Side</title></programme>
 <programme start="20250820170000 +0000" stop="20250820190000 +0000" channel="ANTV.id"><title lang="id">Sinema Horor Asia : Air Terjun Pengantin</title></programme>
 <programme start="20250820190000 +0000" stop="20250820213000 +0000" channel="ANTV.id"><title lang="id">Anandhi</title></programme>
 <programme start="20250820213000 +0000" stop="20250820220000 +0000" channel="ANTV.id"><title lang="id">Senyum Iman</title></programme>
