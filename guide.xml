@@ -189,32 +189,6 @@
 <programme start="20250901150000 +0000" stop="20250901153000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
 <programme start="20250901153000 +0000" stop="20250901164500 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
 <programme start="20250901164500 +0000" stop="20250901171500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
-<programme start="20250901171500 +0000" stop="20250901174500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
-<programme start="20250901174500 +0000" stop="20250901191500 +0000" channel="CNNIndonesia.id"><title lang="id">Prime Plus With Bram</title></programme>
-<programme start="20250901191500 +0000" stop="20250901194500 +0000" channel="CNNIndonesia.id"><title lang="id">World Now</title></programme>
-<programme start="20250901194500 +0000" stop="20250901210000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
-<programme start="20250901210000 +0000" stop="20250901214500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
-<programme start="20250901214500 +0000" stop="20250901221500 +0000" channel="CNNIndonesia.id"><title lang="id">Gapai Kemuliaan</title></programme>
-<programme start="20250901221500 +0000" stop="20250901233000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
-<programme start="20250901233000 +0000" stop="20250902003000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
-<programme start="20250902003000 +0000" stop="20250902013000 +0000" channel="CNNIndonesia.id"><title lang="id">Good Morning</title></programme>
-<programme start="20250902013000 +0000" stop="20250902020000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
-<programme start="20250902020000 +0000" stop="20250902023000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
-<programme start="20250902023000 +0000" stop="20250902030000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Today</title></programme>
-<programme start="20250902030000 +0000" stop="20250902040000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Business</title></programme>
-<programme start="20250902040000 +0000" stop="20250902054500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Hour</title></programme>
-<programme start="20250902054500 +0000" stop="20250902064500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Business</title></programme>
-<programme start="20250902064500 +0000" stop="20250902071500 +0000" channel="CNNIndonesia.id"><title lang="id">World Now</title></programme>
-<programme start="20250902071500 +0000" stop="20250902081500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
-<programme start="20250902081500 +0000" stop="20250902090000 +0000" channel="CNNIndonesia.id"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20250902090000 +0000" stop="20250902093000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
-<programme start="20250902093000 +0000" stop="20250902111500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
-<programme start="20250902111500 +0000" stop="20250902120000 +0000" channel="CNNIndonesia.id"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20250902120000 +0000" stop="20250902133000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
-<programme start="20250902133000 +0000" stop="20250902150000 +0000" channel="CNNIndonesia.id"><title lang="id">Inside Politics With Diana</title></programme>
-<programme start="20250902150000 +0000" stop="20250902153000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
-<programme start="20250902153000 +0000" stop="20250902164500 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
-<programme start="20250902164500 +0000" stop="20250902171500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
 <programme start="20250831170000 +0000" stop="20250831190000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
 <programme start="20250831190000 +0000" stop="20250831210000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
 <programme start="20250831210000 +0000" stop="20250831220000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
@@ -1041,6 +1015,34 @@
 <programme start="20250901153000 +0000" stop="20250901160000 +0000" channel="RajawaliTV.id"><title lang="id">Catatan Seputar Investigasi</title></programme>
 <programme start="20250901160000 +0000" stop="20250901163000 +0000" channel="RajawaliTV.id"><title lang="id">Si Paling Trending!</title></programme>
 <programme start="20250901163000 +0000" stop="20250901170000 +0000" channel="RajawaliTV.id"><title lang="id">Di Ujung Rindu</title></programme>
+<programme start="20250901170000 +0000" stop="20250901173000 +0000" channel="RajawaliTV.id"><title lang="id">Di Ujung Rindu</title></programme>
+<programme start="20250901173000 +0000" stop="20250901180000 +0000" channel="RajawaliTV.id"><title lang="id">Boba Bombastis Banget</title></programme>
+<programme start="20250901180000 +0000" stop="20250901183000 +0000" channel="RajawaliTV.id"><title lang="id">Cahaya Bagi Negeri</title></programme>
+<programme start="20250901183000 +0000" stop="20250901190000 +0000" channel="RajawaliTV.id"><title lang="id">Besti Best Informasi</title></programme>
+<programme start="20250901190000 +0000" stop="20250901203000 +0000" channel="RajawaliTV.id"><title lang="id">Movinesia</title></programme>
+<programme start="20250901203000 +0000" stop="20250901210000 +0000" channel="RajawaliTV.id"><title lang="id">Ustadz On The Road</title></programme>
+<programme start="20250901210000 +0000" stop="20250901213000 +0000" channel="RajawaliTV.id"><title lang="id">KOKOM Kompilasi Komedi</title></programme>
+<programme start="20250901213000 +0000" stop="20250901223000 +0000" channel="RajawaliTV.id"><title lang="id">Riko The Series</title></programme>
+<programme start="20250901223000 +0000" stop="20250901230000 +0000" channel="RajawaliTV.id"><title lang="id">New Kongsuni And Friends</title></programme>
+<programme start="20250901230000 +0000" stop="20250902010000 +0000" channel="RajawaliTV.id"><title lang="id">Bread Barbershop</title></programme>
+<programme start="20250902010000 +0000" stop="20250902020000 +0000" channel="RajawaliTV.id"><title lang="id">Metal Cardbot</title></programme>
+<programme start="20250902020000 +0000" stop="20250902030000 +0000" channel="RajawaliTV.id"><title lang="id">Beyblade X</title></programme>
+<programme start="20250902030000 +0000" stop="20250902033000 +0000" channel="RajawaliTV.id"><title lang="id">Gigantosaurus</title></programme>
+<programme start="20250902033000 +0000" stop="20250902043000 +0000" channel="RajawaliTV.id"><title lang="id">Fire Safety With Roy</title></programme>
+<programme start="20250902043000 +0000" stop="20250902050000 +0000" channel="RajawaliTV.id"><title lang="id">Tawa Satwa</title></programme>
+<programme start="20250902050000 +0000" stop="20250902063000 +0000" channel="RajawaliTV.id"><title lang="id">Boboiboy</title></programme>
+<programme start="20250902063000 +0000" stop="20250902080000 +0000" channel="RajawaliTV.id"><title lang="id">Super Wings</title></programme>
+<programme start="20250902080000 +0000" stop="20250902083000 +0000" channel="RajawaliTV.id"><title lang="id">Quantum Heroes Dinoster</title></programme>
+<programme start="20250902083000 +0000" stop="20250902100000 +0000" channel="RajawaliTV.id"><title lang="id">Boboiboy Galaxy</title></programme>
+<programme start="20250902100000 +0000" stop="20250902110000 +0000" channel="RajawaliTV.id"><title lang="id">Grizzy And The Lemmings</title></programme>
+<programme start="20250902110000 +0000" stop="20250902123000 +0000" channel="RajawaliTV.id"><title lang="id">Ejen Ali</title></programme>
+<programme start="20250902123000 +0000" stop="20250902140000 +0000" channel="RajawaliTV.id"><title lang="id">Mechamato</title></programme>
+<programme start="20250902140000 +0000" stop="20250902143000 +0000" channel="RajawaliTV.id"><title lang="id">Si Paling Trending!</title></programme>
+<programme start="20250902143000 +0000" stop="20250902150000 +0000" channel="RajawaliTV.id"><title lang="id">Terkepo-Kepo</title></programme>
+<programme start="20250902150000 +0000" stop="20250902153000 +0000" channel="RajawaliTV.id"><title lang="id">Lensa Indonesia Malam</title></programme>
+<programme start="20250902153000 +0000" stop="20250902160000 +0000" channel="RajawaliTV.id"><title lang="id">Catatan Seputar Investigasi</title></programme>
+<programme start="20250902160000 +0000" stop="20250902163000 +0000" channel="RajawaliTV.id"><title lang="id">Si Paling Trending!</title></programme>
+<programme start="20250902163000 +0000" stop="20250902170000 +0000" channel="RajawaliTV.id"><title lang="id">Di Ujung Rindu</title></programme>
 <programme start="20250831234500 +0000" stop="20250901010000 +0000" channel="RCTI.id"><title lang="id">Upin Ipin</title><desc lang="id">Serial televisi animasi kartun anak-anak yang mengisahkan kehidupan Upin &amp; Ipin, sepasang anak laki-laki kembar berusia 5 tahun yang tinggal bersama kakaknya bernama Kak Ros dan neneknya yang biasa dipanggil Opa di Kampung Durian Runtuh.</desc><category lang="id">Series/Children</category><category lang="id">Series</category><category lang="id">Children/Series</category><category lang="id">Children</category><category lang="id">Series/Animated</category></programme>
 <programme start="20250901010000 +0000" stop="20250901013000 +0000" channel="RCTI.id"><title lang="id">Kiko</title><desc lang="id">Kiko, seekor anak ikan mas koki yang sangat mandiri, walaupun ia anak tunggal. Kiko selalu riang dan memiliki empat sahabat baik yaitu Lola si ikan diskus, Ting Ting si kepiting, Patino si ikan patin dan Poli si ikan cupang. Di sisi lain, sosok antagonis, Karkus si ikan lele dan Pupus si belut, selalu membuat ricuh kehidupan Kiko.</desc><category lang="id">Children/Cartoons</category><category lang="id">Children</category></programme>
 <programme start="20250901013000 +0000" stop="20250901044500 +0000" channel="RCTI.id"><title lang="id">Doraemon (RCTI)</title><desc lang="id">Kesialan Doraemon, robot kucing dari masa depan, yang dikirim kembali ke masa lalu untuk membantu menjadikan Nobita, seorang anak laki-laki tanpa banyak bakat, menjadi orang yang lebih baik.</desc><category lang="id">Series</category><category lang="id">Series/Comedy</category><category lang="id">Series/Drama</category><category lang="id">Series/Animated</category></programme>
