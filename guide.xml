@@ -24,7 +24,7 @@
 <channel id="RodjaTV.id"><display-name>Rodja TV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://indihometv.com</url></channel>
 <channel id="SCTV.id"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://vidio.com</url></channel>
 <channel id="Trans7.id"><display-name>Trans7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://indihometv.com</url></channel>
-<channel id="TransTV.id"><display-name>TransTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="TransTV.id"><display-name>TransTV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVMu.id"><display-name>Muhammadiyah TV</display-name><icon src="https://i.imgur.com/rR2iPBk.png"/><url>https://indihometv.com</url></channel>
 <channel id="tvOne.id"><display-name>TV One</display-name><icon src="https://i.imgur.com/LCzQYdy.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVRINasional.id"><display-name>TVRI</display-name><url>https://indihometv.com</url></channel>
