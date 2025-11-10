@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251110">
 <channel id="ANTV.id"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRINasional.id"><display-name>TVRI</display-name><url>https://indihometv.com</url></channel>
-<channel id="tvOne.id"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVMu.id"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
-<channel id="TransTV.id"><display-name>TransTV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://indihometv.com</url></channel>
+<channel id="BTV.id"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNNIndonesia.id"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNBCIndonesia.id"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
+<channel id="DAAITV.id"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
 <channel id="Trans7.id"><display-name>Trans7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://indihometv.com</url></channel>
 <channel id="SCTV.id"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://vidio.com</url></channel>
 <channel id="RodjaTV.id"><display-name>Rodja TV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://indihometv.com</url></channel>
@@ -24,10 +24,10 @@
 <channel id="GTV.id"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://visionplus.id</url></channel>
 <channel id="GarudaTV.id"><display-name>Garuda TV</display-name><icon src="https://i.imgur.com/sXsAcZ3.png"/><url>https://vidio.com</url></channel>
 <channel id="ElshintaTV.id"><display-name>Elshinta TV</display-name><icon src="https://i.imgur.com/x5uoy2H.png"/><url>https://vidio.com</url></channel>
-<channel id="DAAITV.id"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNNIndonesia.id"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNBCIndonesia.id"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
-<channel id="BTV.id"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVMu.id"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRINasional.id"><display-name>TVRI</display-name><url>https://indihometv.com</url></channel>
+<channel id="tvOne.id"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="TransTV.id"><display-name>TransTV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://indihometv.com</url></channel>
 <programme start="20251109170000 +0000" stop="20251109190000 +0000" channel="ANTV.id"><title lang="id">Sinema Horor Asia : Keranda Kuntilanak</title></programme>
 <programme start="20251109190000 +0000" stop="20251109213000 +0000" channel="ANTV.id"><title lang="id">Anandhi</title></programme>
 <programme start="20251109213000 +0000" stop="20251109220000 +0000" channel="ANTV.id"><title lang="id">Senyum Iman</title></programme>
@@ -58,227 +58,242 @@
 <programme start="20251111110000 +0000" stop="20251111130000 +0000" channel="ANTV.id"><title lang="id">Bioskop Asia : Mahaut</title></programme>
 <programme start="20251111130000 +0000" stop="20251111150000 +0000" channel="ANTV.id"><title lang="id">Bioskop Asia : The Prodigal Son</title></programme>
 <programme start="20251111150000 +0000" stop="20251111170000 +0000" channel="ANTV.id"><title lang="id">Sinema Spesial : Bekas Rumah Sakit</title></programme>
-<programme start="20251110170000 +0000" stop="20251110173000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Malam</title></programme>
-<programme start="20251110173000 +0000" stop="20251110180000 +0000" channel="TVRINasional.id"><title lang="id">Flasback</title></programme>
-<programme start="20251110180000 +0000" stop="20251110190000 +0000" channel="TVRINasional.id"><title lang="id">PT Bule</title></programme>
-<programme start="20251110190000 +0000" stop="20251110200000 +0000" channel="TVRINasional.id"><title lang="id">Kongkow On the Air</title></programme>
-<programme start="20251110200000 +0000" stop="20251110203000 +0000" channel="TVRINasional.id"><title lang="id">Inspirasi Indonesia</title></programme>
-<programme start="20251110203000 +0000" stop="20251110210000 +0000" channel="TVRINasional.id"><title lang="id">OTO Screen</title></programme>
-<programme start="20251110210000 +0000" stop="20251110213000 +0000" channel="TVRINasional.id"><title lang="id">Jejak Islam</title></programme>
-<programme start="20251110213000 +0000" stop="20251110230000 +0000" channel="TVRINasional.id"><title lang="id">Serambi Islami</title></programme>
-<programme start="20251110230000 +0000" stop="20251111000000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Pagi</title></programme>
-<programme start="20251111000000 +0000" stop="20251111010000 +0000" channel="TVRINasional.id"><title lang="id">News Bulletin: Jendela Negeri</title></programme>
-<programme start="20251111010000 +0000" stop="20251111020000 +0000" channel="TVRINasional.id"><title lang="id">Bersama Perempuan</title></programme>
-<programme start="20251111020000 +0000" stop="20251111023000 +0000" channel="TVRINasional.id"><title lang="id">Mari Menggambar</title></programme>
-<programme start="20251111023000 +0000" stop="20251111033000 +0000" channel="TVRINasional.id"><title lang="id">Indonesia Sehat - Halo Dokter</title></programme>
-<programme start="20251111033000 +0000" stop="20251111040000 +0000" channel="TVRINasional.id"><title lang="id">Dapur Devina</title></programme>
-<programme start="20251111040000 +0000" stop="20251111050000 +0000" channel="TVRINasional.id"><title lang="id">Seblak Show</title></programme>
-<programme start="20251111050000 +0000" stop="20251111060000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Siang</title></programme>
-<programme start="20251111060000 +0000" stop="20251111063000 +0000" channel="TVRINasional.id"><title lang="id">Feature LKBN Antara</title></programme>
-<programme start="20251111063000 +0000" stop="20251111070000 +0000" channel="TVRINasional.id"><title lang="id">Bertani Itu Keren</title></programme>
-<programme start="20251111070000 +0000" stop="20251111073000 +0000" channel="TVRINasional.id"><title lang="id">Pesona Indonesia</title></programme>
-<programme start="20251111073000 +0000" stop="20251111080000 +0000" channel="TVRINasional.id"><title lang="id">Inspirasi Indonesia</title></programme>
-<programme start="20251111080000 +0000" stop="20251111083000 +0000" channel="TVRINasional.id"><title lang="id">Mimbar Agama - Kristen</title></programme>
-<programme start="20251111083000 +0000" stop="20251111090000 +0000" channel="TVRINasional.id"><title lang="id">Tapal Batas</title></programme>
-<programme start="20251111090000 +0000" stop="20251111100000 +0000" channel="TVRINasional.id"><title lang="id">Pengen Beken</title></programme>
-<programme start="20251111100000 +0000" stop="20251111103000 +0000" channel="TVRINasional.id"><title lang="id">Pilihan Rakyat</title></programme>
-<programme start="20251111103000 +0000" stop="20251111110000 +0000" channel="TVRINasional.id"><title lang="id">Sketsa Pemilu</title></programme>
-<programme start="20251111110000 +0000" stop="20251111120000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Petang</title></programme>
-<programme start="20251111120000 +0000" stop="20251111131500 +0000" channel="TVRINasional.id"><title lang="id">Indonesia Bicara</title></programme>
-<programme start="20251111131500 +0000" stop="20251111140000 +0000" channel="TVRINasional.id"><title lang="id">Warung Pengkolan</title></programme>
-<programme start="20251111140000 +0000" stop="20251111143000 +0000" channel="TVRINasional.id"><title lang="id">Dunia Dalam Berita</title></programme>
-<programme start="20251111143000 +0000" stop="20251111153000 +0000" channel="TVRINasional.id"><title lang="id">Jazz Corner</title></programme>
-<programme start="20251111153000 +0000" stop="20251111163000 +0000" channel="TVRINasional.id"><title lang="id">Home Stay Riweuh</title></programme>
-<programme start="20251111163000 +0000" stop="20251111170000 +0000" channel="TVRINasional.id"><title lang="id">Monitor Olahraga</title></programme>
-<programme start="20251109170000 +0000" stop="20251109173000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Malam</title></programme>
-<programme start="20251109173000 +0000" stop="20251109180000 +0000" channel="TVRINasional.id"><title lang="id">Flasback</title></programme>
-<programme start="20251109180000 +0000" stop="20251109190000 +0000" channel="TVRINasional.id"><title lang="id">SOS Show</title></programme>
-<programme start="20251109190000 +0000" stop="20251109200000 +0000" channel="TVRINasional.id"><title lang="id">Kongkow On the Air</title></programme>
-<programme start="20251109200000 +0000" stop="20251109203000 +0000" channel="TVRINasional.id"><title lang="id">Inspirasi Indonesia</title></programme>
-<programme start="20251109203000 +0000" stop="20251109210000 +0000" channel="TVRINasional.id"><title lang="id">OTO Screen</title></programme>
-<programme start="20251109210000 +0000" stop="20251109213000 +0000" channel="TVRINasional.id"><title lang="id">Jejak Islam</title></programme>
-<programme start="20251109213000 +0000" stop="20251109230000 +0000" channel="TVRINasional.id"><title lang="id">Serambi Islami</title></programme>
-<programme start="20251109230000 +0000" stop="20251110000000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Pagi</title></programme>
-<programme start="20251110000000 +0000" stop="20251110010000 +0000" channel="TVRINasional.id"><title lang="id">News Bulletin: Jendela Negeri</title></programme>
-<programme start="20251110010000 +0000" stop="20251110020000 +0000" channel="TVRINasional.id"><title lang="id">Bersama Perempuan</title></programme>
-<programme start="20251110020000 +0000" stop="20251110023000 +0000" channel="TVRINasional.id"><title lang="id">Mari Menggambar</title></programme>
-<programme start="20251110023000 +0000" stop="20251110033000 +0000" channel="TVRINasional.id"><title lang="id">Indonesia Sehat - Halo Dokter</title></programme>
-<programme start="20251110033000 +0000" stop="20251110040000 +0000" channel="TVRINasional.id"><title lang="id">Dapur Devina</title></programme>
-<programme start="20251110040000 +0000" stop="20251110050000 +0000" channel="TVRINasional.id"><title lang="id">Seblak Show</title></programme>
-<programme start="20251110050000 +0000" stop="20251110060000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Siang</title></programme>
-<programme start="20251110060000 +0000" stop="20251110063000 +0000" channel="TVRINasional.id"><title lang="id">Feature LKBN Antara</title></programme>
-<programme start="20251110063000 +0000" stop="20251110070000 +0000" channel="TVRINasional.id"><title lang="id">Tekno Tani</title></programme>
-<programme start="20251110070000 +0000" stop="20251110073000 +0000" channel="TVRINasional.id"><title lang="id">Pesona Indonesia</title></programme>
-<programme start="20251110073000 +0000" stop="20251110080000 +0000" channel="TVRINasional.id"><title lang="id">Inspirasi Indonesia</title></programme>
-<programme start="20251110080000 +0000" stop="20251110083000 +0000" channel="TVRINasional.id"><title lang="id">Mimbar Agama - Katolik</title></programme>
-<programme start="20251110083000 +0000" stop="20251110090000 +0000" channel="TVRINasional.id"><title lang="id">Tapal Batas</title></programme>
-<programme start="20251110090000 +0000" stop="20251110100000 +0000" channel="TVRINasional.id"><title lang="id">Pengen Beken</title></programme>
-<programme start="20251110100000 +0000" stop="20251110103000 +0000" channel="TVRINasional.id"><title lang="id">Pilihan Rakyat</title></programme>
-<programme start="20251110103000 +0000" stop="20251110110000 +0000" channel="TVRINasional.id"><title lang="id">Sketsa Pemilu</title></programme>
-<programme start="20251110110000 +0000" stop="20251110120000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Petang</title></programme>
-<programme start="20251110120000 +0000" stop="20251110130000 +0000" channel="TVRINasional.id"><title lang="id">Peta Politik Nasional</title></programme>
-<programme start="20251110130000 +0000" stop="20251110140000 +0000" channel="TVRINasional.id"><title lang="id">Zoom - Zona Orang Muda</title></programme>
-<programme start="20251110140000 +0000" stop="20251110143000 +0000" channel="TVRINasional.id"><title lang="id">Dunia Dalam Berita</title></programme>
-<programme start="20251110143000 +0000" stop="20251110153000 +0000" channel="TVRINasional.id"><title lang="id">Kenangan Masa</title></programme>
-<programme start="20251110153000 +0000" stop="20251110163000 +0000" channel="TVRINasional.id"><title lang="id">Home Stay Riweuh</title></programme>
-<programme start="20251110163000 +0000" stop="20251110170000 +0000" channel="TVRINasional.id"><title lang="id">Monitor Olahraga</title></programme>
-<programme start="20251110170000 +0000" stop="20251110173000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20251110173000 +0000" stop="20251110190000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
-<programme start="20251110190000 +0000" stop="20251110203000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
-<programme start="20251110203000 +0000" stop="20251110210000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20251110210000 +0000" stop="20251110213000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi</title></programme>
-<programme start="20251110213000 +0000" stop="20251110230000 +0000" channel="tvOne.id"><title lang="id">Kabar Pagi (Live)</title></programme>
-<programme start="20251110230000 +0000" stop="20251110233000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi (Live)</title></programme>
-<programme start="20251110233000 +0000" stop="20251111013000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Pagi (Live)</title></programme>
-<programme start="20251111013000 +0000" stop="20251111020000 +0000" channel="tvOne.id"><title lang="id">Hidup Sehat (Live)</title></programme>
-<programme start="20251111020000 +0000" stop="20251111023000 +0000" channel="tvOne.id"><title lang="id">Inspirasi Pagi (Live)</title></programme>
-<programme start="20251111023000 +0000" stop="20251111033000 +0000" channel="tvOne.id"><title lang="id">Pagi - Pagi Seru (Live)</title></programme>
-<programme start="20251111033000 +0000" stop="20251111040000 +0000" channel="tvOne.id"><title lang="id">Metropolitan (Live)</title></programme>
-<programme start="20251111040000 +0000" stop="20251111060000 +0000" channel="tvOne.id"><title lang="id">Kabar Siang (Live)</title></programme>
-<programme start="20251111060000 +0000" stop="20251111073000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Siang (Live)</title></programme>
-<programme start="20251111073000 +0000" stop="20251111083000 +0000" channel="tvOne.id"><title lang="id">Kabar Merah Putih (Live)</title></programme>
-<programme start="20251111083000 +0000" stop="20251111090000 +0000" channel="tvOne.id"><title lang="id">Berita Utama Kriminal (Live)</title></programme>
-<programme start="20251111090000 +0000" stop="20251111110000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang (Live)</title></programme>
-<programme start="20251111110000 +0000" stop="20251111125700 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam (Live)</title></programme>
-<programme start="20251111125700 +0000" stop="20251111130000 +0000" channel="tvOne.id"><title lang="id">Kabar Terkini</title></programme>
-<programme start="20251111130000 +0000" stop="20251111143000 +0000" channel="tvOne.id"><title lang="id">Catatan Demokrasi</title></programme>
-<programme start="20251111143000 +0000" stop="20251111153000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama (Live)</title></programme>
-<programme start="20251111153000 +0000" stop="20251111160000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini (Live)</title></programme>
-<programme start="20251111160000 +0000" stop="20251111163000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Malam (Live)</title></programme>
-<programme start="20251111163000 +0000" stop="20251111170000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20251109170000 +0000" stop="20251109173000 +0000" channel="tvOne.id"><title lang="id">Sport Style</title></programme>
-<programme start="20251109173000 +0000" stop="20251109180000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20251109180000 +0000" stop="20251109193000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
-<programme start="20251109193000 +0000" stop="20251109200000 +0000" channel="tvOne.id"><title lang="id">Metropolitan</title></programme>
-<programme start="20251109200000 +0000" stop="20251109203000 +0000" channel="tvOne.id"><title lang="id">Berita Utama Kriminal</title></programme>
-<programme start="20251109203000 +0000" stop="20251109210000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20251109210000 +0000" stop="20251109213000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi</title></programme>
-<programme start="20251109213000 +0000" stop="20251109230000 +0000" channel="tvOne.id"><title lang="id">Kabar Pagi (Live)</title></programme>
-<programme start="20251109230000 +0000" stop="20251109233000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi (Live)</title></programme>
-<programme start="20251109233000 +0000" stop="20251110013000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Pagi (Live)</title></programme>
-<programme start="20251110013000 +0000" stop="20251110020000 +0000" channel="tvOne.id"><title lang="id">Hidup Sehat (Live)</title></programme>
-<programme start="20251110020000 +0000" stop="20251110023000 +0000" channel="tvOne.id"><title lang="id">Inspirasi Pagi (Live)</title></programme>
-<programme start="20251110023000 +0000" stop="20251110033000 +0000" channel="tvOne.id"><title lang="id">Pagi - Pagi Seru (Live)</title></programme>
-<programme start="20251110033000 +0000" stop="20251110040000 +0000" channel="tvOne.id"><title lang="id">Metropolitan (Live)</title></programme>
-<programme start="20251110040000 +0000" stop="20251110060000 +0000" channel="tvOne.id"><title lang="id">Kabar Siang (Live)</title></programme>
-<programme start="20251110060000 +0000" stop="20251110073000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Siang (Live)</title></programme>
-<programme start="20251110073000 +0000" stop="20251110083000 +0000" channel="tvOne.id"><title lang="id">Kabar Merah Putih (Live)</title></programme>
-<programme start="20251110083000 +0000" stop="20251110090000 +0000" channel="tvOne.id"><title lang="id">Berita Utama Kriminal (Live)</title></programme>
-<programme start="20251110090000 +0000" stop="20251110110000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang (Live)</title></programme>
-<programme start="20251110110000 +0000" stop="20251110125700 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam (Live)</title></programme>
-<programme start="20251110125700 +0000" stop="20251110130000 +0000" channel="tvOne.id"><title lang="id">Kabar Terkini</title></programme>
-<programme start="20251110130000 +0000" stop="20251110143000 +0000" channel="tvOne.id"><title lang="id">Talkshow Spesial (Live) Bukan Pahlawan Biasa</title></programme>
-<programme start="20251110143000 +0000" stop="20251110153000 +0000" channel="tvOne.id"><title lang="id">Fakta</title></programme>
-<programme start="20251110153000 +0000" stop="20251110163000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
-<programme start="20251110163000 +0000" stop="20251110170000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Malam (Live)</title></programme>
-<programme start="20251110170000 +0000" stop="20251110180000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251110180000 +0000" stop="20251110190000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251110190000 +0000" stop="20251110200000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251110200000 +0000" stop="20251110210000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251110210000 +0000" stop="20251110214500 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251110214500 +0000" stop="20251110220000 +0000" channel="TVMu.id"><title lang="id">Opening</title></programme>
-<programme start="20251110220000 +0000" stop="20251110221500 +0000" channel="TVMu.id"><title lang="id">Paham Muhammadiyah</title></programme>
-<programme start="20251110221500 +0000" stop="20251110233000 +0000" channel="TVMu.id"><title lang="id">Gerakan Subuh Mengaji</title></programme>
-<programme start="20251110233000 +0000" stop="20251111003000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
-<programme start="20251111003000 +0000" stop="20251111010000 +0000" channel="TVMu.id"><title lang="id">Zona Musik Religi</title></programme>
-<programme start="20251111010000 +0000" stop="20251111013000 +0000" channel="TVMu.id"><title lang="id">Waktu Indonesia Belajar</title></programme>
-<programme start="20251111013000 +0000" stop="20251111020000 +0000" channel="TVMu.id"><title lang="id">Waktu Indonesia Belajar</title></programme>
-<programme start="20251111020000 +0000" stop="20251111023000 +0000" channel="TVMu.id"><title lang="id">Belajar Tahsin Metode Azka</title></programme>
-<programme start="20251111023000 +0000" stop="20251111030000 +0000" channel="TVMu.id"><title lang="id">Tuntunan Akhir Zaman</title></programme>
-<programme start="20251111030000 +0000" stop="20251111040000 +0000" channel="TVMu.id"><title lang="id">Podcast TV Show</title></programme>
-<programme start="20251111040000 +0000" stop="20251111043000 +0000" channel="TVMu.id"><title lang="id">Refleksi Haedar Nashir</title></programme>
-<programme start="20251111043000 +0000" stop="20251111050000 +0000" channel="TVMu.id"><title lang="id">Netizen Bertanya Ustadz Menjawab</title></programme>
-<programme start="20251111050000 +0000" stop="20251111060000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
-<programme start="20251111060000 +0000" stop="20251111063000 +0000" channel="TVMu.id"><title lang="id">Zona Musik Religi</title></programme>
-<programme start="20251111063000 +0000" stop="20251111070000 +0000" channel="TVMu.id"><title lang="id">Tuntunan Akhir Zaman</title></programme>
-<programme start="20251111070000 +0000" stop="20251111073000 +0000" channel="TVMu.id"><title lang="id">Waktu Indonesia Belajar</title></programme>
-<programme start="20251111073000 +0000" stop="20251111080000 +0000" channel="TVMu.id"><title lang="id">Waktu Indonesia Belajar</title></programme>
-<programme start="20251111080000 +0000" stop="20251111083000 +0000" channel="TVMu.id"><title lang="id">Belajar Tahsin Metode Azka</title></programme>
-<programme start="20251111083000 +0000" stop="20251111090000 +0000" channel="TVMu.id"><title lang="id">Masjidil Haram</title></programme>
-<programme start="20251111090000 +0000" stop="20251111100000 +0000" channel="TVMu.id"><title lang="id">Gerakan Subuh Mengaji</title></programme>
-<programme start="20251111100000 +0000" stop="20251111110000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
-<programme start="20251111110000 +0000" stop="20251111113000 +0000" channel="TVMu.id"><title lang="id">Tuntunan Akhir Zaman</title></programme>
-<programme start="20251111113000 +0000" stop="20251111120000 +0000" channel="TVMu.id"><title lang="id">Belajar Tahsin Metode Azka</title></programme>
-<programme start="20251111120000 +0000" stop="20251111130000 +0000" channel="TVMu.id"><title lang="id">Podcast TV Show</title></programme>
-<programme start="20251111130000 +0000" stop="20251111133000 +0000" channel="TVMu.id"><title lang="id">Netizen Bertanya Ustadz Menjawab</title></programme>
-<programme start="20251111133000 +0000" stop="20251111140000 +0000" channel="TVMu.id"><title lang="id">Refleksi Haedar Nashir</title></programme>
-<programme start="20251111140000 +0000" stop="20251111150000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
-<programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251109170000 +0000" stop="20251109180000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251109180000 +0000" stop="20251109190000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251109190000 +0000" stop="20251109200000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251109200000 +0000" stop="20251109210000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251109210000 +0000" stop="20251109214500 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251109214500 +0000" stop="20251109220000 +0000" channel="TVMu.id"><title lang="id">Opening</title></programme>
-<programme start="20251109220000 +0000" stop="20251109221500 +0000" channel="TVMu.id"><title lang="id">Paham Muhammadiyah</title></programme>
-<programme start="20251109221500 +0000" stop="20251109233000 +0000" channel="TVMu.id"><title lang="id">Gerakan Subuh Mengaji</title></programme>
-<programme start="20251109233000 +0000" stop="20251110003000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
-<programme start="20251110003000 +0000" stop="20251110010000 +0000" channel="TVMu.id"><title lang="id">Zona Musik Religi</title></programme>
-<programme start="20251110010000 +0000" stop="20251110013000 +0000" channel="TVMu.id"><title lang="id">Kajian Ahad</title></programme>
-<programme start="20251110013000 +0000" stop="20251110023000 +0000" channel="TVMu.id"><title lang="id">Karima</title></programme>
-<programme start="20251110023000 +0000" stop="20251110030000 +0000" channel="TVMu.id"><title lang="id">UMJ Talks</title></programme>
-<programme start="20251110030000 +0000" stop="20251110040000 +0000" channel="TVMu.id"><title lang="id">Teras tvMu</title></programme>
-<programme start="20251110040000 +0000" stop="20251110043000 +0000" channel="TVMu.id"><title lang="id">DiasporaMu</title></programme>
-<programme start="20251110043000 +0000" stop="20251110050000 +0000" channel="TVMu.id"><title lang="id">Catatan Akhir Pekan</title></programme>
-<programme start="20251110050000 +0000" stop="20251110060000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
-<programme start="20251110060000 +0000" stop="20251110063000 +0000" channel="TVMu.id"><title lang="id">Zona Musik Religi</title></programme>
-<programme start="20251110063000 +0000" stop="20251110070000 +0000" channel="TVMu.id"><title lang="id">Berita Muhammadiyah Sepekan</title></programme>
-<programme start="20251110070000 +0000" stop="20251110073000 +0000" channel="TVMu.id"><title lang="id">Tafsir Al - Azhar</title></programme>
-<programme start="20251110073000 +0000" stop="20251110080000 +0000" channel="TVMu.id"><title lang="id">KOLAK</title></programme>
-<programme start="20251110080000 +0000" stop="20251110083000 +0000" channel="TVMu.id"><title lang="id">Karima</title></programme>
-<programme start="20251110083000 +0000" stop="20251110090000 +0000" channel="TVMu.id"><title lang="id">Masjidil Haram</title></programme>
-<programme start="20251110090000 +0000" stop="20251110100000 +0000" channel="TVMu.id"><title lang="id">Gerakan Subuh Mengaji</title></programme>
-<programme start="20251110100000 +0000" stop="20251110110000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
-<programme start="20251110110000 +0000" stop="20251110113000 +0000" channel="TVMu.id"><title lang="id">Refleksi Haedar Nashir</title></programme>
-<programme start="20251110113000 +0000" stop="20251110120000 +0000" channel="TVMu.id"><title lang="id">Catatan Akhir Pekan</title></programme>
-<programme start="20251110120000 +0000" stop="20251110123000 +0000" channel="TVMu.id"><title lang="id">Menuju Baitullah</title></programme>
-<programme start="20251110123000 +0000" stop="20251110133000 +0000" channel="TVMu.id"><title lang="id">Dialektika tvMu</title></programme>
-<programme start="20251110133000 +0000" stop="20251110140000 +0000" channel="TVMu.id"><title lang="id">DiasporaMu</title></programme>
-<programme start="20251110140000 +0000" stop="20251110150000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
-<programme start="20251110150000 +0000" stop="20251110160000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251110160000 +0000" stop="20251110170000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251110180000 +0000" stop="20251110183000 +0000" channel="TransTV.id"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20251110183000 +0000" stop="20251110194000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Prime News</title></programme>
-<programme start="20251110194000 +0000" stop="20251110202000 +0000" channel="TransTV.id"><title lang="id">Klinik Tendean</title></programme>
-<programme start="20251110202000 +0000" stop="20251110214000 +0000" channel="TransTV.id"><title lang="id">Antara Cinta Dan Doa</title></programme>
-<programme start="20251110214000 +0000" stop="20251110220000 +0000" channel="TransTV.id"><title lang="id">Cerita Di Balik Hijab</title></programme>
-<programme start="20251110220000 +0000" stop="20251110233000 +0000" channel="TransTV.id"><title lang="id">Islam Itu Indah</title></programme>
-<programme start="20251110233000 +0000" stop="20251111003000 +0000" channel="TransTV.id"><title lang="id">Insert Pagi</title></programme>
-<programme start="20251111003000 +0000" stop="20251111013000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Good Morning</title></programme>
-<programme start="20251111013000 +0000" stop="20251111033000 +0000" channel="TransTV.id"><title lang="id">Pagi-Pagi Ambyar</title></programme>
-<programme start="20251111033000 +0000" stop="20251111053000 +0000" channel="TransTV.id"><title lang="id">Insert</title></programme>
-<programme start="20251111053000 +0000" stop="20251111070000 +0000" channel="TransTV.id"><title lang="id">Brownis - Obrolan Manis</title></programme>
-<programme start="20251111070000 +0000" stop="20251111080000 +0000" channel="TransTV.id"><title lang="id">Rumpi - No Secret</title></programme>
-<programme start="20251111080000 +0000" stop="20251111090000 +0000" channel="TransTV.id"><title lang="id">Insert Today</title></programme>
-<programme start="20251111090000 +0000" stop="20251111093000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia News Update</title></programme>
-<programme start="20251111093000 +0000" stop="20251111103000 +0000" channel="TransTV.id"><title lang="id">Dream Box Indonesia</title></programme>
-<programme start="20251111103000 +0000" stop="20251111114500 +0000" channel="TransTV.id"><title lang="id">Bikin Laper</title></programme>
-<programme start="20251111114500 +0000" stop="20251111130000 +0000" channel="TransTV.id"><title lang="id">Insert Story</title></programme>
-<programme start="20251111130000 +0000" stop="20251111140000 +0000" channel="TransTV.id"><title lang="id">Dunia Punya Cerita</title></programme>
-<programme start="20251111140000 +0000" stop="20251111160000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - The Informer</title></programme>
-<programme start="20251111160000 +0000" stop="20251111180000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - To Kill With Intrigue</title></programme>
-<programme start="20251109180000 +0000" stop="20251109183000 +0000" channel="TransTV.id"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20251109183000 +0000" stop="20251109190000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Tech</title></programme>
-<programme start="20251109190000 +0000" stop="20251109200000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Prime News</title></programme>
-<programme start="20251109200000 +0000" stop="20251109204000 +0000" channel="TransTV.id"><title lang="id">Klinik Tendean</title></programme>
-<programme start="20251109204000 +0000" stop="20251109214000 +0000" channel="TransTV.id"><title lang="id">Antara Cinta Dan Doa</title></programme>
-<programme start="20251109214000 +0000" stop="20251109220000 +0000" channel="TransTV.id"><title lang="id">Celebrity On Vacation</title></programme>
-<programme start="20251109220000 +0000" stop="20251109233000 +0000" channel="TransTV.id"><title lang="id">Islam Itu Indah</title></programme>
-<programme start="20251109233000 +0000" stop="20251110003000 +0000" channel="TransTV.id"><title lang="id">Insert Pagi</title></programme>
-<programme start="20251110003000 +0000" stop="20251110013000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Good Morning</title></programme>
-<programme start="20251110013000 +0000" stop="20251110033000 +0000" channel="TransTV.id"><title lang="id">Pagi-Pagi Ambyar</title></programme>
-<programme start="20251110033000 +0000" stop="20251110053000 +0000" channel="TransTV.id"><title lang="id">Insert</title></programme>
-<programme start="20251110053000 +0000" stop="20251110070000 +0000" channel="TransTV.id"><title lang="id">Brownis - Obrolan Manis</title></programme>
-<programme start="20251110070000 +0000" stop="20251110080000 +0000" channel="TransTV.id"><title lang="id">Rumpi - No Secret</title></programme>
-<programme start="20251110080000 +0000" stop="20251110090000 +0000" channel="TransTV.id"><title lang="id">Insert Today</title></programme>
-<programme start="20251110090000 +0000" stop="20251110093000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia News Update</title></programme>
-<programme start="20251110093000 +0000" stop="20251110103000 +0000" channel="TransTV.id"><title lang="id">Dream Box Indonesia</title></programme>
-<programme start="20251110103000 +0000" stop="20251110114500 +0000" channel="TransTV.id"><title lang="id">Bikin Laper</title></programme>
-<programme start="20251110114500 +0000" stop="20251110130000 +0000" channel="TransTV.id"><title lang="id">Insert Story</title></programme>
-<programme start="20251110130000 +0000" stop="20251110140000 +0000" channel="TransTV.id"><title lang="id">Dunia Punya Cerita</title></programme>
-<programme start="20251110140000 +0000" stop="20251110160000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - The Chronicles of Riddick</title></programme>
-<programme start="20251110160000 +0000" stop="20251110180000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - Jarhead</title></programme>
+<programme start="20251110173000 +0000" stop="20251110182700 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20251110182700 +0000" stop="20251110183000 +0000" channel="BTV.id"><title lang="id">Tanah Airku</title></programme>
+<programme start="20251110183000 +0000" stop="20251110193000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore &quot;Recorded&quot;</title></programme>
+<programme start="20251110193000 +0000" stop="20251110203000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam &quot;Recorded&quot;</title></programme>
+<programme start="20251110203000 +0000" stop="20251110213000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
+<programme start="20251110213000 +0000" stop="20251110223000 +0000" channel="BTV.id"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20251110223000 +0000" stop="20251110230000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20251110230000 +0000" stop="20251110230300 +0000" channel="BTV.id"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20251110230300 +0000" stop="20251111003000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20251111003000 +0000" stop="20251111011500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
+<programme start="20251111011500 +0000" stop="20251111014500 +0000" channel="BTV.id"><title lang="id">Kuyliner</title></programme>
+<programme start="20251111014500 +0000" stop="20251111023000 +0000" channel="BTV.id"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20251111023000 +0000" stop="20251111031500 +0000" channel="BTV.id"><title lang="id">Selera Rasa</title></programme>
+<programme start="20251111031500 +0000" stop="20251111040000 +0000" channel="BTV.id"><title lang="id">Ketulusan Hati</title></programme>
+<programme start="20251111040000 +0000" stop="20251111050000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20251111050000 +0000" stop="20251111060000 +0000" channel="BTV.id"><title lang="id">Investor Market Today</title></programme>
+<programme start="20251111060000 +0000" stop="20251111063000 +0000" channel="BTV.id"><title lang="id">Investor Daily Talk</title></programme>
+<programme start="20251111063000 +0000" stop="20251111080000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
+<programme start="20251111080000 +0000" stop="20251111083000 +0000" channel="BTV.id"><title lang="id">Dikit - Dikit Damkar</title></programme>
+<programme start="20251111083000 +0000" stop="20251111091500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
+<programme start="20251111091500 +0000" stop="20251111093000 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
+<programme start="20251111093000 +0000" stop="20251111103000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20251111103000 +0000" stop="20251111123000 +0000" channel="BTV.id"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20251111123000 +0000" stop="20251111130000 +0000" channel="BTV.id"><title lang="id">Dunia Binatang</title></programme>
+<programme start="20251111130000 +0000" stop="20251111140000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20251111140000 +0000" stop="20251111150000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
+<programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20251111160000 +0000" stop="20251111163000 +0000" channel="BTV.id"><title lang="id">Mitos Tengah Malam</title></programme>
+<programme start="20251111163000 +0000" stop="20251111173000 +0000" channel="BTV.id"><title lang="id">One Vault</title></programme>
+<programme start="20251110171500 +0000" stop="20251110174500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
+<programme start="20251110174500 +0000" stop="20251110183000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
+<programme start="20251110183000 +0000" stop="20251110194500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
+<programme start="20251110194500 +0000" stop="20251110210000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
+<programme start="20251110210000 +0000" stop="20251110214500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
+<programme start="20251110214500 +0000" stop="20251110221500 +0000" channel="CNNIndonesia.id"><title lang="id">Gapai Kemuliaan</title></programme>
+<programme start="20251110221500 +0000" stop="20251110233000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
+<programme start="20251110233000 +0000" stop="20251111003000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
+<programme start="20251111003000 +0000" stop="20251111013000 +0000" channel="CNNIndonesia.id"><title lang="id">Good Morning</title></programme>
+<programme start="20251111013000 +0000" stop="20251111023000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
+<programme start="20251111023000 +0000" stop="20251111030000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Today</title></programme>
+<programme start="20251111030000 +0000" stop="20251111040000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Business</title></programme>
+<programme start="20251111040000 +0000" stop="20251111054500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Hour</title></programme>
+<programme start="20251111054500 +0000" stop="20251111064500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
+<programme start="20251111064500 +0000" stop="20251111071500 +0000" channel="CNNIndonesia.id"><title lang="id">World Now</title></programme>
+<programme start="20251111071500 +0000" stop="20251111081500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
+<programme start="20251111081500 +0000" stop="20251111090000 +0000" channel="CNNIndonesia.id"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20251111090000 +0000" stop="20251111093000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20251111093000 +0000" stop="20251111111500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
+<programme start="20251111111500 +0000" stop="20251111120000 +0000" channel="CNNIndonesia.id"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20251111120000 +0000" stop="20251111133000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
+<programme start="20251111133000 +0000" stop="20251111143000 +0000" channel="CNNIndonesia.id"><title lang="id">Inside Politics With Diana</title></programme>
+<programme start="20251111143000 +0000" stop="20251111150000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
+<programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
+<programme start="20251111160000 +0000" stop="20251111171500 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
+<programme start="20251109171500 +0000" stop="20251109174500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Sports</title></programme>
+<programme start="20251109174500 +0000" stop="20251109184500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom Part 1</title></programme>
+<programme start="20251109184500 +0000" stop="20251109191500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20251109191500 +0000" stop="20251109194500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom Part 2</title></programme>
+<programme start="20251109194500 +0000" stop="20251109211500 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
+<programme start="20251109211500 +0000" stop="20251109214500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Akhir Pekan</title></programme>
+<programme start="20251109214500 +0000" stop="20251109221500 +0000" channel="CNNIndonesia.id"><title lang="id">Gapai Kemuliaan</title></programme>
+<programme start="20251109221500 +0000" stop="20251109233000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
+<programme start="20251109233000 +0000" stop="20251110000000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
+<programme start="20251110000000 +0000" stop="20251110003000 +0000" channel="CNNIndonesia.id"><title lang="id">Insiders</title></programme>
+<programme start="20251110003000 +0000" stop="20251110013000 +0000" channel="CNNIndonesia.id"><title lang="id">Good Morning</title></programme>
+<programme start="20251110013000 +0000" stop="20251110023000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
+<programme start="20251110023000 +0000" stop="20251110030000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Today</title></programme>
+<programme start="20251110030000 +0000" stop="20251110040000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Business</title></programme>
+<programme start="20251110040000 +0000" stop="20251110054500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Hour</title></programme>
+<programme start="20251110054500 +0000" stop="20251110061500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
+<programme start="20251110061500 +0000" stop="20251110064500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Today</title></programme>
+<programme start="20251110064500 +0000" stop="20251110071500 +0000" channel="CNNIndonesia.id"><title lang="id">World Now</title></programme>
+<programme start="20251110071500 +0000" stop="20251110081500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
+<programme start="20251110081500 +0000" stop="20251110090000 +0000" channel="CNNIndonesia.id"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20251110090000 +0000" stop="20251110093000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20251110093000 +0000" stop="20251110111500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
+<programme start="20251110111500 +0000" stop="20251110120000 +0000" channel="CNNIndonesia.id"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20251110120000 +0000" stop="20251110133000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
+<programme start="20251110133000 +0000" stop="20251110150000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime Plus With Bram</title></programme>
+<programme start="20251110150000 +0000" stop="20251110153000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
+<programme start="20251110153000 +0000" stop="20251110160000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20251110160000 +0000" stop="20251110171500 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
+<programme start="20251109173000 +0000" stop="20251109182700 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20251109182700 +0000" stop="20251109183000 +0000" channel="BTV.id"><title lang="id">Tanah Airku</title></programme>
+<programme start="20251109183000 +0000" stop="20251109193000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore &quot;Recorded&quot;</title></programme>
+<programme start="20251109193000 +0000" stop="20251109203000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam &quot;Recorded&quot;</title></programme>
+<programme start="20251109203000 +0000" stop="20251109213000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
+<programme start="20251109213000 +0000" stop="20251109223000 +0000" channel="BTV.id"><title lang="id">Berita Satu Pagi</title></programme>
+<programme start="20251109223000 +0000" stop="20251109230000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20251109230000 +0000" stop="20251109230300 +0000" channel="BTV.id"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20251109230300 +0000" stop="20251110003000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah</title></programme>
+<programme start="20251110003000 +0000" stop="20251110011500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
+<programme start="20251110011500 +0000" stop="20251110014500 +0000" channel="BTV.id"><title lang="id">Kuyliner</title></programme>
+<programme start="20251110014500 +0000" stop="20251110023000 +0000" channel="BTV.id"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20251110023000 +0000" stop="20251110031500 +0000" channel="BTV.id"><title lang="id">Selera Rasa</title></programme>
+<programme start="20251110031500 +0000" stop="20251110040000 +0000" channel="BTV.id"><title lang="id">Ketulusan Hati</title></programme>
+<programme start="20251110040000 +0000" stop="20251110050000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
+<programme start="20251110050000 +0000" stop="20251110060000 +0000" channel="BTV.id"><title lang="id">Investor Market Today</title></programme>
+<programme start="20251110060000 +0000" stop="20251110063000 +0000" channel="BTV.id"><title lang="id">Investor Daily Talk</title></programme>
+<programme start="20251110063000 +0000" stop="20251110080000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
+<programme start="20251110080000 +0000" stop="20251110083000 +0000" channel="BTV.id"><title lang="id">Dikit - Dikit Damkar</title></programme>
+<programme start="20251110083000 +0000" stop="20251110091500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
+<programme start="20251110091500 +0000" stop="20251110093000 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
+<programme start="20251110093000 +0000" stop="20251110103000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20251110103000 +0000" stop="20251110123000 +0000" channel="BTV.id"><title lang="id">Berita Satu Utama</title></programme>
+<programme start="20251110123000 +0000" stop="20251110130000 +0000" channel="BTV.id"><title lang="id">Dunia Binatang</title></programme>
+<programme start="20251110130000 +0000" stop="20251110140000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
+<programme start="20251110140000 +0000" stop="20251110150000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
+<programme start="20251110150000 +0000" stop="20251110160000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
+<programme start="20251110160000 +0000" stop="20251110163000 +0000" channel="BTV.id"><title lang="id">Mitos Tengah Malam</title></programme>
+<programme start="20251110163000 +0000" stop="20251110173000 +0000" channel="BTV.id"><title lang="id">One Vault</title></programme>
+<programme start="20251110170000 +0000" stop="20251110190000 +0000" channel="CNBCIndonesia.id"><title lang="id">Power Lunch</title></programme>
+<programme start="20251110190000 +0000" stop="20251110210000 +0000" channel="CNBCIndonesia.id"><title lang="id">Closing Bell</title></programme>
+<programme start="20251110210000 +0000" stop="20251110213000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20251110213000 +0000" stop="20251110223000 +0000" channel="CNBCIndonesia.id"><title lang="id">Evening Up</title></programme>
+<programme start="20251110223000 +0000" stop="20251110230000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251110230000 +0000" stop="20251110233000 +0000" channel="CNBCIndonesia.id"><title lang="id">CNBC Indonesia Exclusive</title></programme>
+<programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="CNBCIndonesia.id"><title lang="id">Autobizz</title></programme>
+<programme start="20251111000000 +0000" stop="20251111003000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251111003000 +0000" stop="20251111010000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20251111010000 +0000" stop="20251111030000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box - Live</title></programme>
+<programme start="20251111030000 +0000" stop="20251111045500 +0000" channel="CNBCIndonesia.id"><title lang="id">Profit - Live</title></programme>
+<programme start="20251111045500 +0000" stop="20251111070000 +0000" channel="CNBCIndonesia.id"><title lang="id">Power Lunch - Live</title></programme>
+<programme start="20251111070000 +0000" stop="20251111081500 +0000" channel="CNBCIndonesia.id"><title lang="id">Insight - Big Stories Of The Week</title></programme>
+<programme start="20251111081500 +0000" stop="20251111084500 +0000" channel="CNBCIndonesia.id"><title lang="id">Closing Bell</title></programme>
+<programme start="20251111084500 +0000" stop="20251111100000 +0000" channel="CNBCIndonesia.id"><title lang="id">Closing Bell - Live</title></programme>
+<programme start="20251111100000 +0000" stop="20251111110500 +0000" channel="CNBCIndonesia.id"><title lang="id">Evening Up - Live</title></programme>
+<programme start="20251111110500 +0000" stop="20251111120000 +0000" channel="CNBCIndonesia.id"><title lang="id">Manufacture Check - Live</title></programme>
+<programme start="20251111120000 +0000" stop="20251111123000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20251111123000 +0000" stop="20251111130000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251111130000 +0000" stop="20251111150000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box</title></programme>
+<programme start="20251111150000 +0000" stop="20251111170000 +0000" channel="CNBCIndonesia.id"><title lang="id">Profit</title></programme>
+<programme start="20251109170000 +0000" stop="20251109173000 +0000" channel="CNBCIndonesia.id"><title lang="id">Editor&apos;s View</title></programme>
+<programme start="20251109173000 +0000" stop="20251109180000 +0000" channel="CNBCIndonesia.id"><title lang="id">Tech A Look</title></programme>
+<programme start="20251109180000 +0000" stop="20251109183000 +0000" channel="CNBCIndonesia.id"><title lang="id">Tech A Look</title></programme>
+<programme start="20251109183000 +0000" stop="20251109190000 +0000" channel="CNBCIndonesia.id"><title lang="id">Tech A Look</title></programme>
+<programme start="20251109190000 +0000" stop="20251109193000 +0000" channel="CNBCIndonesia.id"><title lang="id">Money Talks</title></programme>
+<programme start="20251109193000 +0000" stop="20251109200000 +0000" channel="CNBCIndonesia.id"><title lang="id">Money Talks</title></programme>
+<programme start="20251109200000 +0000" stop="20251109203000 +0000" channel="CNBCIndonesia.id"><title lang="id">Money Talks</title></programme>
+<programme start="20251109203000 +0000" stop="20251109210000 +0000" channel="CNBCIndonesia.id"><title lang="id">Money Talks</title></programme>
+<programme start="20251109210000 +0000" stop="20251109213000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251109213000 +0000" stop="20251109220000 +0000" channel="CNBCIndonesia.id"><title lang="id">Editor&apos;s View</title></programme>
+<programme start="20251109220000 +0000" stop="20251109223000 +0000" channel="CNBCIndonesia.id"><title lang="id">Editor&apos;s View</title></programme>
+<programme start="20251109223000 +0000" stop="20251109230000 +0000" channel="CNBCIndonesia.id"><title lang="id">Editor&apos;s View</title></programme>
+<programme start="20251109230000 +0000" stop="20251109233000 +0000" channel="CNBCIndonesia.id"><title lang="id">Energy Corner</title></programme>
+<programme start="20251109233000 +0000" stop="20251110000000 +0000" channel="CNBCIndonesia.id"><title lang="id">Autobizz</title></programme>
+<programme start="20251110000000 +0000" stop="20251110003000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251110003000 +0000" stop="20251110010000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20251110010000 +0000" stop="20251110030000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box</title></programme>
+<programme start="20251110030000 +0000" stop="20251110045500 +0000" channel="CNBCIndonesia.id"><title lang="id">Profit</title></programme>
+<programme start="20251110045500 +0000" stop="20251110070000 +0000" channel="CNBCIndonesia.id"><title lang="id">Power Lunch</title></programme>
+<programme start="20251110070000 +0000" stop="20251110073000 +0000" channel="CNBCIndonesia.id"><title lang="id">Energy Corner</title></programme>
+<programme start="20251110073000 +0000" stop="20251110080000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251110080000 +0000" stop="20251110100000 +0000" channel="CNBCIndonesia.id"><title lang="id">Closing Bell</title></programme>
+<programme start="20251110100000 +0000" stop="20251110110500 +0000" channel="CNBCIndonesia.id"><title lang="id">Evening Up</title></programme>
+<programme start="20251110110500 +0000" stop="20251110120000 +0000" channel="CNBCIndonesia.id"><title lang="id">Manufacture Check</title></programme>
+<programme start="20251110120000 +0000" stop="20251110123000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20251110123000 +0000" stop="20251110130000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20251110130000 +0000" stop="20251110150000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box</title></programme>
+<programme start="20251110150000 +0000" stop="20251110170000 +0000" channel="CNBCIndonesia.id"><title lang="id">Profit</title></programme>
+<programme start="20251110170000 +0000" stop="20251110190000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251110190000 +0000" stop="20251110210000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251110210000 +0000" stop="20251110220000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251110220000 +0000" stop="20251110223000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251110223000 +0000" stop="20251110230000 +0000" channel="DAAITV.id"><title lang="id">Music Video Galeri Hijau</title></programme>
+<programme start="20251110230000 +0000" stop="20251110231500 +0000" channel="DAAITV.id"><title lang="id">DAAI Inspirasi</title></programme>
+<programme start="20251110231500 +0000" stop="20251110233000 +0000" channel="DAAITV.id"><title lang="id">Lentera Kehidupan</title></programme>
+<programme start="20251110233000 +0000" stop="20251110234500 +0000" channel="DAAITV.id"><title lang="id">Master Cheng Yen Bercerita</title></programme>
+<programme start="20251110234500 +0000" stop="20251111000000 +0000" channel="DAAITV.id"><title lang="id">Kartun Petualangan Xiao Li Zi</title></programme>
+<programme start="20251111000000 +0000" stop="20251111003000 +0000" channel="DAAITV.id"><title lang="id">dr. Panda</title></programme>
+<programme start="20251111003000 +0000" stop="20251111010000 +0000" channel="DAAITV.id"><title lang="id">Poppy Cat</title></programme>
+<programme start="20251111010000 +0000" stop="20251111013000 +0000" channel="DAAITV.id"><title lang="id">Clifford</title></programme>
+<programme start="20251111013000 +0000" stop="20251111020000 +0000" channel="DAAITV.id"><title lang="id">Peace of mind</title></programme>
+<programme start="20251111020000 +0000" stop="20251111023000 +0000" channel="DAAITV.id"><title lang="id">Bumiku Satu</title></programme>
+<programme start="20251111023000 +0000" stop="20251111030000 +0000" channel="DAAITV.id"><title lang="id">Dapur Mama</title></programme>
+<programme start="20251111030000 +0000" stop="20251111040000 +0000" channel="DAAITV.id"><title lang="id">Bincang Sehati</title></programme>
+<programme start="20251111040000 +0000" stop="20251111050000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Reborn from the Dust</title></programme>
+<programme start="20251111050000 +0000" stop="20251111060000 +0000" channel="DAAITV.id"><title lang="id">Halo Indonesia</title></programme>
+<programme start="20251111060000 +0000" stop="20251111063000 +0000" channel="DAAITV.id"><title lang="id">Tips n Trik</title></programme>
+<programme start="20251111063000 +0000" stop="20251111070000 +0000" channel="DAAITV.id"><title lang="id">at Jakarta</title></programme>
+<programme start="20251111070000 +0000" stop="20251111073000 +0000" channel="DAAITV.id"><title lang="id">Bingkai Sumatera</title></programme>
+<programme start="20251111073000 +0000" stop="20251111080000 +0000" channel="DAAITV.id"><title lang="id">Sehat Ala Timur</title></programme>
+<programme start="20251111080000 +0000" stop="20251111090000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Pasangan Idaman</title></programme>
+<programme start="20251111090000 +0000" stop="20251111093000 +0000" channel="DAAITV.id"><title lang="id">Keliling Dunia Anak</title></programme>
+<programme start="20251111093000 +0000" stop="20251111094500 +0000" channel="DAAITV.id"><title lang="id">Funsciene</title></programme>
+<programme start="20251111094500 +0000" stop="20251111100000 +0000" channel="DAAITV.id"><title lang="id">Pablo</title></programme>
+<programme start="20251111100000 +0000" stop="20251111103000 +0000" channel="DAAITV.id"><title lang="id">Clifford</title></programme>
+<programme start="20251111103000 +0000" stop="20251111110000 +0000" channel="DAAITV.id"><title lang="id">Poppy Cat</title></programme>
+<programme start="20251111110000 +0000" stop="20251111113000 +0000" channel="DAAITV.id"><title lang="id">dr. Panda</title></programme>
+<programme start="20251111113000 +0000" stop="20251111120000 +0000" channel="DAAITV.id"><title lang="id">Dapur Mama</title></programme>
+<programme start="20251111120000 +0000" stop="20251111123000 +0000" channel="DAAITV.id"><title lang="id">Potret</title></programme>
+<programme start="20251111123000 +0000" stop="20251111130000 +0000" channel="DAAITV.id"><title lang="id">Pelindung Alam</title></programme>
+<programme start="20251111130000 +0000" stop="20251111140000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Pasangan Idaman</title></programme>
+<programme start="20251111140000 +0000" stop="20251111150000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Reborn from the Dust</title></programme>
+<programme start="20251111150000 +0000" stop="20251111151500 +0000" channel="DAAITV.id"><title lang="id">Lentera Kehidupan</title></programme>
+<programme start="20251111151500 +0000" stop="20251111153000 +0000" channel="DAAITV.id"><title lang="id">DAAI Inspirasi</title></programme>
+<programme start="20251111153000 +0000" stop="20251111160000 +0000" channel="DAAITV.id"><title lang="id">Pelindung Alam</title></programme>
+<programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="DAAITV.id"><title lang="id">Halo Indonesia</title></programme>
+<programme start="20251109170000 +0000" stop="20251109190000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251109190000 +0000" stop="20251109210000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251109210000 +0000" stop="20251109220000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251109220000 +0000" stop="20251109223000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251109223000 +0000" stop="20251109230000 +0000" channel="DAAITV.id"><title lang="id">Music Video Galeri Hijau</title></programme>
+<programme start="20251109230000 +0000" stop="20251109231500 +0000" channel="DAAITV.id"><title lang="id">DAAI Inspirasi</title></programme>
+<programme start="20251109231500 +0000" stop="20251109233000 +0000" channel="DAAITV.id"><title lang="id">Lentera Kehidupan</title></programme>
+<programme start="20251109233000 +0000" stop="20251109234500 +0000" channel="DAAITV.id"><title lang="id">Master Cheng Yen Bercerita</title></programme>
+<programme start="20251109234500 +0000" stop="20251110000000 +0000" channel="DAAITV.id"><title lang="id">Kartun Petualangan Xiao Li Zi</title></programme>
+<programme start="20251110000000 +0000" stop="20251110003000 +0000" channel="DAAITV.id"><title lang="id">dr. Panda</title></programme>
+<programme start="20251110003000 +0000" stop="20251110010000 +0000" channel="DAAITV.id"><title lang="id">Poppy Cat</title></programme>
+<programme start="20251110010000 +0000" stop="20251110013000 +0000" channel="DAAITV.id"><title lang="id">Clifford</title></programme>
+<programme start="20251110013000 +0000" stop="20251110020000 +0000" channel="DAAITV.id"><title lang="id">Peace of mind</title></programme>
+<programme start="20251110020000 +0000" stop="20251110023000 +0000" channel="DAAITV.id"><title lang="id">Bumiku Satu</title></programme>
+<programme start="20251110023000 +0000" stop="20251110030000 +0000" channel="DAAITV.id"><title lang="id">Dapur Mama</title></programme>
+<programme start="20251110030000 +0000" stop="20251110040000 +0000" channel="DAAITV.id"><title lang="id">Bincang Sehati</title></programme>
+<programme start="20251110040000 +0000" stop="20251110050000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Reborn from the Dust</title></programme>
+<programme start="20251110050000 +0000" stop="20251110060000 +0000" channel="DAAITV.id"><title lang="id">Halo Indonesia</title></programme>
+<programme start="20251110060000 +0000" stop="20251110063000 +0000" channel="DAAITV.id"><title lang="id">Tips n Trik</title></programme>
+<programme start="20251110063000 +0000" stop="20251110070000 +0000" channel="DAAITV.id"><title lang="id">at Jakarta</title></programme>
+<programme start="20251110070000 +0000" stop="20251110073000 +0000" channel="DAAITV.id"><title lang="id">Bingkai Sumatera</title></programme>
+<programme start="20251110073000 +0000" stop="20251110080000 +0000" channel="DAAITV.id"><title lang="id">Sehat Ala Timur</title></programme>
+<programme start="20251110080000 +0000" stop="20251110090000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Pasangan Idaman</title></programme>
+<programme start="20251110090000 +0000" stop="20251110093000 +0000" channel="DAAITV.id"><title lang="id">Keliling Dunia Anak</title></programme>
+<programme start="20251110093000 +0000" stop="20251110094500 +0000" channel="DAAITV.id"><title lang="id">Funsciene</title></programme>
+<programme start="20251110094500 +0000" stop="20251110100000 +0000" channel="DAAITV.id"><title lang="id">Pablo</title></programme>
+<programme start="20251110100000 +0000" stop="20251110103000 +0000" channel="DAAITV.id"><title lang="id">Clifford</title></programme>
+<programme start="20251110103000 +0000" stop="20251110110000 +0000" channel="DAAITV.id"><title lang="id">Poppy Cat</title></programme>
+<programme start="20251110110000 +0000" stop="20251110113000 +0000" channel="DAAITV.id"><title lang="id">dr. Panda</title></programme>
+<programme start="20251110113000 +0000" stop="20251110120000 +0000" channel="DAAITV.id"><title lang="id">Dapur Mama</title></programme>
+<programme start="20251110120000 +0000" stop="20251110123000 +0000" channel="DAAITV.id"><title lang="id">Citraloka</title></programme>
+<programme start="20251110123000 +0000" stop="20251110130000 +0000" channel="DAAITV.id"><title lang="id">Refleksi</title></programme>
+<programme start="20251110130000 +0000" stop="20251110140000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Pasangan Idaman</title></programme>
+<programme start="20251110140000 +0000" stop="20251110150000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Reborn from the Dust</title></programme>
+<programme start="20251110150000 +0000" stop="20251110151500 +0000" channel="DAAITV.id"><title lang="id">Lentera Kehidupan</title></programme>
+<programme start="20251110151500 +0000" stop="20251110153000 +0000" channel="DAAITV.id"><title lang="id">DAAI Inspirasi</title></programme>
+<programme start="20251110153000 +0000" stop="20251110160000 +0000" channel="DAAITV.id"><title lang="id">Refleksi</title></programme>
+<programme start="20251110160000 +0000" stop="20251110170000 +0000" channel="DAAITV.id"><title lang="id">Halo Indonesia</title></programme>
 <programme start="20251110171500 +0000" stop="20251110174500 +0000" channel="Trans7.id"><title lang="id">Redaksi Malam</title></programme>
 <programme start="20251110174500 +0000" stop="20251110183000 +0000" channel="Trans7.id"><title lang="id">Sport7</title></programme>
 <programme start="20251110183000 +0000" stop="20251110193000 +0000" channel="Trans7.id"><title lang="id">Best Fishing</title></programme>
@@ -1194,240 +1209,225 @@
 <programme start="20251110150000 +0000" stop="20251110160000 +0000" channel="GarudaTV.id"><title lang="id">Laporan Malam</title><desc lang="id">SPORT8 adalah program berita olahraga GarudaTV yang menghadirkan liputan terkini dan terpercaya dari berbagai cabang olahraga, baik nasional maupun internasional.</desc><image>https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg</image></programme>
 <programme start="20251110160000 +0000" stop="20251110163000 +0000" channel="GarudaTV.id"><title lang="id">Sport 8</title><desc lang="id">KICK N RUSH&quot; adalah?program acara olahraga sepak bola di Garuda TV, yang menampilkan gol-gol spektakuler dan sorotan pertandingan dari berbagai liga dunia</desc><image>https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg</image></programme>
 <programme start="20251110163000 +0000" stop="20251110170000 +0000" channel="GarudaTV.id"><title lang="id">Otomotime</title><desc lang="id">Otomotime adalah sebuah?program televisi yang membahas dunia otomotif yang ditayangkan di Garuda TV.</desc><image>https://thumbor.prod.vidiocdn.com/ddN3lE68JL046lQtz4gIQe03rIQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg</image></programme>
-<programme start="20251110170000 +0000" stop="20251110190000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251110190000 +0000" stop="20251110210000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251110210000 +0000" stop="20251110220000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251110220000 +0000" stop="20251110223000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251110223000 +0000" stop="20251110230000 +0000" channel="DAAITV.id"><title lang="id">Music Video Galeri Hijau</title></programme>
-<programme start="20251110230000 +0000" stop="20251110231500 +0000" channel="DAAITV.id"><title lang="id">DAAI Inspirasi</title></programme>
-<programme start="20251110231500 +0000" stop="20251110233000 +0000" channel="DAAITV.id"><title lang="id">Lentera Kehidupan</title></programme>
-<programme start="20251110233000 +0000" stop="20251110234500 +0000" channel="DAAITV.id"><title lang="id">Master Cheng Yen Bercerita</title></programme>
-<programme start="20251110234500 +0000" stop="20251111000000 +0000" channel="DAAITV.id"><title lang="id">Kartun Petualangan Xiao Li Zi</title></programme>
-<programme start="20251111000000 +0000" stop="20251111003000 +0000" channel="DAAITV.id"><title lang="id">dr. Panda</title></programme>
-<programme start="20251111003000 +0000" stop="20251111010000 +0000" channel="DAAITV.id"><title lang="id">Poppy Cat</title></programme>
-<programme start="20251111010000 +0000" stop="20251111013000 +0000" channel="DAAITV.id"><title lang="id">Clifford</title></programme>
-<programme start="20251111013000 +0000" stop="20251111020000 +0000" channel="DAAITV.id"><title lang="id">Peace of mind</title></programme>
-<programme start="20251111020000 +0000" stop="20251111023000 +0000" channel="DAAITV.id"><title lang="id">Bumiku Satu</title></programme>
-<programme start="20251111023000 +0000" stop="20251111030000 +0000" channel="DAAITV.id"><title lang="id">Dapur Mama</title></programme>
-<programme start="20251111030000 +0000" stop="20251111040000 +0000" channel="DAAITV.id"><title lang="id">Bincang Sehati</title></programme>
-<programme start="20251111040000 +0000" stop="20251111050000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Reborn from the Dust</title></programme>
-<programme start="20251111050000 +0000" stop="20251111060000 +0000" channel="DAAITV.id"><title lang="id">Halo Indonesia</title></programme>
-<programme start="20251111060000 +0000" stop="20251111063000 +0000" channel="DAAITV.id"><title lang="id">Tips n Trik</title></programme>
-<programme start="20251111063000 +0000" stop="20251111070000 +0000" channel="DAAITV.id"><title lang="id">at Jakarta</title></programme>
-<programme start="20251111070000 +0000" stop="20251111073000 +0000" channel="DAAITV.id"><title lang="id">Bingkai Sumatera</title></programme>
-<programme start="20251111073000 +0000" stop="20251111080000 +0000" channel="DAAITV.id"><title lang="id">Sehat Ala Timur</title></programme>
-<programme start="20251111080000 +0000" stop="20251111090000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Pasangan Idaman</title></programme>
-<programme start="20251111090000 +0000" stop="20251111093000 +0000" channel="DAAITV.id"><title lang="id">Keliling Dunia Anak</title></programme>
-<programme start="20251111093000 +0000" stop="20251111094500 +0000" channel="DAAITV.id"><title lang="id">Funsciene</title></programme>
-<programme start="20251111094500 +0000" stop="20251111100000 +0000" channel="DAAITV.id"><title lang="id">Pablo</title></programme>
-<programme start="20251111100000 +0000" stop="20251111103000 +0000" channel="DAAITV.id"><title lang="id">Clifford</title></programme>
-<programme start="20251111103000 +0000" stop="20251111110000 +0000" channel="DAAITV.id"><title lang="id">Poppy Cat</title></programme>
-<programme start="20251111110000 +0000" stop="20251111113000 +0000" channel="DAAITV.id"><title lang="id">dr. Panda</title></programme>
-<programme start="20251111113000 +0000" stop="20251111120000 +0000" channel="DAAITV.id"><title lang="id">Dapur Mama</title></programme>
-<programme start="20251111120000 +0000" stop="20251111123000 +0000" channel="DAAITV.id"><title lang="id">Potret</title></programme>
-<programme start="20251111123000 +0000" stop="20251111130000 +0000" channel="DAAITV.id"><title lang="id">Pelindung Alam</title></programme>
-<programme start="20251111130000 +0000" stop="20251111140000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Pasangan Idaman</title></programme>
-<programme start="20251111140000 +0000" stop="20251111150000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Reborn from the Dust</title></programme>
-<programme start="20251111150000 +0000" stop="20251111151500 +0000" channel="DAAITV.id"><title lang="id">Lentera Kehidupan</title></programme>
-<programme start="20251111151500 +0000" stop="20251111153000 +0000" channel="DAAITV.id"><title lang="id">DAAI Inspirasi</title></programme>
-<programme start="20251111153000 +0000" stop="20251111160000 +0000" channel="DAAITV.id"><title lang="id">Pelindung Alam</title></programme>
-<programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="DAAITV.id"><title lang="id">Halo Indonesia</title></programme>
-<programme start="20251109170000 +0000" stop="20251109190000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251109190000 +0000" stop="20251109210000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251109210000 +0000" stop="20251109220000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251109220000 +0000" stop="20251109223000 +0000" channel="DAAITV.id"><title lang="id">Sign Off</title></programme>
-<programme start="20251109223000 +0000" stop="20251109230000 +0000" channel="DAAITV.id"><title lang="id">Music Video Galeri Hijau</title></programme>
-<programme start="20251109230000 +0000" stop="20251109231500 +0000" channel="DAAITV.id"><title lang="id">DAAI Inspirasi</title></programme>
-<programme start="20251109231500 +0000" stop="20251109233000 +0000" channel="DAAITV.id"><title lang="id">Lentera Kehidupan</title></programme>
-<programme start="20251109233000 +0000" stop="20251109234500 +0000" channel="DAAITV.id"><title lang="id">Master Cheng Yen Bercerita</title></programme>
-<programme start="20251109234500 +0000" stop="20251110000000 +0000" channel="DAAITV.id"><title lang="id">Kartun Petualangan Xiao Li Zi</title></programme>
-<programme start="20251110000000 +0000" stop="20251110003000 +0000" channel="DAAITV.id"><title lang="id">dr. Panda</title></programme>
-<programme start="20251110003000 +0000" stop="20251110010000 +0000" channel="DAAITV.id"><title lang="id">Poppy Cat</title></programme>
-<programme start="20251110010000 +0000" stop="20251110013000 +0000" channel="DAAITV.id"><title lang="id">Clifford</title></programme>
-<programme start="20251110013000 +0000" stop="20251110020000 +0000" channel="DAAITV.id"><title lang="id">Peace of mind</title></programme>
-<programme start="20251110020000 +0000" stop="20251110023000 +0000" channel="DAAITV.id"><title lang="id">Bumiku Satu</title></programme>
-<programme start="20251110023000 +0000" stop="20251110030000 +0000" channel="DAAITV.id"><title lang="id">Dapur Mama</title></programme>
-<programme start="20251110030000 +0000" stop="20251110040000 +0000" channel="DAAITV.id"><title lang="id">Bincang Sehati</title></programme>
-<programme start="20251110040000 +0000" stop="20251110050000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Reborn from the Dust</title></programme>
-<programme start="20251110050000 +0000" stop="20251110060000 +0000" channel="DAAITV.id"><title lang="id">Halo Indonesia</title></programme>
-<programme start="20251110060000 +0000" stop="20251110063000 +0000" channel="DAAITV.id"><title lang="id">Tips n Trik</title></programme>
-<programme start="20251110063000 +0000" stop="20251110070000 +0000" channel="DAAITV.id"><title lang="id">at Jakarta</title></programme>
-<programme start="20251110070000 +0000" stop="20251110073000 +0000" channel="DAAITV.id"><title lang="id">Bingkai Sumatera</title></programme>
-<programme start="20251110073000 +0000" stop="20251110080000 +0000" channel="DAAITV.id"><title lang="id">Sehat Ala Timur</title></programme>
-<programme start="20251110080000 +0000" stop="20251110090000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Pasangan Idaman</title></programme>
-<programme start="20251110090000 +0000" stop="20251110093000 +0000" channel="DAAITV.id"><title lang="id">Keliling Dunia Anak</title></programme>
-<programme start="20251110093000 +0000" stop="20251110094500 +0000" channel="DAAITV.id"><title lang="id">Funsciene</title></programme>
-<programme start="20251110094500 +0000" stop="20251110100000 +0000" channel="DAAITV.id"><title lang="id">Pablo</title></programme>
-<programme start="20251110100000 +0000" stop="20251110103000 +0000" channel="DAAITV.id"><title lang="id">Clifford</title></programme>
-<programme start="20251110103000 +0000" stop="20251110110000 +0000" channel="DAAITV.id"><title lang="id">Poppy Cat</title></programme>
-<programme start="20251110110000 +0000" stop="20251110113000 +0000" channel="DAAITV.id"><title lang="id">dr. Panda</title></programme>
-<programme start="20251110113000 +0000" stop="20251110120000 +0000" channel="DAAITV.id"><title lang="id">Dapur Mama</title></programme>
-<programme start="20251110120000 +0000" stop="20251110123000 +0000" channel="DAAITV.id"><title lang="id">Citraloka</title></programme>
-<programme start="20251110123000 +0000" stop="20251110130000 +0000" channel="DAAITV.id"><title lang="id">Refleksi</title></programme>
-<programme start="20251110130000 +0000" stop="20251110140000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Pasangan Idaman</title></programme>
-<programme start="20251110140000 +0000" stop="20251110150000 +0000" channel="DAAITV.id"><title lang="id">Drama Kisah Nyata : Reborn from the Dust</title></programme>
-<programme start="20251110150000 +0000" stop="20251110151500 +0000" channel="DAAITV.id"><title lang="id">Lentera Kehidupan</title></programme>
-<programme start="20251110151500 +0000" stop="20251110153000 +0000" channel="DAAITV.id"><title lang="id">DAAI Inspirasi</title></programme>
-<programme start="20251110153000 +0000" stop="20251110160000 +0000" channel="DAAITV.id"><title lang="id">Refleksi</title></programme>
-<programme start="20251110160000 +0000" stop="20251110170000 +0000" channel="DAAITV.id"><title lang="id">Halo Indonesia</title></programme>
-<programme start="20251110171500 +0000" stop="20251110174500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
-<programme start="20251110174500 +0000" stop="20251110183000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
-<programme start="20251110183000 +0000" stop="20251110194500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
-<programme start="20251110194500 +0000" stop="20251110210000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
-<programme start="20251110210000 +0000" stop="20251110214500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
-<programme start="20251110214500 +0000" stop="20251110221500 +0000" channel="CNNIndonesia.id"><title lang="id">Gapai Kemuliaan</title></programme>
-<programme start="20251110221500 +0000" stop="20251110233000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
-<programme start="20251110233000 +0000" stop="20251111003000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
-<programme start="20251111003000 +0000" stop="20251111013000 +0000" channel="CNNIndonesia.id"><title lang="id">Good Morning</title></programme>
-<programme start="20251111013000 +0000" stop="20251111023000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
-<programme start="20251111023000 +0000" stop="20251111030000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Today</title></programme>
-<programme start="20251111030000 +0000" stop="20251111040000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Business</title></programme>
-<programme start="20251111040000 +0000" stop="20251111054500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Hour</title></programme>
-<programme start="20251111054500 +0000" stop="20251111064500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
-<programme start="20251111064500 +0000" stop="20251111071500 +0000" channel="CNNIndonesia.id"><title lang="id">World Now</title></programme>
-<programme start="20251111071500 +0000" stop="20251111081500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
-<programme start="20251111081500 +0000" stop="20251111090000 +0000" channel="CNNIndonesia.id"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20251111090000 +0000" stop="20251111093000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
-<programme start="20251111093000 +0000" stop="20251111111500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
-<programme start="20251111111500 +0000" stop="20251111120000 +0000" channel="CNNIndonesia.id"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20251111120000 +0000" stop="20251111133000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
-<programme start="20251111133000 +0000" stop="20251111143000 +0000" channel="CNNIndonesia.id"><title lang="id">Inside Politics With Diana</title></programme>
-<programme start="20251111143000 +0000" stop="20251111150000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
-<programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
-<programme start="20251111160000 +0000" stop="20251111171500 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
-<programme start="20251109171500 +0000" stop="20251109174500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Sports</title></programme>
-<programme start="20251109174500 +0000" stop="20251109184500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom Part 1</title></programme>
-<programme start="20251109184500 +0000" stop="20251109191500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
-<programme start="20251109191500 +0000" stop="20251109194500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom Part 2</title></programme>
-<programme start="20251109194500 +0000" stop="20251109211500 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
-<programme start="20251109211500 +0000" stop="20251109214500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Akhir Pekan</title></programme>
-<programme start="20251109214500 +0000" stop="20251109221500 +0000" channel="CNNIndonesia.id"><title lang="id">Gapai Kemuliaan</title></programme>
-<programme start="20251109221500 +0000" stop="20251109233000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
-<programme start="20251109233000 +0000" stop="20251110000000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
-<programme start="20251110000000 +0000" stop="20251110003000 +0000" channel="CNNIndonesia.id"><title lang="id">Insiders</title></programme>
-<programme start="20251110003000 +0000" stop="20251110013000 +0000" channel="CNNIndonesia.id"><title lang="id">Good Morning</title></programme>
-<programme start="20251110013000 +0000" stop="20251110023000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
-<programme start="20251110023000 +0000" stop="20251110030000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Today</title></programme>
-<programme start="20251110030000 +0000" stop="20251110040000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Business</title></programme>
-<programme start="20251110040000 +0000" stop="20251110054500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Hour</title></programme>
-<programme start="20251110054500 +0000" stop="20251110061500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
-<programme start="20251110061500 +0000" stop="20251110064500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Today</title></programme>
-<programme start="20251110064500 +0000" stop="20251110071500 +0000" channel="CNNIndonesia.id"><title lang="id">World Now</title></programme>
-<programme start="20251110071500 +0000" stop="20251110081500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
-<programme start="20251110081500 +0000" stop="20251110090000 +0000" channel="CNNIndonesia.id"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20251110090000 +0000" stop="20251110093000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
-<programme start="20251110093000 +0000" stop="20251110111500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
-<programme start="20251110111500 +0000" stop="20251110120000 +0000" channel="CNNIndonesia.id"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20251110120000 +0000" stop="20251110133000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
-<programme start="20251110133000 +0000" stop="20251110150000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime Plus With Bram</title></programme>
-<programme start="20251110150000 +0000" stop="20251110153000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
-<programme start="20251110153000 +0000" stop="20251110160000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
-<programme start="20251110160000 +0000" stop="20251110171500 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
-<programme start="20251110170000 +0000" stop="20251110190000 +0000" channel="CNBCIndonesia.id"><title lang="id">Power Lunch</title></programme>
-<programme start="20251110190000 +0000" stop="20251110210000 +0000" channel="CNBCIndonesia.id"><title lang="id">Closing Bell</title></programme>
-<programme start="20251110210000 +0000" stop="20251110213000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20251110213000 +0000" stop="20251110223000 +0000" channel="CNBCIndonesia.id"><title lang="id">Evening Up</title></programme>
-<programme start="20251110223000 +0000" stop="20251110230000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20251110230000 +0000" stop="20251110233000 +0000" channel="CNBCIndonesia.id"><title lang="id">CNBC Indonesia Exclusive</title></programme>
-<programme start="20251110233000 +0000" stop="20251111000000 +0000" channel="CNBCIndonesia.id"><title lang="id">Autobizz</title></programme>
-<programme start="20251111000000 +0000" stop="20251111003000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20251111003000 +0000" stop="20251111010000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20251111010000 +0000" stop="20251111030000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box - Live</title></programme>
-<programme start="20251111030000 +0000" stop="20251111045500 +0000" channel="CNBCIndonesia.id"><title lang="id">Profit - Live</title></programme>
-<programme start="20251111045500 +0000" stop="20251111070000 +0000" channel="CNBCIndonesia.id"><title lang="id">Power Lunch - Live</title></programme>
-<programme start="20251111070000 +0000" stop="20251111081500 +0000" channel="CNBCIndonesia.id"><title lang="id">Insight - Big Stories Of The Week</title></programme>
-<programme start="20251111081500 +0000" stop="20251111084500 +0000" channel="CNBCIndonesia.id"><title lang="id">Closing Bell</title></programme>
-<programme start="20251111084500 +0000" stop="20251111100000 +0000" channel="CNBCIndonesia.id"><title lang="id">Closing Bell - Live</title></programme>
-<programme start="20251111100000 +0000" stop="20251111110500 +0000" channel="CNBCIndonesia.id"><title lang="id">Evening Up - Live</title></programme>
-<programme start="20251111110500 +0000" stop="20251111120000 +0000" channel="CNBCIndonesia.id"><title lang="id">Manufacture Check - Live</title></programme>
-<programme start="20251111120000 +0000" stop="20251111123000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20251111123000 +0000" stop="20251111130000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20251111130000 +0000" stop="20251111150000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box</title></programme>
-<programme start="20251111150000 +0000" stop="20251111170000 +0000" channel="CNBCIndonesia.id"><title lang="id">Profit</title></programme>
-<programme start="20251109170000 +0000" stop="20251109173000 +0000" channel="CNBCIndonesia.id"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20251109173000 +0000" stop="20251109180000 +0000" channel="CNBCIndonesia.id"><title lang="id">Tech A Look</title></programme>
-<programme start="20251109180000 +0000" stop="20251109183000 +0000" channel="CNBCIndonesia.id"><title lang="id">Tech A Look</title></programme>
-<programme start="20251109183000 +0000" stop="20251109190000 +0000" channel="CNBCIndonesia.id"><title lang="id">Tech A Look</title></programme>
-<programme start="20251109190000 +0000" stop="20251109193000 +0000" channel="CNBCIndonesia.id"><title lang="id">Money Talks</title></programme>
-<programme start="20251109193000 +0000" stop="20251109200000 +0000" channel="CNBCIndonesia.id"><title lang="id">Money Talks</title></programme>
-<programme start="20251109200000 +0000" stop="20251109203000 +0000" channel="CNBCIndonesia.id"><title lang="id">Money Talks</title></programme>
-<programme start="20251109203000 +0000" stop="20251109210000 +0000" channel="CNBCIndonesia.id"><title lang="id">Money Talks</title></programme>
-<programme start="20251109210000 +0000" stop="20251109213000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20251109213000 +0000" stop="20251109220000 +0000" channel="CNBCIndonesia.id"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20251109220000 +0000" stop="20251109223000 +0000" channel="CNBCIndonesia.id"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20251109223000 +0000" stop="20251109230000 +0000" channel="CNBCIndonesia.id"><title lang="id">Editor&apos;s View</title></programme>
-<programme start="20251109230000 +0000" stop="20251109233000 +0000" channel="CNBCIndonesia.id"><title lang="id">Energy Corner</title></programme>
-<programme start="20251109233000 +0000" stop="20251110000000 +0000" channel="CNBCIndonesia.id"><title lang="id">Autobizz</title></programme>
-<programme start="20251110000000 +0000" stop="20251110003000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20251110003000 +0000" stop="20251110010000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20251110010000 +0000" stop="20251110030000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box</title></programme>
-<programme start="20251110030000 +0000" stop="20251110045500 +0000" channel="CNBCIndonesia.id"><title lang="id">Profit</title></programme>
-<programme start="20251110045500 +0000" stop="20251110070000 +0000" channel="CNBCIndonesia.id"><title lang="id">Power Lunch</title></programme>
-<programme start="20251110070000 +0000" stop="20251110073000 +0000" channel="CNBCIndonesia.id"><title lang="id">Energy Corner</title></programme>
-<programme start="20251110073000 +0000" stop="20251110080000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20251110080000 +0000" stop="20251110100000 +0000" channel="CNBCIndonesia.id"><title lang="id">Closing Bell</title></programme>
-<programme start="20251110100000 +0000" stop="20251110110500 +0000" channel="CNBCIndonesia.id"><title lang="id">Evening Up</title></programme>
-<programme start="20251110110500 +0000" stop="20251110120000 +0000" channel="CNBCIndonesia.id"><title lang="id">Manufacture Check</title></programme>
-<programme start="20251110120000 +0000" stop="20251110123000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20251110123000 +0000" stop="20251110130000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
-<programme start="20251110130000 +0000" stop="20251110150000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box</title></programme>
-<programme start="20251110150000 +0000" stop="20251110170000 +0000" channel="CNBCIndonesia.id"><title lang="id">Profit</title></programme>
-<programme start="20251110173000 +0000" stop="20251110182700 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
-<programme start="20251110182700 +0000" stop="20251110183000 +0000" channel="BTV.id"><title lang="id">Tanah Airku</title></programme>
-<programme start="20251110183000 +0000" stop="20251110193000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore &quot;Recorded&quot;</title></programme>
-<programme start="20251110193000 +0000" stop="20251110203000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam &quot;Recorded&quot;</title></programme>
-<programme start="20251110203000 +0000" stop="20251110213000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
-<programme start="20251110213000 +0000" stop="20251110223000 +0000" channel="BTV.id"><title lang="id">Berita Satu Pagi</title></programme>
-<programme start="20251110223000 +0000" stop="20251110230000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
-<programme start="20251110230000 +0000" stop="20251110230300 +0000" channel="BTV.id"><title lang="id">Indonesia Raya</title></programme>
-<programme start="20251110230300 +0000" stop="20251111003000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah</title></programme>
-<programme start="20251111003000 +0000" stop="20251111011500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
-<programme start="20251111011500 +0000" stop="20251111014500 +0000" channel="BTV.id"><title lang="id">Kuyliner</title></programme>
-<programme start="20251111014500 +0000" stop="20251111023000 +0000" channel="BTV.id"><title lang="id">Masak Ala Devina Hermawan</title></programme>
-<programme start="20251111023000 +0000" stop="20251111031500 +0000" channel="BTV.id"><title lang="id">Selera Rasa</title></programme>
-<programme start="20251111031500 +0000" stop="20251111040000 +0000" channel="BTV.id"><title lang="id">Ketulusan Hati</title></programme>
-<programme start="20251111040000 +0000" stop="20251111050000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
-<programme start="20251111050000 +0000" stop="20251111060000 +0000" channel="BTV.id"><title lang="id">Investor Market Today</title></programme>
-<programme start="20251111060000 +0000" stop="20251111063000 +0000" channel="BTV.id"><title lang="id">Investor Daily Talk</title></programme>
-<programme start="20251111063000 +0000" stop="20251111080000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
-<programme start="20251111080000 +0000" stop="20251111083000 +0000" channel="BTV.id"><title lang="id">Dikit - Dikit Damkar</title></programme>
-<programme start="20251111083000 +0000" stop="20251111091500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
-<programme start="20251111091500 +0000" stop="20251111093000 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
-<programme start="20251111093000 +0000" stop="20251111103000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
-<programme start="20251111103000 +0000" stop="20251111123000 +0000" channel="BTV.id"><title lang="id">Berita Satu Utama</title></programme>
-<programme start="20251111123000 +0000" stop="20251111130000 +0000" channel="BTV.id"><title lang="id">Dunia Binatang</title></programme>
-<programme start="20251111130000 +0000" stop="20251111140000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
-<programme start="20251111140000 +0000" stop="20251111150000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
-<programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20251111160000 +0000" stop="20251111163000 +0000" channel="BTV.id"><title lang="id">Mitos Tengah Malam</title></programme>
-<programme start="20251111163000 +0000" stop="20251111173000 +0000" channel="BTV.id"><title lang="id">One Vault</title></programme>
-<programme start="20251109173000 +0000" stop="20251109182700 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
-<programme start="20251109182700 +0000" stop="20251109183000 +0000" channel="BTV.id"><title lang="id">Tanah Airku</title></programme>
-<programme start="20251109183000 +0000" stop="20251109193000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore &quot;Recorded&quot;</title></programme>
-<programme start="20251109193000 +0000" stop="20251109203000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam &quot;Recorded&quot;</title></programme>
-<programme start="20251109203000 +0000" stop="20251109213000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
-<programme start="20251109213000 +0000" stop="20251109223000 +0000" channel="BTV.id"><title lang="id">Berita Satu Pagi</title></programme>
-<programme start="20251109223000 +0000" stop="20251109230000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
-<programme start="20251109230000 +0000" stop="20251109230300 +0000" channel="BTV.id"><title lang="id">Indonesia Raya</title></programme>
-<programme start="20251109230300 +0000" stop="20251110003000 +0000" channel="BTV.id"><title lang="id">Jalan Dakwah</title></programme>
-<programme start="20251110003000 +0000" stop="20251110011500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
-<programme start="20251110011500 +0000" stop="20251110014500 +0000" channel="BTV.id"><title lang="id">Kuyliner</title></programme>
-<programme start="20251110014500 +0000" stop="20251110023000 +0000" channel="BTV.id"><title lang="id">Masak Ala Devina Hermawan</title></programme>
-<programme start="20251110023000 +0000" stop="20251110031500 +0000" channel="BTV.id"><title lang="id">Selera Rasa</title></programme>
-<programme start="20251110031500 +0000" stop="20251110040000 +0000" channel="BTV.id"><title lang="id">Ketulusan Hati</title></programme>
-<programme start="20251110040000 +0000" stop="20251110050000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
-<programme start="20251110050000 +0000" stop="20251110060000 +0000" channel="BTV.id"><title lang="id">Investor Market Today</title></programme>
-<programme start="20251110060000 +0000" stop="20251110063000 +0000" channel="BTV.id"><title lang="id">Investor Daily Talk</title></programme>
-<programme start="20251110063000 +0000" stop="20251110080000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
-<programme start="20251110080000 +0000" stop="20251110083000 +0000" channel="BTV.id"><title lang="id">Dikit - Dikit Damkar</title></programme>
-<programme start="20251110083000 +0000" stop="20251110091500 +0000" channel="BTV.id"><title lang="id">Figur Publik</title></programme>
-<programme start="20251110091500 +0000" stop="20251110093000 +0000" channel="BTV.id"><title lang="id">Info Seleb</title></programme>
-<programme start="20251110093000 +0000" stop="20251110103000 +0000" channel="BTV.id"><title lang="id">Berita Satu Sore</title></programme>
-<programme start="20251110103000 +0000" stop="20251110123000 +0000" channel="BTV.id"><title lang="id">Berita Satu Utama</title></programme>
-<programme start="20251110123000 +0000" stop="20251110130000 +0000" channel="BTV.id"><title lang="id">Dunia Binatang</title></programme>
-<programme start="20251110130000 +0000" stop="20251110140000 +0000" channel="BTV.id"><title lang="id">Berita Viral</title></programme>
-<programme start="20251110140000 +0000" stop="20251110150000 +0000" channel="BTV.id"><title lang="id">Spot On</title></programme>
-<programme start="20251110150000 +0000" stop="20251110160000 +0000" channel="BTV.id"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20251110160000 +0000" stop="20251110163000 +0000" channel="BTV.id"><title lang="id">Mitos Tengah Malam</title></programme>
-<programme start="20251110163000 +0000" stop="20251110173000 +0000" channel="BTV.id"><title lang="id">One Vault</title></programme>
+<programme start="20251110170000 +0000" stop="20251110180000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251110180000 +0000" stop="20251110190000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251110190000 +0000" stop="20251110200000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251110200000 +0000" stop="20251110210000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251110210000 +0000" stop="20251110214500 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251110214500 +0000" stop="20251110220000 +0000" channel="TVMu.id"><title lang="id">Opening</title></programme>
+<programme start="20251110220000 +0000" stop="20251110221500 +0000" channel="TVMu.id"><title lang="id">Paham Muhammadiyah</title></programme>
+<programme start="20251110221500 +0000" stop="20251110233000 +0000" channel="TVMu.id"><title lang="id">Gerakan Subuh Mengaji</title></programme>
+<programme start="20251110233000 +0000" stop="20251111003000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
+<programme start="20251111003000 +0000" stop="20251111010000 +0000" channel="TVMu.id"><title lang="id">Zona Musik Religi</title></programme>
+<programme start="20251111010000 +0000" stop="20251111013000 +0000" channel="TVMu.id"><title lang="id">Waktu Indonesia Belajar</title></programme>
+<programme start="20251111013000 +0000" stop="20251111020000 +0000" channel="TVMu.id"><title lang="id">Waktu Indonesia Belajar</title></programme>
+<programme start="20251111020000 +0000" stop="20251111023000 +0000" channel="TVMu.id"><title lang="id">Belajar Tahsin Metode Azka</title></programme>
+<programme start="20251111023000 +0000" stop="20251111030000 +0000" channel="TVMu.id"><title lang="id">Tuntunan Akhir Zaman</title></programme>
+<programme start="20251111030000 +0000" stop="20251111040000 +0000" channel="TVMu.id"><title lang="id">Podcast TV Show</title></programme>
+<programme start="20251111040000 +0000" stop="20251111043000 +0000" channel="TVMu.id"><title lang="id">Refleksi Haedar Nashir</title></programme>
+<programme start="20251111043000 +0000" stop="20251111050000 +0000" channel="TVMu.id"><title lang="id">Netizen Bertanya Ustadz Menjawab</title></programme>
+<programme start="20251111050000 +0000" stop="20251111060000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
+<programme start="20251111060000 +0000" stop="20251111063000 +0000" channel="TVMu.id"><title lang="id">Zona Musik Religi</title></programme>
+<programme start="20251111063000 +0000" stop="20251111070000 +0000" channel="TVMu.id"><title lang="id">Tuntunan Akhir Zaman</title></programme>
+<programme start="20251111070000 +0000" stop="20251111073000 +0000" channel="TVMu.id"><title lang="id">Waktu Indonesia Belajar</title></programme>
+<programme start="20251111073000 +0000" stop="20251111080000 +0000" channel="TVMu.id"><title lang="id">Waktu Indonesia Belajar</title></programme>
+<programme start="20251111080000 +0000" stop="20251111083000 +0000" channel="TVMu.id"><title lang="id">Belajar Tahsin Metode Azka</title></programme>
+<programme start="20251111083000 +0000" stop="20251111090000 +0000" channel="TVMu.id"><title lang="id">Masjidil Haram</title></programme>
+<programme start="20251111090000 +0000" stop="20251111100000 +0000" channel="TVMu.id"><title lang="id">Gerakan Subuh Mengaji</title></programme>
+<programme start="20251111100000 +0000" stop="20251111110000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
+<programme start="20251111110000 +0000" stop="20251111113000 +0000" channel="TVMu.id"><title lang="id">Tuntunan Akhir Zaman</title></programme>
+<programme start="20251111113000 +0000" stop="20251111120000 +0000" channel="TVMu.id"><title lang="id">Belajar Tahsin Metode Azka</title></programme>
+<programme start="20251111120000 +0000" stop="20251111130000 +0000" channel="TVMu.id"><title lang="id">Podcast TV Show</title></programme>
+<programme start="20251111130000 +0000" stop="20251111133000 +0000" channel="TVMu.id"><title lang="id">Netizen Bertanya Ustadz Menjawab</title></programme>
+<programme start="20251111133000 +0000" stop="20251111140000 +0000" channel="TVMu.id"><title lang="id">Refleksi Haedar Nashir</title></programme>
+<programme start="20251111140000 +0000" stop="20251111150000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
+<programme start="20251111150000 +0000" stop="20251111160000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251111160000 +0000" stop="20251111170000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251109170000 +0000" stop="20251109180000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251109180000 +0000" stop="20251109190000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251109190000 +0000" stop="20251109200000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251109200000 +0000" stop="20251109210000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251109210000 +0000" stop="20251109214500 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251109214500 +0000" stop="20251109220000 +0000" channel="TVMu.id"><title lang="id">Opening</title></programme>
+<programme start="20251109220000 +0000" stop="20251109221500 +0000" channel="TVMu.id"><title lang="id">Paham Muhammadiyah</title></programme>
+<programme start="20251109221500 +0000" stop="20251109233000 +0000" channel="TVMu.id"><title lang="id">Gerakan Subuh Mengaji</title></programme>
+<programme start="20251109233000 +0000" stop="20251110003000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
+<programme start="20251110003000 +0000" stop="20251110010000 +0000" channel="TVMu.id"><title lang="id">Zona Musik Religi</title></programme>
+<programme start="20251110010000 +0000" stop="20251110013000 +0000" channel="TVMu.id"><title lang="id">Kajian Ahad</title></programme>
+<programme start="20251110013000 +0000" stop="20251110023000 +0000" channel="TVMu.id"><title lang="id">Karima</title></programme>
+<programme start="20251110023000 +0000" stop="20251110030000 +0000" channel="TVMu.id"><title lang="id">UMJ Talks</title></programme>
+<programme start="20251110030000 +0000" stop="20251110040000 +0000" channel="TVMu.id"><title lang="id">Teras tvMu</title></programme>
+<programme start="20251110040000 +0000" stop="20251110043000 +0000" channel="TVMu.id"><title lang="id">DiasporaMu</title></programme>
+<programme start="20251110043000 +0000" stop="20251110050000 +0000" channel="TVMu.id"><title lang="id">Catatan Akhir Pekan</title></programme>
+<programme start="20251110050000 +0000" stop="20251110060000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
+<programme start="20251110060000 +0000" stop="20251110063000 +0000" channel="TVMu.id"><title lang="id">Zona Musik Religi</title></programme>
+<programme start="20251110063000 +0000" stop="20251110070000 +0000" channel="TVMu.id"><title lang="id">Berita Muhammadiyah Sepekan</title></programme>
+<programme start="20251110070000 +0000" stop="20251110073000 +0000" channel="TVMu.id"><title lang="id">Tafsir Al - Azhar</title></programme>
+<programme start="20251110073000 +0000" stop="20251110080000 +0000" channel="TVMu.id"><title lang="id">KOLAK</title></programme>
+<programme start="20251110080000 +0000" stop="20251110083000 +0000" channel="TVMu.id"><title lang="id">Karima</title></programme>
+<programme start="20251110083000 +0000" stop="20251110090000 +0000" channel="TVMu.id"><title lang="id">Masjidil Haram</title></programme>
+<programme start="20251110090000 +0000" stop="20251110100000 +0000" channel="TVMu.id"><title lang="id">Gerakan Subuh Mengaji</title></programme>
+<programme start="20251110100000 +0000" stop="20251110110000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
+<programme start="20251110110000 +0000" stop="20251110113000 +0000" channel="TVMu.id"><title lang="id">Refleksi Haedar Nashir</title></programme>
+<programme start="20251110113000 +0000" stop="20251110120000 +0000" channel="TVMu.id"><title lang="id">Catatan Akhir Pekan</title></programme>
+<programme start="20251110120000 +0000" stop="20251110123000 +0000" channel="TVMu.id"><title lang="id">Menuju Baitullah</title></programme>
+<programme start="20251110123000 +0000" stop="20251110133000 +0000" channel="TVMu.id"><title lang="id">Dialektika tvMu</title></programme>
+<programme start="20251110133000 +0000" stop="20251110140000 +0000" channel="TVMu.id"><title lang="id">DiasporaMu</title></programme>
+<programme start="20251110140000 +0000" stop="20251110150000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
+<programme start="20251110150000 +0000" stop="20251110160000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251110160000 +0000" stop="20251110170000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251110170000 +0000" stop="20251110173000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Malam</title></programme>
+<programme start="20251110173000 +0000" stop="20251110180000 +0000" channel="TVRINasional.id"><title lang="id">Flasback</title></programme>
+<programme start="20251110180000 +0000" stop="20251110190000 +0000" channel="TVRINasional.id"><title lang="id">PT Bule</title></programme>
+<programme start="20251110190000 +0000" stop="20251110200000 +0000" channel="TVRINasional.id"><title lang="id">Kongkow On the Air</title></programme>
+<programme start="20251110200000 +0000" stop="20251110203000 +0000" channel="TVRINasional.id"><title lang="id">Inspirasi Indonesia</title></programme>
+<programme start="20251110203000 +0000" stop="20251110210000 +0000" channel="TVRINasional.id"><title lang="id">OTO Screen</title></programme>
+<programme start="20251110210000 +0000" stop="20251110213000 +0000" channel="TVRINasional.id"><title lang="id">Jejak Islam</title></programme>
+<programme start="20251110213000 +0000" stop="20251110230000 +0000" channel="TVRINasional.id"><title lang="id">Serambi Islami</title></programme>
+<programme start="20251110230000 +0000" stop="20251111000000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Pagi</title></programme>
+<programme start="20251111000000 +0000" stop="20251111010000 +0000" channel="TVRINasional.id"><title lang="id">News Bulletin: Jendela Negeri</title></programme>
+<programme start="20251111010000 +0000" stop="20251111020000 +0000" channel="TVRINasional.id"><title lang="id">Bersama Perempuan</title></programme>
+<programme start="20251111020000 +0000" stop="20251111023000 +0000" channel="TVRINasional.id"><title lang="id">Mari Menggambar</title></programme>
+<programme start="20251111023000 +0000" stop="20251111033000 +0000" channel="TVRINasional.id"><title lang="id">Indonesia Sehat - Halo Dokter</title></programme>
+<programme start="20251111033000 +0000" stop="20251111040000 +0000" channel="TVRINasional.id"><title lang="id">Dapur Devina</title></programme>
+<programme start="20251111040000 +0000" stop="20251111050000 +0000" channel="TVRINasional.id"><title lang="id">Seblak Show</title></programme>
+<programme start="20251111050000 +0000" stop="20251111060000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Siang</title></programme>
+<programme start="20251111060000 +0000" stop="20251111063000 +0000" channel="TVRINasional.id"><title lang="id">Feature LKBN Antara</title></programme>
+<programme start="20251111063000 +0000" stop="20251111070000 +0000" channel="TVRINasional.id"><title lang="id">Bertani Itu Keren</title></programme>
+<programme start="20251111070000 +0000" stop="20251111073000 +0000" channel="TVRINasional.id"><title lang="id">Pesona Indonesia</title></programme>
+<programme start="20251111073000 +0000" stop="20251111080000 +0000" channel="TVRINasional.id"><title lang="id">Inspirasi Indonesia</title></programme>
+<programme start="20251111080000 +0000" stop="20251111083000 +0000" channel="TVRINasional.id"><title lang="id">Mimbar Agama - Kristen</title></programme>
+<programme start="20251111083000 +0000" stop="20251111090000 +0000" channel="TVRINasional.id"><title lang="id">Tapal Batas</title></programme>
+<programme start="20251111090000 +0000" stop="20251111100000 +0000" channel="TVRINasional.id"><title lang="id">Pengen Beken</title></programme>
+<programme start="20251111100000 +0000" stop="20251111103000 +0000" channel="TVRINasional.id"><title lang="id">Pilihan Rakyat</title></programme>
+<programme start="20251111103000 +0000" stop="20251111110000 +0000" channel="TVRINasional.id"><title lang="id">Sketsa Pemilu</title></programme>
+<programme start="20251111110000 +0000" stop="20251111120000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Petang</title></programme>
+<programme start="20251111120000 +0000" stop="20251111131500 +0000" channel="TVRINasional.id"><title lang="id">Indonesia Bicara</title></programme>
+<programme start="20251111131500 +0000" stop="20251111140000 +0000" channel="TVRINasional.id"><title lang="id">Warung Pengkolan</title></programme>
+<programme start="20251111140000 +0000" stop="20251111143000 +0000" channel="TVRINasional.id"><title lang="id">Dunia Dalam Berita</title></programme>
+<programme start="20251111143000 +0000" stop="20251111153000 +0000" channel="TVRINasional.id"><title lang="id">Jazz Corner</title></programme>
+<programme start="20251111153000 +0000" stop="20251111163000 +0000" channel="TVRINasional.id"><title lang="id">Home Stay Riweuh</title></programme>
+<programme start="20251111163000 +0000" stop="20251111170000 +0000" channel="TVRINasional.id"><title lang="id">Monitor Olahraga</title></programme>
+<programme start="20251109170000 +0000" stop="20251109173000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Malam</title></programme>
+<programme start="20251109173000 +0000" stop="20251109180000 +0000" channel="TVRINasional.id"><title lang="id">Flasback</title></programme>
+<programme start="20251109180000 +0000" stop="20251109190000 +0000" channel="TVRINasional.id"><title lang="id">SOS Show</title></programme>
+<programme start="20251109190000 +0000" stop="20251109200000 +0000" channel="TVRINasional.id"><title lang="id">Kongkow On the Air</title></programme>
+<programme start="20251109200000 +0000" stop="20251109203000 +0000" channel="TVRINasional.id"><title lang="id">Inspirasi Indonesia</title></programme>
+<programme start="20251109203000 +0000" stop="20251109210000 +0000" channel="TVRINasional.id"><title lang="id">OTO Screen</title></programme>
+<programme start="20251109210000 +0000" stop="20251109213000 +0000" channel="TVRINasional.id"><title lang="id">Jejak Islam</title></programme>
+<programme start="20251109213000 +0000" stop="20251109230000 +0000" channel="TVRINasional.id"><title lang="id">Serambi Islami</title></programme>
+<programme start="20251109230000 +0000" stop="20251110000000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Pagi</title></programme>
+<programme start="20251110000000 +0000" stop="20251110010000 +0000" channel="TVRINasional.id"><title lang="id">News Bulletin: Jendela Negeri</title></programme>
+<programme start="20251110010000 +0000" stop="20251110020000 +0000" channel="TVRINasional.id"><title lang="id">Bersama Perempuan</title></programme>
+<programme start="20251110020000 +0000" stop="20251110023000 +0000" channel="TVRINasional.id"><title lang="id">Mari Menggambar</title></programme>
+<programme start="20251110023000 +0000" stop="20251110033000 +0000" channel="TVRINasional.id"><title lang="id">Indonesia Sehat - Halo Dokter</title></programme>
+<programme start="20251110033000 +0000" stop="20251110040000 +0000" channel="TVRINasional.id"><title lang="id">Dapur Devina</title></programme>
+<programme start="20251110040000 +0000" stop="20251110050000 +0000" channel="TVRINasional.id"><title lang="id">Seblak Show</title></programme>
+<programme start="20251110050000 +0000" stop="20251110060000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Siang</title></programme>
+<programme start="20251110060000 +0000" stop="20251110063000 +0000" channel="TVRINasional.id"><title lang="id">Feature LKBN Antara</title></programme>
+<programme start="20251110063000 +0000" stop="20251110070000 +0000" channel="TVRINasional.id"><title lang="id">Tekno Tani</title></programme>
+<programme start="20251110070000 +0000" stop="20251110073000 +0000" channel="TVRINasional.id"><title lang="id">Pesona Indonesia</title></programme>
+<programme start="20251110073000 +0000" stop="20251110080000 +0000" channel="TVRINasional.id"><title lang="id">Inspirasi Indonesia</title></programme>
+<programme start="20251110080000 +0000" stop="20251110083000 +0000" channel="TVRINasional.id"><title lang="id">Mimbar Agama - Katolik</title></programme>
+<programme start="20251110083000 +0000" stop="20251110090000 +0000" channel="TVRINasional.id"><title lang="id">Tapal Batas</title></programme>
+<programme start="20251110090000 +0000" stop="20251110100000 +0000" channel="TVRINasional.id"><title lang="id">Pengen Beken</title></programme>
+<programme start="20251110100000 +0000" stop="20251110103000 +0000" channel="TVRINasional.id"><title lang="id">Pilihan Rakyat</title></programme>
+<programme start="20251110103000 +0000" stop="20251110110000 +0000" channel="TVRINasional.id"><title lang="id">Sketsa Pemilu</title></programme>
+<programme start="20251110110000 +0000" stop="20251110120000 +0000" channel="TVRINasional.id"><title lang="id">Klik Indonesia Petang</title></programme>
+<programme start="20251110120000 +0000" stop="20251110130000 +0000" channel="TVRINasional.id"><title lang="id">Peta Politik Nasional</title></programme>
+<programme start="20251110130000 +0000" stop="20251110140000 +0000" channel="TVRINasional.id"><title lang="id">Zoom - Zona Orang Muda</title></programme>
+<programme start="20251110140000 +0000" stop="20251110143000 +0000" channel="TVRINasional.id"><title lang="id">Dunia Dalam Berita</title></programme>
+<programme start="20251110143000 +0000" stop="20251110153000 +0000" channel="TVRINasional.id"><title lang="id">Kenangan Masa</title></programme>
+<programme start="20251110153000 +0000" stop="20251110163000 +0000" channel="TVRINasional.id"><title lang="id">Home Stay Riweuh</title></programme>
+<programme start="20251110163000 +0000" stop="20251110170000 +0000" channel="TVRINasional.id"><title lang="id">Monitor Olahraga</title></programme>
+<programme start="20251109170000 +0000" stop="20251109173000 +0000" channel="tvOne.id"><title lang="id">Sport Style</title></programme>
+<programme start="20251109173000 +0000" stop="20251109180000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
+<programme start="20251109180000 +0000" stop="20251109193000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
+<programme start="20251109193000 +0000" stop="20251109200000 +0000" channel="tvOne.id"><title lang="id">Metropolitan</title></programme>
+<programme start="20251109200000 +0000" stop="20251109203000 +0000" channel="tvOne.id"><title lang="id">Berita Utama Kriminal</title></programme>
+<programme start="20251109203000 +0000" stop="20251109210000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
+<programme start="20251109210000 +0000" stop="20251109213000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi</title></programme>
+<programme start="20251109213000 +0000" stop="20251109230000 +0000" channel="tvOne.id"><title lang="id">Kabar Pagi (Live)</title></programme>
+<programme start="20251109230000 +0000" stop="20251109233000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi (Live)</title></programme>
+<programme start="20251109233000 +0000" stop="20251110013000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Pagi (Live)</title></programme>
+<programme start="20251110013000 +0000" stop="20251110020000 +0000" channel="tvOne.id"><title lang="id">Hidup Sehat (Live)</title></programme>
+<programme start="20251110020000 +0000" stop="20251110023000 +0000" channel="tvOne.id"><title lang="id">Inspirasi Pagi (Live)</title></programme>
+<programme start="20251110023000 +0000" stop="20251110033000 +0000" channel="tvOne.id"><title lang="id">Pagi - Pagi Seru (Live)</title></programme>
+<programme start="20251110033000 +0000" stop="20251110040000 +0000" channel="tvOne.id"><title lang="id">Metropolitan (Live)</title></programme>
+<programme start="20251110040000 +0000" stop="20251110060000 +0000" channel="tvOne.id"><title lang="id">Kabar Siang (Live)</title></programme>
+<programme start="20251110060000 +0000" stop="20251110073000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Siang (Live)</title></programme>
+<programme start="20251110073000 +0000" stop="20251110083000 +0000" channel="tvOne.id"><title lang="id">Kabar Merah Putih (Live)</title></programme>
+<programme start="20251110083000 +0000" stop="20251110090000 +0000" channel="tvOne.id"><title lang="id">Berita Utama Kriminal (Live)</title></programme>
+<programme start="20251110090000 +0000" stop="20251110110000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang (Live)</title></programme>
+<programme start="20251110110000 +0000" stop="20251110125700 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam (Live)</title></programme>
+<programme start="20251110125700 +0000" stop="20251110130000 +0000" channel="tvOne.id"><title lang="id">Kabar Terkini</title></programme>
+<programme start="20251110130000 +0000" stop="20251110143000 +0000" channel="tvOne.id"><title lang="id">Talkshow Spesial (Live) Bukan Pahlawan Biasa</title></programme>
+<programme start="20251110143000 +0000" stop="20251110153000 +0000" channel="tvOne.id"><title lang="id">Fakta</title></programme>
+<programme start="20251110153000 +0000" stop="20251110163000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
+<programme start="20251110163000 +0000" stop="20251110170000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Malam (Live)</title></programme>
+<programme start="20251110180000 +0000" stop="20251110183000 +0000" channel="TransTV.id"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20251110183000 +0000" stop="20251110194000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Prime News</title></programme>
+<programme start="20251110194000 +0000" stop="20251110202000 +0000" channel="TransTV.id"><title lang="id">Klinik Tendean</title></programme>
+<programme start="20251110202000 +0000" stop="20251110214000 +0000" channel="TransTV.id"><title lang="id">Antara Cinta Dan Doa</title></programme>
+<programme start="20251110214000 +0000" stop="20251110220000 +0000" channel="TransTV.id"><title lang="id">Cerita Di Balik Hijab</title></programme>
+<programme start="20251110220000 +0000" stop="20251110233000 +0000" channel="TransTV.id"><title lang="id">Islam Itu Indah</title></programme>
+<programme start="20251110233000 +0000" stop="20251111003000 +0000" channel="TransTV.id"><title lang="id">Insert Pagi</title></programme>
+<programme start="20251111003000 +0000" stop="20251111013000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Good Morning</title></programme>
+<programme start="20251111013000 +0000" stop="20251111033000 +0000" channel="TransTV.id"><title lang="id">Pagi-Pagi Ambyar</title></programme>
+<programme start="20251111033000 +0000" stop="20251111053000 +0000" channel="TransTV.id"><title lang="id">Insert</title></programme>
+<programme start="20251111053000 +0000" stop="20251111070000 +0000" channel="TransTV.id"><title lang="id">Brownis - Obrolan Manis</title></programme>
+<programme start="20251111070000 +0000" stop="20251111080000 +0000" channel="TransTV.id"><title lang="id">Rumpi - No Secret</title></programme>
+<programme start="20251111080000 +0000" stop="20251111090000 +0000" channel="TransTV.id"><title lang="id">Insert Today</title></programme>
+<programme start="20251111090000 +0000" stop="20251111093000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20251111093000 +0000" stop="20251111103000 +0000" channel="TransTV.id"><title lang="id">Dream Box Indonesia</title></programme>
+<programme start="20251111103000 +0000" stop="20251111114500 +0000" channel="TransTV.id"><title lang="id">Bikin Laper</title></programme>
+<programme start="20251111114500 +0000" stop="20251111130000 +0000" channel="TransTV.id"><title lang="id">Insert Story</title></programme>
+<programme start="20251111130000 +0000" stop="20251111140000 +0000" channel="TransTV.id"><title lang="id">Dunia Punya Cerita</title></programme>
+<programme start="20251111140000 +0000" stop="20251111160000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - The Informer</title></programme>
+<programme start="20251111160000 +0000" stop="20251111180000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - To Kill With Intrigue</title></programme>
+<programme start="20251110170000 +0000" stop="20251110173000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
+<programme start="20251110173000 +0000" stop="20251110190000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
+<programme start="20251110190000 +0000" stop="20251110203000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
+<programme start="20251110203000 +0000" stop="20251110210000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
+<programme start="20251110210000 +0000" stop="20251110213000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi</title></programme>
+<programme start="20251110213000 +0000" stop="20251110230000 +0000" channel="tvOne.id"><title lang="id">Kabar Pagi (Live)</title></programme>
+<programme start="20251110230000 +0000" stop="20251110233000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Pagi (Live)</title></programme>
+<programme start="20251110233000 +0000" stop="20251111013000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Pagi (Live)</title></programme>
+<programme start="20251111013000 +0000" stop="20251111020000 +0000" channel="tvOne.id"><title lang="id">Hidup Sehat (Live)</title></programme>
+<programme start="20251111020000 +0000" stop="20251111023000 +0000" channel="tvOne.id"><title lang="id">Inspirasi Pagi (Live)</title></programme>
+<programme start="20251111023000 +0000" stop="20251111033000 +0000" channel="tvOne.id"><title lang="id">Pagi - Pagi Seru (Live)</title></programme>
+<programme start="20251111033000 +0000" stop="20251111040000 +0000" channel="tvOne.id"><title lang="id">Metropolitan (Live)</title></programme>
+<programme start="20251111040000 +0000" stop="20251111060000 +0000" channel="tvOne.id"><title lang="id">Kabar Siang (Live)</title></programme>
+<programme start="20251111060000 +0000" stop="20251111073000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Siang (Live)</title></programme>
+<programme start="20251111073000 +0000" stop="20251111083000 +0000" channel="tvOne.id"><title lang="id">Kabar Merah Putih (Live)</title></programme>
+<programme start="20251111083000 +0000" stop="20251111090000 +0000" channel="tvOne.id"><title lang="id">Berita Utama Kriminal (Live)</title></programme>
+<programme start="20251111090000 +0000" stop="20251111110000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang (Live)</title></programme>
+<programme start="20251111110000 +0000" stop="20251111125700 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam (Live)</title></programme>
+<programme start="20251111125700 +0000" stop="20251111130000 +0000" channel="tvOne.id"><title lang="id">Kabar Terkini</title></programme>
+<programme start="20251111130000 +0000" stop="20251111143000 +0000" channel="tvOne.id"><title lang="id">Catatan Demokrasi</title></programme>
+<programme start="20251111143000 +0000" stop="20251111153000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama (Live)</title></programme>
+<programme start="20251111153000 +0000" stop="20251111160000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini (Live)</title></programme>
+<programme start="20251111160000 +0000" stop="20251111163000 +0000" channel="tvOne.id"><title lang="id">Kabar Arena Malam (Live)</title></programme>
+<programme start="20251111163000 +0000" stop="20251111170000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama</title></programme>
+<programme start="20251109180000 +0000" stop="20251109183000 +0000" channel="TransTV.id"><title lang="id">Lacak Kriminal</title></programme>
+<programme start="20251109183000 +0000" stop="20251109190000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Tech</title></programme>
+<programme start="20251109190000 +0000" stop="20251109200000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Prime News</title></programme>
+<programme start="20251109200000 +0000" stop="20251109204000 +0000" channel="TransTV.id"><title lang="id">Klinik Tendean</title></programme>
+<programme start="20251109204000 +0000" stop="20251109214000 +0000" channel="TransTV.id"><title lang="id">Antara Cinta Dan Doa</title></programme>
+<programme start="20251109214000 +0000" stop="20251109220000 +0000" channel="TransTV.id"><title lang="id">Celebrity On Vacation</title></programme>
+<programme start="20251109220000 +0000" stop="20251109233000 +0000" channel="TransTV.id"><title lang="id">Islam Itu Indah</title></programme>
+<programme start="20251109233000 +0000" stop="20251110003000 +0000" channel="TransTV.id"><title lang="id">Insert Pagi</title></programme>
+<programme start="20251110003000 +0000" stop="20251110013000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Good Morning</title></programme>
+<programme start="20251110013000 +0000" stop="20251110033000 +0000" channel="TransTV.id"><title lang="id">Pagi-Pagi Ambyar</title></programme>
+<programme start="20251110033000 +0000" stop="20251110053000 +0000" channel="TransTV.id"><title lang="id">Insert</title></programme>
+<programme start="20251110053000 +0000" stop="20251110070000 +0000" channel="TransTV.id"><title lang="id">Brownis - Obrolan Manis</title></programme>
+<programme start="20251110070000 +0000" stop="20251110080000 +0000" channel="TransTV.id"><title lang="id">Rumpi - No Secret</title></programme>
+<programme start="20251110080000 +0000" stop="20251110090000 +0000" channel="TransTV.id"><title lang="id">Insert Today</title></programme>
+<programme start="20251110090000 +0000" stop="20251110093000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia News Update</title></programme>
+<programme start="20251110093000 +0000" stop="20251110103000 +0000" channel="TransTV.id"><title lang="id">Dream Box Indonesia</title></programme>
+<programme start="20251110103000 +0000" stop="20251110114500 +0000" channel="TransTV.id"><title lang="id">Bikin Laper</title></programme>
+<programme start="20251110114500 +0000" stop="20251110130000 +0000" channel="TransTV.id"><title lang="id">Insert Story</title></programme>
+<programme start="20251110130000 +0000" stop="20251110140000 +0000" channel="TransTV.id"><title lang="id">Dunia Punya Cerita</title></programme>
+<programme start="20251110140000 +0000" stop="20251110160000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - The Chronicles of Riddick</title></programme>
+<programme start="20251110160000 +0000" stop="20251110180000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - Jarhead</title></programme>
 </tv>
