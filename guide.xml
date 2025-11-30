@@ -406,9 +406,9 @@
 <programme start="20251201043000 +0000" stop="20251201050000 +0000" channel="Indosiar.id"><title lang="id">Fokus</title><image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image></programme>
 <programme start="20251201063000 +0000" stop="20251201080000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata</title><desc lang="id">FTV yang diambil dari kisah kehidupan sehari-hari pemirsa yang penuh intrik, konflik dan pengkhianatan untuk memberikan berbagai pelajaran hidup.</desc><image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image></programme>
 <programme start="20251201080000 +0000" stop="20251201100000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Spesial</title><desc lang="id">FTV yang diambil dari kisah kehidupan sehari-hari pemirsa yang penuh intrik, konflik dan pengkhianatan untuk memberikan berbagai pelajaran hidup.</desc><image>https://thumbor.prod.vidiocdn.com/Nh8E1jkmQtbtiLWsWWLey-Wu_GU=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/4361/kisah-nyata-spesial-1a4510.jpg</image></programme>
-<programme start="20251201100000 +0000" stop="20251201120000 +0000" channel="Indosiar.id"><title lang="id">Merangkai Kisah Indah</title><desc lang="id">Kisah Mutiara yang mencari orang tua kandungnya karena sewaktu bayi ditukar oleh orang tua angkatnya. Nasib membawa dirinya bertemu Kenzo dan keluarga yang ternyata adalah orang tua kandungnya.</desc><image>https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg</image></programme>
-<programme start="20251201120000 +0000" stop="20251201160000 +0000" channel="Indosiar.id"><title lang="id">D&apos;Academy 7</title><image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image></programme>
-<programme start="20251201160000 +0000" stop="20251201170000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia</title><desc lang="id">Tayangan film-film terbaik yang bertema tentang keberagaman budaya di kawasan Asia.</desc><image>https://thumbor.prod.vidiocdn.com/GxB9nfwVSgUk63rrLHn4gKiLr_w=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380981/a935fc.jpg</image></programme>
+<programme start="20251201100000 +0000" stop="20251201120000 +0000" channel="Indosiar.id"><title lang="id">Merangkai Kisah Indah</title><desc lang="id">Kisah Mutiara yang mencari orang tua kandungnya karena sewaktu bayi ditukar oleh orang tua angkatnya. Nasib membawa dirinya bertemu Kenzo dan keluarga yang ternyata adalah orang tua kandungnya.</desc><image>https://thumbor.prod.vidiocdn.com/cg_1ZQGS4-e8Awb2inKS8ZdLLhg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4747391/f204d1.jpg</image></programme>
+<programme start="20251201120000 +0000" stop="20251201160000 +0000" channel="Indosiar.id"><title lang="id">D&apos;Academy 7</title><image>https://thumbor.prod.vidiocdn.com/ss1Nrgj3Iy3DrIpo5L-9AcLgkiU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4747384/140978.jpg</image></programme>
+<programme start="20251201160000 +0000" stop="20251201170000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia</title><desc lang="id">Tayangan film-film terbaik yang bertema tentang keberagaman budaya di kawasan Asia.</desc><image>https://thumbor.prod.vidiocdn.com/tE6Pvdzd9yHwwhiXKBYUgDYtVTM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4747404/990d56.jpg</image></programme>
 <programme start="20251130000000 +0000" stop="20251130010000 +0000" channel="iNews.id"><title lang="id">Special Report</title><desc lang="id">Special Report merupakan sebuah acara berita yang menyajikan beragam berita istimewa yang dikemas secara lebih rinci</desc><category lang="id">News</category></programme>
 <programme start="20251130010000 +0000" stop="20251130020000 +0000" channel="iNews.id"><title lang="id">Realita</title><desc lang="id">Program berita yang melihat peristiwa dari sudut realita yang benar-benar terjadi dan mengungkap fakta yang belum pernah terungkap.</desc><category lang="id">News</category><category lang="id">News/Socioeconomics</category></programme>
 <programme start="20251130020000 +0000" stop="20251130030000 +0000" channel="iNews.id"><title lang="id">iNews Files</title><desc lang="id">Sebuah program berita iNews yang melakukan investigasi secara mendalam kasus-kasus kriminal dan masalah sosial yang sedang terjadi di Indonesia dan tentunya berdampak bagi masyarakat.</desc><category lang="id">News</category><category lang="id">News/Socioeconomics</category></programme>
@@ -1070,6 +1070,25 @@
 <programme start="20251130143000 +0000" stop="20251130150000 +0000" channel="RodjaTV.id"><title lang="id">Untaian Mutiara Nasihat</title></programme>
 <programme start="20251130150000 +0000" stop="20251130163000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
 <programme start="20251130163000 +0000" stop="20251130183000 +0000" channel="RodjaTV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251130183000 +0000" stop="20251130203000 +0000" channel="RodjaTV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251130203000 +0000" stop="20251130223000 +0000" channel="RodjaTV.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251130223000 +0000" stop="20251201000000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20251201000000 +0000" stop="20251201003000 +0000" channel="RodjaTV.id"><title lang="id">Fatawa</title></programme>
+<programme start="20251201003000 +0000" stop="20251201010000 +0000" channel="RodjaTV.id"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20251201010000 +0000" stop="20251201030000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20251201030000 +0000" stop="20251201043000 +0000" channel="RodjaTV.id"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20251201043000 +0000" stop="20251201060000 +0000" channel="RodjaTV.id"><title lang="id">Khutbah dan Shalat Jumat</title></programme>
+<programme start="20251201060000 +0000" stop="20251201073000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20251201073000 +0000" stop="20251201080000 +0000" channel="RodjaTV.id"><title lang="id">Ayat Dan Tafsir Pilihan</title></programme>
+<programme start="20251201080000 +0000" stop="20251201083000 +0000" channel="RodjaTV.id"><title lang="id">Qola Rasul</title></programme>
+<programme start="20251201083000 +0000" stop="20251201093000 +0000" channel="RodjaTV.id"><title lang="id">Untaian Mutiara Nasihat</title></programme>
+<programme start="20251201093000 +0000" stop="20251201103000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20251201103000 +0000" stop="20251201113000 +0000" channel="RodjaTV.id"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20251201113000 +0000" stop="20251201123000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20251201123000 +0000" stop="20251201130000 +0000" channel="RodjaTV.id"><title lang="id">Qola Rasul</title></programme>
+<programme start="20251201130000 +0000" stop="20251201150000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20251201150000 +0000" stop="20251201163000 +0000" channel="RodjaTV.id"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20251201163000 +0000" stop="20251201183000 +0000" channel="RodjaTV.id"><title lang="id">Sign Off</title></programme>
 <programme start="20251129160000 +0000" stop="20251129173000 +0000" channel="SCTV.id"><title lang="id">Ftv Primetime Tak Duren Maka Tak Sayang</title><desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. tayang setiap hari</desc><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
 <programme start="20251129173000 +0000" stop="20251129183000 +0000" channel="SCTV.id"><title lang="id">Ftv Utama Romantika Bercinta</title><desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. tayang setiap hari</desc><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
 <programme start="20251129183000 +0000" stop="20251129200000 +0000" channel="SCTV.id"><title lang="id">Sinema Malam Pacar Pilihan Ortu</title><desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. tayang setiap hari</desc><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
@@ -1238,6 +1257,39 @@
 <programme start="20251130140000 +0000" stop="20251130150000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
 <programme start="20251130150000 +0000" stop="20251130160000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
 <programme start="20251130160000 +0000" stop="20251130170000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251130170000 +0000" stop="20251130180000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251130180000 +0000" stop="20251130190000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251130190000 +0000" stop="20251130200000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251130200000 +0000" stop="20251130210000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251130210000 +0000" stop="20251130214500 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251130214500 +0000" stop="20251130220000 +0000" channel="TVMu.id"><title lang="id">Opening</title></programme>
+<programme start="20251130220000 +0000" stop="20251130221500 +0000" channel="TVMu.id"><title lang="id">Paham Muhammadiyah</title></programme>
+<programme start="20251130221500 +0000" stop="20251130233000 +0000" channel="TVMu.id"><title lang="id">Gerakan Subuh Mengaji</title></programme>
+<programme start="20251130233000 +0000" stop="20251201003000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
+<programme start="20251201003000 +0000" stop="20251201010000 +0000" channel="TVMu.id"><title lang="id">Zona Musik Religi</title></programme>
+<programme start="20251201010000 +0000" stop="20251201013000 +0000" channel="TVMu.id"><title lang="id">Kajian Ahad</title></programme>
+<programme start="20251201013000 +0000" stop="20251201023000 +0000" channel="TVMu.id"><title lang="id">Karima</title></programme>
+<programme start="20251201023000 +0000" stop="20251201030000 +0000" channel="TVMu.id"><title lang="id">UMJ Talks</title></programme>
+<programme start="20251201030000 +0000" stop="20251201040000 +0000" channel="TVMu.id"><title lang="id">Teras tvMu</title></programme>
+<programme start="20251201040000 +0000" stop="20251201043000 +0000" channel="TVMu.id"><title lang="id">DiasporaMu</title></programme>
+<programme start="20251201043000 +0000" stop="20251201050000 +0000" channel="TVMu.id"><title lang="id">Catatan Akhir Pekan</title></programme>
+<programme start="20251201050000 +0000" stop="20251201060000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
+<programme start="20251201060000 +0000" stop="20251201063000 +0000" channel="TVMu.id"><title lang="id">Zona Musik Religi</title></programme>
+<programme start="20251201063000 +0000" stop="20251201070000 +0000" channel="TVMu.id"><title lang="id">Berita Muhammadiyah Sepekan</title></programme>
+<programme start="20251201070000 +0000" stop="20251201073000 +0000" channel="TVMu.id"><title lang="id">Tafsir Al - Azhar</title></programme>
+<programme start="20251201073000 +0000" stop="20251201080000 +0000" channel="TVMu.id"><title lang="id">KOLAK</title></programme>
+<programme start="20251201080000 +0000" stop="20251201083000 +0000" channel="TVMu.id"><title lang="id">Karima</title></programme>
+<programme start="20251201083000 +0000" stop="20251201090000 +0000" channel="TVMu.id"><title lang="id">Masjidil Haram</title></programme>
+<programme start="20251201090000 +0000" stop="20251201100000 +0000" channel="TVMu.id"><title lang="id">Gerakan Subuh Mengaji</title></programme>
+<programme start="20251201100000 +0000" stop="20251201110000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
+<programme start="20251201110000 +0000" stop="20251201113000 +0000" channel="TVMu.id"><title lang="id">Refleksi Haedar Nashir</title></programme>
+<programme start="20251201113000 +0000" stop="20251201120000 +0000" channel="TVMu.id"><title lang="id">Catatan Akhir Pekan</title></programme>
+<programme start="20251201120000 +0000" stop="20251201123000 +0000" channel="TVMu.id"><title lang="id">Menuju Baitullah</title></programme>
+<programme start="20251201123000 +0000" stop="20251201133000 +0000" channel="TVMu.id"><title lang="id">Dialektika tvMu</title></programme>
+<programme start="20251201133000 +0000" stop="20251201140000 +0000" channel="TVMu.id"><title lang="id">DiasporaMu</title></programme>
+<programme start="20251201140000 +0000" stop="20251201150000 +0000" channel="TVMu.id"><title lang="id">Berita tvMu</title></programme>
+<programme start="20251201150000 +0000" stop="20251201160000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
+<programme start="20251201160000 +0000" stop="20251201170000 +0000" channel="TVMu.id"><title lang="id">Sign Off</title></programme>
 <programme start="20251129170000 +0000" stop="20251129173000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini</title></programme>
 <programme start="20251129173000 +0000" stop="20251129190000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
 <programme start="20251129190000 +0000" stop="20251129193000 +0000" channel="tvOne.id"><title lang="id">Metropolitan</title></programme>
