@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251201">
 <channel id="ANTV.id"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRINasional.id"><display-name>TVRI</display-name><url>https://indihometv.com</url></channel>
-<channel id="tvOne.id"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVMu.id"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
-<channel id="TransTV.id"><display-name>TransTV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://indihometv.com</url></channel>
+<channel id="BTV.id"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNNIndonesia.id"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
+<channel id="GTV.id"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://visionplus.id</url></channel>
+<channel id="MetroTV.id"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://indihometv.com</url></channel>
+<channel id="MentariTV.id"><display-name>Mentari TV</display-name><icon src="https://i.imgur.com/QkTgy1M.png"/><url>https://indihometv.com</url></channel>
 <channel id="Trans7.id"><display-name>Trans7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://indihometv.com</url></channel>
 <channel id="SCTV.id"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://vidio.com</url></channel>
 <channel id="RodjaTV.id"><display-name>Rodja TV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://indihometv.com</url></channel>
@@ -13,21 +14,20 @@
 <channel id="NET.id"><display-name>Net.</display-name><icon src="https://i.imgur.com/RPT8O12.png"/><url>https://indihometv.com</url></channel>
 <channel id="Moji.id"><display-name>MOJI</display-name><icon src="https://i.imgur.com/mM9zapJ.png"/><url>https://indihometv.com</url></channel>
 <channel id="MNCTV.id"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://visionplus.id</url></channel>
-<channel id="MetroTV.id"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://indihometv.com</url></channel>
-<channel id="MentariTV.id"><display-name>Mentari TV</display-name><icon src="https://i.imgur.com/QkTgy1M.png"/><url>https://indihometv.com</url></channel>
+<channel id="GarudaTV.id"><display-name>Garuda TV</display-name><icon src="https://i.imgur.com/sXsAcZ3.png"/><url>https://vidio.com</url></channel>
 <channel id="MagnaChannel.id"><display-name>Magna TV</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://vidio.com</url></channel>
 <channel id="KompasTV.id"><display-name>Kompas TV</display-name><icon src="https://i.imgur.com/bD6UHeZ.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNBCIndonesia.id"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
+<channel id="ElshintaTV.id"><display-name>Elshinta TV</display-name><icon src="https://i.imgur.com/x5uoy2H.png"/><url>https://vidio.com</url></channel>
 <channel id="JawaPosTV.id"><display-name>Jawa Pos TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="JakTV.id"><display-name>JakTV</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://indihometv.com</url></channel>
 <channel id="iNews.id"><display-name>iNews</display-name><icon src="https://i.imgur.com/M2R3lfg.png"/><url>https://visionplus.id</url></channel>
 <channel id="Indosiar.id"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://vidio.com</url></channel>
-<channel id="GTV.id"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://visionplus.id</url></channel>
-<channel id="GarudaTV.id"><display-name>Garuda TV</display-name><icon src="https://i.imgur.com/sXsAcZ3.png"/><url>https://vidio.com</url></channel>
-<channel id="ElshintaTV.id"><display-name>Elshinta TV</display-name><icon src="https://i.imgur.com/x5uoy2H.png"/><url>https://vidio.com</url></channel>
+<channel id="JakTV.id"><display-name>JakTV</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://indihometv.com</url></channel>
 <channel id="DAAITV.id"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNNIndonesia.id"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNBCIndonesia.id"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
-<channel id="BTV.id"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="tvOne.id"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVMu.id"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRINasional.id"><display-name>TVRI</display-name><url>https://indihometv.com</url></channel>
+<channel id="TransTV.id"><display-name>TransTV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://indihometv.com</url></channel>
 <programme start="20251130183000 +0000" stop="20251130200000 +0000" channel="ANTV.id"><title lang="id">Sinema Spesial - Rajawali Sakti</title></programme>
 <programme start="20251130200000 +0000" stop="20251130213000 +0000" channel="ANTV.id"><title lang="id">Sinema Spesial - Salah Pencet</title></programme>
 <programme start="20251130213000 +0000" stop="20251130230000 +0000" channel="ANTV.id"><title lang="id">Ada Si Manis Di Jembatan</title></programme>
