@@ -27,11 +27,12 @@ artinya, `GTV.id` adalah `tvg-id` dari saluran GTV<br>
 1. Buka aplikasi pemutar IPTV anda;
 2. Ubah pengaturan EPG (di beberapa aplikasi, mungkin harus mengubah playlist terlebih dahulu;
 3. Masukkan link https://raw.githubusercontent.com/kemalsyabaniadama/test-epg/main/guide.xml .
-4. Kalo males ngetik, buka file m3u yang dijadikan playlist IPTV di Notepad, masukkan kode berikut di line paling atas, simpan dengan tetap mempertahankan format file sebagai m3u
+4. Bisa juga dengan membuka file m3u yang dijadikan playlist IPTV menggunakan Notepad, masukkan kode berikut di line paling atas, simpan dengan tetap mempertahankan format file sebagai m3u
 ```
 #EXTM3U  x-tvg-url=https://raw.githubusercontent.com/kemalsyabaniadama/test-epg/main/guide.xml refresh="1440" max-conn="1" refresh="24"
 ```
 ## iptv.m3u8
+test-epg/iptv.m3u8 adalah file IPTV jaringan lokal berdasarkan IP DVB2IP set top box
 - Perlu diperhatikan, file iptv.m3u8 di repositori ini adalah untuk penggunaan pribadi penulis dan bukan untuk umum
-- Kalo mau pake ya gabakal bisa juga karena pakai jaringan lokal dari DVB2IP set top box yang MACnya sudah disetting ke DHCP binding
+- Tidak dapat digunakan karena menggunakan jaringan lokal dari DVB2IP set top box yang MACnya sudah disetting DHCP binding
 - Link saluran dicopy paste manual dari device UPnP (DVB2IP set top box) yang terdeteksi di VLC
