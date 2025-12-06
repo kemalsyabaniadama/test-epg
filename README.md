@@ -3,6 +3,7 @@
 Untuk informasi lebih lanjut, kunjungi https://github.com/iptv-org/epg
 
 ## guide.xml
+![20251206_131855(1)](https://github.com/user-attachments/assets/e14b9249-49b7-4206-bd7f-298cd0e926f9)
 test-epg/guide.xml adalah jadwal siaran televisi nasional di Indonesia, untuk melengkapi playlist m3u IPTV anda. Jadi lebih mudah untuk merekam siaran dan memasang pengingat<br>
 
 ### Kelebihan
