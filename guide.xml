@@ -91,6 +91,20 @@
 <programme start="20251231130000 +0000" stop="20251231143000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - Petualangan Cinta Nyi Blorong</title></programme>
 <programme start="20251231143000 +0000" stop="20251231163000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia - Misteri Gunung Merapi 3: Perempuan Berambut Api</title></programme>
 <programme start="20251231163000 +0000" stop="20251231170000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia - Righting Wrongs</title></programme>
+<programme start="20251231170000 +0000" stop="20251231183000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia - Righting Wrongs</title></programme>
+<programme start="20251231183000 +0000" stop="20251231200000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - Angkara Membara</title></programme>
+<programme start="20251231200000 +0000" stop="20251231213000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - Kanan Kiri OK 2</title></programme>
+<programme start="20251231213000 +0000" stop="20251231230000 +0000" channel="ANTV.id@SD"><title lang="id">Ada Si Manis Di Jembatan</title></programme>
+<programme start="20251231230000 +0000" stop="20260101010000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - Satria Kapak Tutur Sepuh</title></programme>
+<programme start="20260101010000 +0000" stop="20260101030000 +0000" channel="ANTV.id@SD"><title lang="id">Mangal Lakshmi</title></programme>
+<programme start="20260101030000 +0000" stop="20260101063000 +0000" channel="ANTV.id@SD"><title lang="id">Mega Bollywood - Dilwale</title></programme>
+<programme start="20260101063000 +0000" stop="20260101080000 +0000" channel="ANTV.id@SD"><title lang="id">Cinta Keluarga Pandya</title></programme>
+<programme start="20260101080000 +0000" stop="20260101093000 +0000" channel="ANTV.id@SD"><title lang="id">Zeynep</title></programme>
+<programme start="20260101093000 +0000" stop="20260101110000 +0000" channel="ANTV.id@SD"><title lang="id">Takdir Cinta Layla</title></programme>
+<programme start="20260101110000 +0000" stop="20260101130000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - Buronan Gembong Wulung</title></programme>
+<programme start="20260101130000 +0000" stop="20260101143000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - Perkawinan Nyi Blorong</title></programme>
+<programme start="20260101143000 +0000" stop="20260101163000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia - Buaya Putih</title></programme>
+<programme start="20260101163000 +0000" stop="20260101183000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia - Born Wild</title></programme>
 <programme start="20251230210000 +0000" stop="20251230210300 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
 <programme start="20251230210300 +0000" stop="20251230213000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
 <programme start="20251230213000 +0000" stop="20251230223000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
@@ -1039,6 +1053,27 @@
 <programme start="20251231143000 +0000" stop="20251231150000 +0000" channel="RodjaTV.id@SD"><title lang="id">Untaian Mutiara Nasihat</title></programme>
 <programme start="20251231150000 +0000" stop="20251231163000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
 <programme start="20251231163000 +0000" stop="20251231183000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251231183000 +0000" stop="20251231203000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251231203000 +0000" stop="20251231223000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251231223000 +0000" stop="20260101000000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260101000000 +0000" stop="20260101001500 +0000" channel="RodjaTV.id@SD"><title lang="id">Mutiara Salaf</title></programme>
+<programme start="20260101001500 +0000" stop="20260101003000 +0000" channel="RodjaTV.id@SD"><title lang="id">Fatawa</title></programme>
+<programme start="20260101003000 +0000" stop="20260101010000 +0000" channel="RodjaTV.id@SD"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20260101010000 +0000" stop="20260101030000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260101030000 +0000" stop="20260101040000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260101040000 +0000" stop="20260101060000 +0000" channel="RodjaTV.id@SD"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20260101060000 +0000" stop="20260101073000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260101073000 +0000" stop="20260101080000 +0000" channel="RodjaTV.id@SD"><title lang="id">Ayat Dan Tafsir Pilihan</title></programme>
+<programme start="20260101080000 +0000" stop="20260101083000 +0000" channel="RodjaTV.id@SD"><title lang="id">Qola Rasul</title></programme>
+<programme start="20260101083000 +0000" stop="20260101100000 +0000" channel="RodjaTV.id@SD"><title lang="id">Untaian Mutiara Nasihat</title></programme>
+<programme start="20260101100000 +0000" stop="20260101110000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260101110000 +0000" stop="20260101113000 +0000" channel="RodjaTV.id@SD"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20260101113000 +0000" stop="20260101123000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260101123000 +0000" stop="20260101130000 +0000" channel="RodjaTV.id@SD"><title lang="id">Qola Rasul</title></programme>
+<programme start="20260101130000 +0000" stop="20260101143000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260101143000 +0000" stop="20260101150000 +0000" channel="RodjaTV.id@SD"><title lang="id">Untaian Mutiara Nasihat</title></programme>
+<programme start="20260101150000 +0000" stop="20260101163000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260101163000 +0000" stop="20260101183000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title></programme>
 <programme start="20251230160000 +0000" stop="20251230180000 +0000" channel="SCTV.id@SD"><title lang="id">Film Layar Lebar Spesial Kapal Goyang Kapten</title><desc lang="id">Kisah 3 perompak amatiran, Daniel (Ge Pamungkas), Cakka (Muhadkly Acho) dan Bertus (Mamat Alkatiri) yang terpaksa membajak sebuah kapal wisata di perairan Maluku untuk pertama kalinya. Akibat sebuah kebodohan, mereka justru kehilangan hasil rampokan dan malah terjebak di sebuah pulau kosong bersama?sang nahkoda, Kapten Gomgom (Babe Cabita) beserta 9 penumpang yang mereka rampok. Perlawanan dari kubu sandera yang dimotori oleh Tiara (Yuki Kato) membuat situasi semakin rumit. Mampukah mereka pulang ke tempat asalnya? atau malah harus membusuk di pulau yang tak bertuan?</desc><image>https://thumbor.prod.vidiocdn.com/mayNGmJDWC2SxiVdDrRJauTXdzA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4798983/da6e0e.jpg</image></programme>
 <programme start="20251230180000 +0000" stop="20251230190600 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Malam Selamanya Cinta</title><desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. tayang setiap hari</desc><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
 <programme start="20251230190600 +0000" stop="20251230213000 +0000" channel="SCTV.id@SD"><title lang="id">Chelsea vs Bournemouth - Premier League - Live</title><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
@@ -1206,6 +1241,39 @@
 <programme start="20251231140000 +0000" stop="20251231150000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
 <programme start="20251231150000 +0000" stop="20251231160000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
 <programme start="20251231160000 +0000" stop="20251231170000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251231170000 +0000" stop="20251231180000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251231180000 +0000" stop="20251231190000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251231190000 +0000" stop="20251231200000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251231200000 +0000" stop="20251231210000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251231210000 +0000" stop="20251231214500 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20251231214500 +0000" stop="20251231220000 +0000" channel="TVMu.id@SD"><title lang="id">Opening</title></programme>
+<programme start="20251231220000 +0000" stop="20251231221500 +0000" channel="TVMu.id@SD"><title lang="id">Paham Muhammadiyah</title></programme>
+<programme start="20251231221500 +0000" stop="20251231233000 +0000" channel="TVMu.id@SD"><title lang="id">Gerakan Subuh Mengaji</title></programme>
+<programme start="20251231233000 +0000" stop="20260101003000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
+<programme start="20260101003000 +0000" stop="20260101010000 +0000" channel="TVMu.id@SD"><title lang="id">Zona Musik Religi</title></programme>
+<programme start="20260101010000 +0000" stop="20260101013000 +0000" channel="TVMu.id@SD"><title lang="id">Waktu Indonesia Belajar</title></programme>
+<programme start="20260101013000 +0000" stop="20260101020000 +0000" channel="TVMu.id@SD"><title lang="id">Waktu Indonesia Belajar</title></programme>
+<programme start="20260101020000 +0000" stop="20260101023000 +0000" channel="TVMu.id@SD"><title lang="id">Belajar Tahsin Metode Azka</title></programme>
+<programme start="20260101023000 +0000" stop="20260101030000 +0000" channel="TVMu.id@SD"><title lang="id">Tuntunan Akhir Zaman</title></programme>
+<programme start="20260101030000 +0000" stop="20260101040000 +0000" channel="TVMu.id@SD"><title lang="id">Podcast TV Show</title></programme>
+<programme start="20260101040000 +0000" stop="20260101043000 +0000" channel="TVMu.id@SD"><title lang="id">Mimbar At - Tanwir</title></programme>
+<programme start="20260101043000 +0000" stop="20260101050000 +0000" channel="TVMu.id@SD"><title lang="id">Netizen Bertanya Ustadz Menjawab</title></programme>
+<programme start="20260101050000 +0000" stop="20260101060000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
+<programme start="20260101060000 +0000" stop="20260101063000 +0000" channel="TVMu.id@SD"><title lang="id">Zona Musik Religi</title></programme>
+<programme start="20260101063000 +0000" stop="20260101070000 +0000" channel="TVMu.id@SD"><title lang="id">Tuntunan Akhir Zaman</title></programme>
+<programme start="20260101070000 +0000" stop="20260101073000 +0000" channel="TVMu.id@SD"><title lang="id">Waktu Indonesia Belajar</title></programme>
+<programme start="20260101073000 +0000" stop="20260101080000 +0000" channel="TVMu.id@SD"><title lang="id">Waktu Indonesia Belajar</title></programme>
+<programme start="20260101080000 +0000" stop="20260101083000 +0000" channel="TVMu.id@SD"><title lang="id">Belajar Tahsin Metode Azka</title></programme>
+<programme start="20260101083000 +0000" stop="20260101090000 +0000" channel="TVMu.id@SD"><title lang="id">Masjidil Haram</title></programme>
+<programme start="20260101090000 +0000" stop="20260101100000 +0000" channel="TVMu.id@SD"><title lang="id">Gerakan Subuh Mengaji</title></programme>
+<programme start="20260101100000 +0000" stop="20260101110000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
+<programme start="20260101110000 +0000" stop="20260101113000 +0000" channel="TVMu.id@SD"><title lang="id">Mimbar At - Tanwir</title></programme>
+<programme start="20260101113000 +0000" stop="20260101120000 +0000" channel="TVMu.id@SD"><title lang="id">Belajar Tahsin Metode Azka</title></programme>
+<programme start="20260101120000 +0000" stop="20260101130000 +0000" channel="TVMu.id@SD"><title lang="id">Podcast TV Show</title></programme>
+<programme start="20260101130000 +0000" stop="20260101143000 +0000" channel="TVMu.id@SD"><title lang="id">Pengajian Tarjih Muhammadiyah</title></programme>
+<programme start="20260101143000 +0000" stop="20260101153000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
+<programme start="20260101153000 +0000" stop="20260101160000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
 <programme start="20251230180000 +0000" stop="20251230193000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
 <programme start="20251230193000 +0000" stop="20251230210000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
 <programme start="20251230210000 +0000" stop="20251230213000 +0000" channel="tvOne.id@SD"><title lang="id">Berita Utama Kriminal</title></programme>
@@ -1353,4 +1421,43 @@
 <programme start="20251231143000 +0000" stop="20251231150000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Golden Spot</title></programme>
 <programme start="20251231150000 +0000" stop="20251231160000 +0000" channel="TVRIWorld.id@SD"><title lang="id">World Today</title></programme>
 <programme start="20251231160000 +0000" stop="20251231170000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Legacy</title></programme>
+<programme start="20251231170000 +0000" stop="20251231173000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Land of Heritage</title></programme>
+<programme start="20251231173000 +0000" stop="20251231180000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20251231180000 +0000" stop="20251231183000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20251231183000 +0000" stop="20251231190000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
+<programme start="20251231190000 +0000" stop="20251231200000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Legacy</title></programme>
+<programme start="20251231200000 +0000" stop="20251231203000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20251231203000 +0000" stop="20251231210000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20251231210000 +0000" stop="20251231213000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20251231213000 +0000" stop="20251231220000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20251231220000 +0000" stop="20251231223000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Jelajah Kopi</title></programme>
+<programme start="20251231223000 +0000" stop="20251231230000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Flavor</title></programme>
+<programme start="20251231230000 +0000" stop="20260101000000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Taste and Culture</title></programme>
+<programme start="20260101000000 +0000" stop="20260101010000 +0000" channel="TVRIWorld.id@SD"><title lang="id">World Today</title></programme>
+<programme start="20260101010000 +0000" stop="20260101020000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Starting Point</title></programme>
+<programme start="20260101020000 +0000" stop="20260101023000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Land of Heritage</title></programme>
+<programme start="20260101023000 +0000" stop="20260101030000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Ambassador Corner</title></programme>
+<programme start="20260101030000 +0000" stop="20260101033000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
+<programme start="20260101033000 +0000" stop="20260101040000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260101040000 +0000" stop="20260101043000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260101043000 +0000" stop="20260101050000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Flavor</title></programme>
+<programme start="20260101050000 +0000" stop="20260101060000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Taste and Culture</title></programme>
+<programme start="20260101060000 +0000" stop="20260101063000 +0000" channel="TVRIWorld.id@SD"><title lang="id">On Location</title></programme>
+<programme start="20260101063000 +0000" stop="20260101070000 +0000" channel="TVRIWorld.id@SD"><title lang="id">News Watch</title></programme>
+<programme start="20260101070000 +0000" stop="20260101073000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260101073000 +0000" stop="20260101080000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260101080000 +0000" stop="20260101083000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260101083000 +0000" stop="20260101090000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Land of Heritage</title></programme>
+<programme start="20260101090000 +0000" stop="20260101093000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260101093000 +0000" stop="20260101100000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Flavor</title></programme>
+<programme start="20260101100000 +0000" stop="20260101110000 +0000" channel="TVRIWorld.id@SD"><title lang="id">World Today</title></programme>
+<programme start="20260101110000 +0000" stop="20260101120000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Taste and Culture</title></programme>
+<programme start="20260101120000 +0000" stop="20260101123000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
+<programme start="20260101123000 +0000" stop="20260101130000 +0000" channel="TVRIWorld.id@SD"><title lang="id">News Watch</title></programme>
+<programme start="20260101130000 +0000" stop="20260101133000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Ambassador Corner</title></programme>
+<programme start="20260101133000 +0000" stop="20260101140000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260101140000 +0000" stop="20260101143000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Space of Mind</title></programme>
+<programme start="20260101143000 +0000" stop="20260101150000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Land of Heritage</title></programme>
+<programme start="20260101150000 +0000" stop="20260101160000 +0000" channel="TVRIWorld.id@SD"><title lang="id">World Today</title></programme>
+<programme start="20260101160000 +0000" stop="20260101170000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Legacy</title></programme>
 </tv>
