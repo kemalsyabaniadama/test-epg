@@ -17,7 +17,7 @@ http://192.168.1.2:8999/stream=42.ts
 http://192.168.1.2:8999/stream=44.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/46/Logo_CTV_-_MOS_Network_2023.png/120px-Logo_CTV_-_MOS_Network_2023.png" tvg-id="CTV.id" group-title="192.168.1.2", CTV
 http://192.168.1.2:8999/stream=12.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DAAI_TV.svg/120px-DAAI_TV.svg.png" tvg-id="DAAITV.id" group-title="192.168.1.2", DAAI TV HD
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DAAI_TV.svg/120px-DAAI_TV.svg.png" tvg-id="DAAITV.id" group-title="192.168.1.2", DAAI TV
 http://192.168.1.2:8999/stream=54.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ElshintaTV2019.png/120px-ElshintaTV2019.png" tvg-id="ElshintaTV.id" group-title="192.168.1.2", Elshinta TV
 http://192.168.1.2:8999/stream=48.ts
@@ -97,3 +97,4 @@ http://192.168.1.2:8999/stream=46.ts
 http://192.168.1.2:8999/stream=28.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/120px-VTV_Indonesia_2023.svg.png" tvg-id="VTV.id" group-title="192.168.1.2", VTV HD
 http://192.168.1.2:8999/stream=34.ts
+
