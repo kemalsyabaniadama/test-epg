@@ -20,7 +20,9 @@ Playlist m3u yang digunakan harus memiliki `tvg-id` atau nama yang sesuai dengan
 
 Contohnya:<br>
 Di daftar saluran EPG, terdapat:
-```<channel site="visionplus.id" lang="id" xmltv_id="GTV.id@SD" site_id="00000000000000000003">GTV</channel>```
+```
+<channel site="visionplus.id" lang="id" xmltv_id="GTV.id@SD" site_id="00000000000000000003">GTV</channel>
+```
 
 Maka, playlist seharusnya menggunakan format berikut:
 ```
