@@ -3,7 +3,7 @@
 http://192.168.1.2:8999/stream=31.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1e/Logo_Astha_TV.png/120px-Logo_Astha_TV.png" tvg-id="AsthaTV.id@SD" group-title="192.168.1.2", Astha TV HD
 http://192.168.1.2:8999/stream=39.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berita_Nasional_logo.svg/120px-Berita_Nasional_logo.svg.png" tvg-id="BeritaNasionalTV.id@SD" group-title="192.168.1.2", Berita Nasional TV HD
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Berita_Nasional_logo.svg/120px-Berita_Nasional_logo.svg.png" tvg-id="BeritaNasionalTV.id@SD" group-title="192.168.1.2", Berita Nasional HD
 http://192.168.1.2:8999/stream=36.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/120px-BN_Channel.png" tvg-id="BNTV.id@SD" group-title="192.168.1.2", BN Channel HD
 http://192.168.1.2:8999/stream=22.ts
@@ -15,7 +15,7 @@ http://192.168.1.2:8999/stream=13.ts
 http://192.168.1.2:8999/stream=42.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CNN_Indonesia_logo_%282023%29.svg/120px-CNN_Indonesia_logo_%282023%29.svg.png" tvg-id="CNNIndonesia.id@SD" group-title="192.168.1.2", CNN Indonesia HD
 http://192.168.1.2:8999/stream=44.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/46/Logo_CTV_-_MOS_Network_2023.png/120px-Logo_CTV_-_MOS_Network_2023.png" tvg-id="CTV.id@SD" group-title="192.168.1.2", CTV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/46/Logo_CTV_-_MOS_Network_2023.png/120px-Logo_CTV_-_MOS_Network_2023.png" tvg-id="CTV.id@SD" group-title="192.168.1.2", CTV HD
 http://192.168.1.2:8999/stream=12.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DAAI_TV.svg/120px-DAAI_TV.svg.png" tvg-id="DAAITV.id@SD" group-title="192.168.1.2", DAAI TV
 http://192.168.1.2:8999/stream=54.ts
@@ -71,7 +71,7 @@ http://192.168.1.2:8999/stream=10.ts
 http://192.168.1.2:8999/stream=9.ts
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/120px-SCTV_Logo.svg.png" tvg-id="SCTV.id@SD" group-title="192.168.1.2", SCTV HD
 http://192.168.1.2:8999/stream=5.ts
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/120px-Sin_Po_TV.svg.png" tvg-id="SinPoTV.id@SD" group-title="192.168.1.2", Sin Po TV
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/120px-Sin_Po_TV.svg.png" tvg-id="SinPoTV.id@SD" group-title="192.168.1.2", Sin Po TV HD
 http://192.168.1.2:8999/stream=1.ts
 #EXTINF:-0 tvg-logo="https://www.smiletv.co.id/gallery/SMILE%20TV.png?ts=1764305674" tvg-id="SmileTV.id@SD" group-title="192.168.1.2", Smile TV HD
 http://192.168.1.2:8999/stream=26.ts
