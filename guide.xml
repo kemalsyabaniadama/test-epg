@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260119">
 <channel id="AjwaTV.id@SD"><display-name>Ajwa TV</display-name><icon src="https://i.imgur.com/JXjbUhB.png"/><url>https://vidio.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRINasional.id@SD"><display-name>TVRI Nasional</display-name><url>https://indihometv.com</url></channel>
-<channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVMu.id@SD"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
-<channel id="TransTV.id@SD"><display-name>TransTV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://indihometv.com</url></channel>
+<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNBCIndonesia.id@SD"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
+<channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="DAAITV.id@SD"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNNIndonesia.id@SD"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
 <channel id="Trans7.id@SD"><display-name>Trans7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://indihometv.com</url></channel>
 <channel id="SinPoTV.id@SD"><display-name>SinPo TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/2560px-Sin_Po_TV.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://vidio.com</url></channel>
@@ -26,11 +26,11 @@
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://visionplus.id</url></channel>
 <channel id="GarudaTV.id@SD"><display-name>Garuda TV</display-name><icon src="https://i.imgur.com/sXsAcZ3.png"/><url>https://tivie.id</url></channel>
 <channel id="ElshintaTV.id@SD"><display-name>Elshinta TV</display-name><icon src="https://i.imgur.com/x5uoy2H.png"/><url>https://vidio.com</url></channel>
-<channel id="DAAITV.id@SD"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNNIndonesia.id@SD"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNBCIndonesia.id@SD"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
-<channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRINasional.id@SD"><display-name>TVRI Nasional</display-name><url>https://indihometv.com</url></channel>
+<channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVMu.id@SD"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="TransTV.id@SD"><display-name>TransTV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260118160000 +0000" stop="20260118173000 +0000" channel="AjwaTV.id@SD"><title lang="id">Ftv Islami</title><image>https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg</image></programme>
 <programme start="20260118173000 +0000" stop="20260118183000 +0000" channel="AjwaTV.id@SD"><title lang="id">30 Hari 30 Juz</title><image>https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg</image></programme>
 <programme start="20260118183000 +0000" stop="20260118213000 +0000" channel="AjwaTV.id@SD"><title lang="id">Live Makkah</title><image>https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg</image></programme>
