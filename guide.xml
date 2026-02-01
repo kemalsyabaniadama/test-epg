@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260201">
 <channel id="AjwaTV.id@SD"><display-name>Ajwa TV</display-name><icon src="https://i.imgur.com/JXjbUhB.png"/><url>https://vidio.com</url></channel>
+<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNBCIndonesia.id@SD"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
+<channel id="GarudaTV.id@SD"><display-name>Garuda TV</display-name><icon src="https://i.imgur.com/sXsAcZ3.png"/><url>https://tivie.id</url></channel>
+<channel id="MentariTV.id@SD"><display-name>Mentari TV</display-name><icon src="https://i.imgur.com/QkTgy1M.png"/><url>https://indihometv.com</url></channel>
+<channel id="MagnaChannel.id@SD"><display-name>Magna TV</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://vidio.com</url></channel>
+<channel id="ElshintaTV.id@SD"><display-name>Elshinta TV</display-name><icon src="https://i.imgur.com/x5uoy2H.png"/><url>https://vidio.com</url></channel>
+<channel id="KompasTV.id@SD"><display-name>Kompas TV</display-name><icon src="https://i.imgur.com/bD6UHeZ.png"/><url>https://indihometv.com</url></channel>
+<channel id="JawaPosTV.id@SD"><display-name>Jawa Pos TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="DAAITV.id@SD"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
+<channel id="JakTV.id@SD"><display-name>JakTV</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://indihometv.com</url></channel>
+<channel id="iNews.id@SD"><display-name>iNews</display-name><icon src="https://i.imgur.com/M2R3lfg.png"/><url>https://visionplus.id</url></channel>
+<channel id="CNNIndonesia.id@SD"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
+<channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://vidio.com</url></channel>
+<channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://visionplus.id</url></channel>
+<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVRINasional.id@SD"><display-name>TVRI Nasional</display-name><url>https://indihometv.com</url></channel>
 <channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="TVMu.id@SD"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
 <channel id="TransTV.id@SD"><display-name>TransTV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://indihometv.com</url></channel>
 <channel id="Trans7.id@SD"><display-name>Trans7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://indihometv.com</url></channel>
-<channel id="SinPoTV.id@SD"><display-name>SinPo TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/2560px-Sin_Po_TV.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://vidio.com</url></channel>
 <channel id="RodjaTV.id@SD"><display-name>Rodja TV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://indihometv.com</url></channel>
 <channel id="RajawaliTV.id@SD"><display-name>Rajawali TV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://indihometv.com</url></channel>
-<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://visionplus.id</url></channel>
 <channel id="NusantaraTV.id@SD"><display-name>Nusantara TV</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://indihometv.com</url></channel>
 <channel id="MDTV.id@SD"><display-name>MDTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="Moji.id@SD"><display-name>Moji</display-name><icon src="https://i.imgur.com/mM9zapJ.png"/><url>https://vidio.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://visionplus.id</url></channel>
-<channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://indihometv.com</url></channel>
-<channel id="MentariTV.id@SD"><display-name>Mentari TV</display-name><icon src="https://i.imgur.com/QkTgy1M.png"/><url>https://indihometv.com</url></channel>
-<channel id="MagnaChannel.id@SD"><display-name>Magna TV</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://vidio.com</url></channel>
-<channel id="KompasTV.id@SD"><display-name>Kompas TV</display-name><icon src="https://i.imgur.com/bD6UHeZ.png"/><url>https://indihometv.com</url></channel>
-<channel id="JawaPosTV.id@SD"><display-name>Jawa Pos TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="JakTV.id@SD"><display-name>JakTV</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://indihometv.com</url></channel>
-<channel id="iNews.id@SD"><display-name>iNews</display-name><icon src="https://i.imgur.com/M2R3lfg.png"/><url>https://visionplus.id</url></channel>
-<channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://vidio.com</url></channel>
-<channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://visionplus.id</url></channel>
-<channel id="GarudaTV.id@SD"><display-name>Garuda TV</display-name><icon src="https://i.imgur.com/sXsAcZ3.png"/><url>https://tivie.id</url></channel>
-<channel id="ElshintaTV.id@SD"><display-name>Elshinta TV</display-name><icon src="https://i.imgur.com/x5uoy2H.png"/><url>https://vidio.com</url></channel>
-<channel id="DAAITV.id@SD"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNNIndonesia.id@SD"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNBCIndonesia.id@SD"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
-<channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="SinPoTV.id@SD"><display-name>SinPo TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/2560px-Sin_Po_TV.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://visionplus.id</url></channel>
+<channel id="Moji.id@SD"><display-name>Moji</display-name><icon src="https://i.imgur.com/mM9zapJ.png"/><url>https://vidio.com</url></channel>
 <programme start="20260131160000 +0000" stop="20260131173000 +0000" channel="AjwaTV.id@SD"><title lang="id">Ftv Islami</title><image>https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg</image></programme>
 <programme start="20260131173000 +0000" stop="20260131183000 +0000" channel="AjwaTV.id@SD"><title lang="id">30 Hari 30 Juz</title><image>https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg</image></programme>
 <programme start="20260131183000 +0000" stop="20260131213000 +0000" channel="AjwaTV.id@SD"><title lang="id">Live Makkah</title><image>https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg</image></programme>
@@ -79,6 +79,32 @@
 <programme start="20260202133000 +0000" stop="20260202143000 +0000" channel="AjwaTV.id@SD"><title lang="id">Tafsir Al-Quran</title><image>https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg</image></programme>
 <programme start="20260202143000 +0000" stop="20260202160000 +0000" channel="AjwaTV.id@SD"><title lang="id">Para Perncari Tuhan Jilid 13</title><image>https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg</image></programme>
 <programme start="20260202160000 +0000" stop="20260202173000 +0000" channel="AjwaTV.id@SD"><title lang="id">Ftv Islami</title><image>https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg</image></programme>
+<programme start="20260131183000 +0000" stop="20260131200000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - True Justice : Dark Vengeance</title></programme>
+<programme start="20260131200000 +0000" stop="20260131223000 +0000" channel="ANTV.id@SD"><title lang="id">Mega Bollywood - Aladin</title></programme>
+<programme start="20260131223000 +0000" stop="20260131233000 +0000" channel="ANTV.id@SD"><title lang="id">Ada Si Manis Di Jembatan</title></programme>
+<programme start="20260131233000 +0000" stop="20260201000000 +0000" channel="ANTV.id@SD"><title lang="id">Super Viral</title></programme>
+<programme start="20260201000000 +0000" stop="20260201013000 +0000" channel="ANTV.id@SD"><title lang="id">ANTV Seru</title></programme>
+<programme start="20260201013000 +0000" stop="20260201030000 +0000" channel="ANTV.id@SD"><title lang="id">Mangal Lakshmi</title></programme>
+<programme start="20260201030000 +0000" stop="20260201063000 +0000" channel="ANTV.id@SD"><title lang="id">Mega Bollywood - Chori Chori Chupke Chupke</title></programme>
+<programme start="20260201063000 +0000" stop="20260201093000 +0000" channel="ANTV.id@SD"><title lang="id">Mega Bollywood - Sangdil Sanam</title></programme>
+<programme start="20260201093000 +0000" stop="20260201110000 +0000" channel="ANTV.id@SD"><title lang="id">ANTV Seru</title></programme>
+<programme start="20260201110000 +0000" stop="20260201130000 +0000" channel="ANTV.id@SD"><title lang="id">Rindu Tak Berujung</title></programme>
+<programme start="20260201130000 +0000" stop="20260201143000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - Ajian Ratu Laut Kidul</title></programme>
+<programme start="20260201143000 +0000" stop="20260201163000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - Ajian Nyi Mas Gandasari</title></programme>
+<programme start="20260201163000 +0000" stop="20260201183000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia - Witch From Nepal</title></programme>
+<programme start="20260201183000 +0000" stop="20260201200000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - True Justice : Street Wars</title></programme>
+<programme start="20260201200000 +0000" stop="20260201223000 +0000" channel="ANTV.id@SD"><title lang="id">Mega Bollywood - Break Ke Baad</title></programme>
+<programme start="20260201223000 +0000" stop="20260201230000 +0000" channel="ANTV.id@SD"><title lang="id">Ada Si Manis Di Jembatan</title></programme>
+<programme start="20260201230000 +0000" stop="20260202010000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - Intan Berduri</title></programme>
+<programme start="20260202010000 +0000" stop="20260202030000 +0000" channel="ANTV.id@SD"><title lang="id">Mangal Lakshmi</title></programme>
+<programme start="20260202030000 +0000" stop="20260202063000 +0000" channel="ANTV.id@SD"><title lang="id">Mega Bollywood - Sultan</title></programme>
+<programme start="20260202063000 +0000" stop="20260202080000 +0000" channel="ANTV.id@SD"><title lang="id">Cinta Keluarga Pandya</title></programme>
+<programme start="20260202080000 +0000" stop="20260202093000 +0000" channel="ANTV.id@SD"><title lang="id">Zeynep</title></programme>
+<programme start="20260202093000 +0000" stop="20260202110000 +0000" channel="ANTV.id@SD"><title lang="id">Takdir Cinta Layla</title></programme>
+<programme start="20260202110000 +0000" stop="20260202130000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - Mandala Penakluk Satria Tar Tar</title></programme>
+<programme start="20260202130000 +0000" stop="20260202143000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - Titisan Dewi Ular</title></programme>
+<programme start="20260202143000 +0000" stop="20260202163000 +0000" channel="ANTV.id@SD"><title lang="id">Sinema Spesial - Saur Sepuh 1 : Satria Madangkara</title></programme>
+<programme start="20260202163000 +0000" stop="20260202170000 +0000" channel="ANTV.id@SD"><title lang="id">Bioskop Asia - The Swordsman</title></programme>
 <programme start="20260131202700 +0000" stop="20260131203000 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
 <programme start="20260131203000 +0000" stop="20260131213000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20260131213000 +0000" stop="20260131230000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
@@ -98,16 +124,20 @@
 <programme start="20260201083000 +0000" stop="20260201100000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
 <programme start="20260201100000 +0000" stop="20260201150000 +0000" channel="BTV.id@SD"><title lang="id">Generali Hexagon Cup 2026</title></programme>
 <programme start="20260201150000 +0000" stop="20260201160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20260201160000 +0000" stop="20260201182700 +0000" channel="BTV.id@SD"><title lang="id">Generali Hexagon Cup 2026</title></programme>
-<programme start="20260201182700 +0000" stop="20260201183000 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
-<programme start="20260201183000 +0000" stop="20260201203000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Sore</title></programme>
+<programme start="20260201160000 +0000" stop="20260201190000 +0000" channel="BTV.id@SD"><title lang="id">Generali Hexagon Cup 2026</title></programme>
+<programme start="20260201190000 +0000" stop="20260201202700 +0000" channel="BTV.id@SD"><title lang="id">Generali Hexagon Cup 2026</title></programme>
+<programme start="20260201202700 +0000" stop="20260201203000 +0000" channel="BTV.id@SD"><title lang="id">Tanah Airku</title></programme>
 <programme start="20260201203000 +0000" stop="20260201213000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20260201213000 +0000" stop="20260201230000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Pagi</title></programme>
 <programme start="20260201230000 +0000" stop="20260201230300 +0000" channel="BTV.id@SD"><title lang="id">Indonesia Raya</title></programme>
 <programme start="20260201230300 +0000" stop="20260202003000 +0000" channel="BTV.id@SD"><title lang="id">Jalan Dakwah</title></programme>
-<programme start="20260202003000 +0000" stop="20260202011500 +0000" channel="BTV.id@SD"><title lang="id">Figur Publik</title></programme>
+<programme start="20260202003000 +0000" stop="20260202010000 +0000" channel="BTV.id@SD"><title lang="id">Figur Publik</title></programme>
+<programme start="20260202010000 +0000" stop="20260202010500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260202010500 +0000" stop="20260202011500 +0000" channel="BTV.id@SD"><title lang="id">Figur Publik</title></programme>
 <programme start="20260202011500 +0000" stop="20260202014500 +0000" channel="BTV.id@SD"><title lang="id">Kuyliner</title></programme>
-<programme start="20260202014500 +0000" stop="20260202023000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20260202014500 +0000" stop="20260202020000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
+<programme start="20260202020000 +0000" stop="20260202020500 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Terkini</title></programme>
+<programme start="20260202020500 +0000" stop="20260202023000 +0000" channel="BTV.id@SD"><title lang="id">Masak Ala Devina Hermawan</title></programme>
 <programme start="20260202023000 +0000" stop="20260202033000 +0000" channel="BTV.id@SD"><title lang="id">Investor Market Today</title></programme>
 <programme start="20260202033000 +0000" stop="20260202040000 +0000" channel="BTV.id@SD"><title lang="id">Berita Kriminal</title></programme>
 <programme start="20260202040000 +0000" stop="20260202060000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Siang</title></programme>
@@ -120,8 +150,7 @@
 <programme start="20260202130000 +0000" stop="20260202140000 +0000" channel="BTV.id@SD"><title lang="id">Berita Viral</title></programme>
 <programme start="20260202140000 +0000" stop="20260202150000 +0000" channel="BTV.id@SD"><title lang="id">Spot On</title></programme>
 <programme start="20260202150000 +0000" stop="20260202160000 +0000" channel="BTV.id@SD"><title lang="id">Berita Satu Malam</title></programme>
-<programme start="20260202160000 +0000" stop="20260202163000 +0000" channel="BTV.id@SD"><title lang="id">Mitos Tengah Malam</title></programme>
-<programme start="20260202163000 +0000" stop="20260202173000 +0000" channel="BTV.id@SD"><title lang="id">One Vault</title></programme>
+<programme start="20260202160000 +0000" stop="20260202170000 +0000" channel="BTV.id@SD"><title lang="id">Generali Hexagon Cup 2026</title></programme>
 <programme start="20260131170000 +0000" stop="20260131180000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Manufacture Check</title></programme>
 <programme start="20260131180000 +0000" stop="20260131183000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Autobizz</title></programme>
 <programme start="20260131183000 +0000" stop="20260131190000 +0000" channel="CNBCIndonesia.id@SD"><title lang="id">Focus On Infra</title></programme>
@@ -298,9 +327,9 @@
 <programme start="20260201080000 +0000" stop="20260201103500 +0000" channel="Indosiar.id@SD"><title lang="id">Borneo FC Samarinda vs PSIM Yogyakarta : Bri Super League 2025/26</title><desc lang="id">Saksikan! Bri Super League 2025/26 - Is Back!&quot; 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan Bri Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 Wib, Live &amp; Eksklusif Hanya Di Indosiar Dan Vidio #Indosiarrumahsepakbolaindonesia</desc><image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image></programme>
 <programme start="20260201103500 +0000" stop="20260201113500 +0000" channel="Indosiar.id@SD"><title lang="id">Merangkai Kisah Indah</title><desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar &quot;Merangkai Kisah Indah&quot; Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib Hanya Di Indosiar.</desc><image>https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg</image></programme>
 <programme start="20260201113500 +0000" stop="20260201141600 +0000" channel="Indosiar.id@SD"><title lang="id">Persebaya Surabaya vs Dewa United FC : Bri Super League 2025/26</title><desc lang="id">Saksikan! Bri Super League 2025/26 - Is Back!&quot; 18 Klub Terbaik Siap Bertarung Di Kasta Tertinggi Sepak Bola Indonesia! Pertandingan Semakin Seru! Jangan Lewatkan Bri Super League 2025/26 Mulai 8 Agustus 2025, Pkl 15.00 &amp; 18.30 Wib, Live &amp; Eksklusif Hanya Di Indosiar Dan Vidio #Indosiarrumahsepakbolaindonesia</desc><image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image></programme>
-<programme start="20260201141600 +0000" stop="20260201180000 +0000" channel="Indosiar.id@SD"><title lang="id">D&apos; Academy 7 : Mega Konser Everlasting Hits</title><desc lang="id">Panggung Megah Konser D&apos;Academy 7 Siap Digelar! Audisi Online Dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D&apos;Academy 7? Saksikan D&apos;Academy 7 Bersama Para Juri Papan Atas: Soimah, Lesti Kejora, Dewi Perssik, Wika Salim, Elvy Sukaesih, Iyeth Bustami, Dan Rita Sugiarto. Dengan D&apos;Coach: Fildan, Selfi Yamma, Melly Lee Serta Dipandu Host Handal: Rina Nose, Gilang Dirga, Ramzi, Jirayut, Eko Patrio, Rizky Billar. Mulai Senin, 9 Juni, Setiap Senin-Jumat Pkl 19.00 Wib Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc><image>https://thumbor.prod.vidiocdn.com/7g9AK_YVKpibGaKMBzXMYtJ68xo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854933/06c83a.jpg</image></programme>
-<programme start="20260201141600 +0000" stop="20260201180000 +0000" channel="Indosiar.id@SD"><title lang="id">D&apos; Academy 7 : Mega Konser Everlasting Hits</title><desc lang="id">Panggung Megah Konser D&apos;Academy 7 Siap Digelar! Audisi Online Dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D&apos;Academy 7? Saksikan D&apos;Academy 7 Bersama Para Juri Papan Atas: Soimah, Lesti Kejora, Dewi Perssik, Wika Salim, Elvy Sukaesih, Iyeth Bustami, Dan Rita Sugiarto. Dengan D&apos;Coach: Fildan, Selfi Yamma, Melly Lee Serta Dipandu Host Handal: Rina Nose, Gilang Dirga, Ramzi, Jirayut, Eko Patrio, Rizky Billar. Mulai Senin, 9 Juni, Setiap Senin-Jumat Pkl 19.00 Wib Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc><image>https://thumbor.prod.vidiocdn.com/7g9AK_YVKpibGaKMBzXMYtJ68xo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854933/06c83a.jpg</image></programme>
-<programme start="20260201180000 +0000" stop="20260201200000 +0000" channel="Indosiar.id@SD"><title lang="id">Mega Film Asia Prime : The Man With The Iron Fists 2</title><desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc><image>https://thumbor.prod.vidiocdn.com/ogvCa32LEE-sZ8H_pDtxogmOt08=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854961/c02880.jpg</image></programme>
+<programme start="20260201141600 +0000" stop="20260201182000 +0000" channel="Indosiar.id@SD"><title lang="id">D&apos; Academy 7 : Mega Konser Everlasting Hits</title><desc lang="id">Panggung Megah Konser D&apos;Academy 7 Siap Digelar! Audisi Online Dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D&apos;Academy 7? Saksikan D&apos;Academy 7 Bersama Para Juri Papan Atas: Soimah, Lesti Kejora, Dewi Perssik, Wika Salim, Elvy Sukaesih, Iyeth Bustami, Dan Rita Sugiarto. Dengan D&apos;Coach: Fildan, Selfi Yamma, Melly Lee Serta Dipandu Host Handal: Rina Nose, Gilang Dirga, Ramzi, Jirayut, Eko Patrio, Rizky Billar. Mulai Senin, 9 Juni, Setiap Senin-Jumat Pkl 19.00 Wib Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc><image>https://thumbor.prod.vidiocdn.com/7g9AK_YVKpibGaKMBzXMYtJ68xo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854933/06c83a.jpg</image></programme>
+<programme start="20260201141600 +0000" stop="20260201182000 +0000" channel="Indosiar.id@SD"><title lang="id">D&apos; Academy 7 : Mega Konser Everlasting Hits</title><desc lang="id">Panggung Megah Konser D&apos;Academy 7 Siap Digelar! Audisi Online Dan Offline Telah Usai! Siapakah Yang Akan Lolos Ke Panggung Megah D&apos;Academy 7? Saksikan D&apos;Academy 7 Bersama Para Juri Papan Atas: Soimah, Lesti Kejora, Dewi Perssik, Wika Salim, Elvy Sukaesih, Iyeth Bustami, Dan Rita Sugiarto. Dengan D&apos;Coach: Fildan, Selfi Yamma, Melly Lee Serta Dipandu Host Handal: Rina Nose, Gilang Dirga, Ramzi, Jirayut, Eko Patrio, Rizky Billar. Mulai Senin, 9 Juni, Setiap Senin-Jumat Pkl 19.00 Wib Hanya Di Indosiar. #Indosiarbawadangdutberkelasberkualitas</desc><image>https://thumbor.prod.vidiocdn.com/7g9AK_YVKpibGaKMBzXMYtJ68xo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854933/06c83a.jpg</image></programme>
+<programme start="20260201182000 +0000" stop="20260201200000 +0000" channel="Indosiar.id@SD"><title lang="id">Mega Film Asia Prime : The Man With The Iron Fists 2</title><desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc><image>https://thumbor.prod.vidiocdn.com/ogvCa32LEE-sZ8H_pDtxogmOt08=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854961/c02880.jpg</image></programme>
 <programme start="20260201200000 +0000" stop="20260201213000 +0000" channel="Indosiar.id@SD"><title lang="id">Mega Film Asia : Tiger Cage II</title><desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc><image>https://thumbor.prod.vidiocdn.com/q3avFT1UYfniJfdObeUyJ19Xr48=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4854949/ee65cb.jpg</image></programme>
 <programme start="20260201213000 +0000" stop="20260201230000 +0000" channel="Indosiar.id@SD"><title lang="id">Fokus Pagi</title><desc lang="id">Berita Lengkap Dan Terkini Dari Dalam Dan Luar Negeri Seputar Isu Politik, Ekonomi, Hukum, Kriminal, Sosial Budaya, Olahraga, Dan Lain-Lain.</desc><image>https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg</image></programme>
 <programme start="20260201230000 +0000" stop="20260202000000 +0000" channel="Indosiar.id@SD"><title lang="id">Merangkai Kisah Indah</title><desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar &quot;Merangkai Kisah Indah&quot; Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib Hanya Di Indosiar.</desc><image>https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg</image></programme>
@@ -729,6 +758,46 @@
 <programme start="20260202170000 +0000" stop="20260202190000 +0000" channel="RCTI.id@SD"><title lang="id">RCTI</title><desc lang="id">RCTI menawarkan beragam program termasuk serial drama, film box office, acara olahraga, pencarian bakat, reality show dan musik, program ulang tahun dan penghargaan, serta berbagai infotainment.</desc><category lang="id">Entertainment</category></programme>
 <programme start="20260202190000 +0000" stop="20260202230000 +0000" channel="RCTI.id@SD"><title lang="id">RCTI</title><desc lang="id">RCTI menawarkan beragam program termasuk serial drama, film box office, acara olahraga, pencarian bakat, reality show dan musik, program ulang tahun dan penghargaan, serta berbagai infotainment.</desc><category lang="id">Entertainment</category></programme>
 <programme start="20260202230000 +0000" stop="20260203000000 +0000" channel="RCTI.id@SD"><title lang="id">RCTI</title><desc lang="id">RCTI menawarkan beragam program termasuk serial drama, film box office, acara olahraga, pencarian bakat, reality show dan musik, program ulang tahun dan penghargaan, serta berbagai infotainment.</desc><category lang="id">Entertainment</category></programme>
+<programme start="20260131183000 +0000" stop="20260131203000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260131203000 +0000" stop="20260131223000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260131223000 +0000" stop="20260201000000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260201000000 +0000" stop="20260201001500 +0000" channel="RodjaTV.id@SD"><title lang="id">Mutiara Salaf</title></programme>
+<programme start="20260201001500 +0000" stop="20260201003000 +0000" channel="RodjaTV.id@SD"><title lang="id">Fatawa</title></programme>
+<programme start="20260201003000 +0000" stop="20260201011500 +0000" channel="RodjaTV.id@SD"><title lang="id">Kisah Menawan Sang Teladan</title></programme>
+<programme start="20260201011500 +0000" stop="20260201020000 +0000" channel="RodjaTV.id@SD"><title lang="id">Belajar Tajwid Anak</title></programme>
+<programme start="20260201020000 +0000" stop="20260201043000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah Tabligh Akbar</title></programme>
+<programme start="20260201043000 +0000" stop="20260201060000 +0000" channel="RodjaTV.id@SD"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20260201060000 +0000" stop="20260201073000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260201073000 +0000" stop="20260201080000 +0000" channel="RodjaTV.id@SD"><title lang="id">Ayat Dan Tafsir Pilihan</title></programme>
+<programme start="20260201080000 +0000" stop="20260201090000 +0000" channel="RodjaTV.id@SD"><title lang="id">Untaian Mutiara Nasihat</title></programme>
+<programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="RodjaTV.id@SD"><title lang="id">Rodja Ceria</title></programme>
+<programme start="20260201100000 +0000" stop="20260201110000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260201110000 +0000" stop="20260201113000 +0000" channel="RodjaTV.id@SD"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20260201113000 +0000" stop="20260201123000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260201123000 +0000" stop="20260201130000 +0000" channel="RodjaTV.id@SD"><title lang="id">Qola Rasul</title></programme>
+<programme start="20260201130000 +0000" stop="20260201143000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kacamata Islam</title></programme>
+<programme start="20260201143000 +0000" stop="20260201150000 +0000" channel="RodjaTV.id@SD"><title lang="id">Untaian Mutiara Nasihat</title></programme>
+<programme start="20260201150000 +0000" stop="20260201163000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260201163000 +0000" stop="20260201183000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260201183000 +0000" stop="20260201203000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260201203000 +0000" stop="20260201223000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260201223000 +0000" stop="20260202000000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260202000000 +0000" stop="20260202003000 +0000" channel="RodjaTV.id@SD"><title lang="id">Fatawa</title></programme>
+<programme start="20260202003000 +0000" stop="20260202010000 +0000" channel="RodjaTV.id@SD"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20260202010000 +0000" stop="20260202030000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260202030000 +0000" stop="20260202043000 +0000" channel="RodjaTV.id@SD"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20260202043000 +0000" stop="20260202060000 +0000" channel="RodjaTV.id@SD"><title lang="id">Khutbah dan Shalat Jumat</title></programme>
+<programme start="20260202060000 +0000" stop="20260202073000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260202073000 +0000" stop="20260202080000 +0000" channel="RodjaTV.id@SD"><title lang="id">Ayat Dan Tafsir Pilihan</title></programme>
+<programme start="20260202080000 +0000" stop="20260202083000 +0000" channel="RodjaTV.id@SD"><title lang="id">Qola Rasul</title></programme>
+<programme start="20260202083000 +0000" stop="20260202093000 +0000" channel="RodjaTV.id@SD"><title lang="id">Untaian Mutiara Nasihat</title></programme>
+<programme start="20260202093000 +0000" stop="20260202103000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260202103000 +0000" stop="20260202113000 +0000" channel="RodjaTV.id@SD"><title lang="id">Tilawah Al Quran terjemah</title></programme>
+<programme start="20260202113000 +0000" stop="20260202123000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260202123000 +0000" stop="20260202130000 +0000" channel="RodjaTV.id@SD"><title lang="id">Qola Rasul</title></programme>
+<programme start="20260202130000 +0000" stop="20260202150000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260202150000 +0000" stop="20260202163000 +0000" channel="RodjaTV.id@SD"><title lang="id">Kajian Ilmiah</title></programme>
+<programme start="20260202163000 +0000" stop="20260202183000 +0000" channel="RodjaTV.id@SD"><title lang="id">Sign Off</title></programme>
 <programme start="20260131160000 +0000" stop="20260131170000 +0000" channel="SCTV.id@SD"><title lang="id">Ftv Primetime Bidadari Dari Muntok</title><desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. tayang setiap hari</desc><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
 <programme start="20260131170000 +0000" stop="20260131200000 +0000" channel="SCTV.id@SD"><title lang="id">Chelsea Vs West Ham - Liga Inggris - Live</title><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
 <programme start="20260131200000 +0000" stop="20260131220000 +0000" channel="SCTV.id@SD"><title lang="id">Liverpool Vs Newcastle United - Liga Inggris - Live</title><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
@@ -766,6 +835,45 @@
 <programme start="20260202130000 +0000" stop="20260202143000 +0000" channel="SCTV.id@SD"><title lang="id">Cinta Sedalam Rindu</title><desc lang="id">Cerita sinetron ini mengangkat pertemanan di dunia game online. Awalnya hanya sekadar main bareng, lama-lama menjadi jatuh cinta beneran. Cinta Sedalam Rindu?menceritakan Aluna (Esta Pramanita) yang menyembunyikan identitasnya di?game online?sebagai Gulagula. Tak disangka, ia dekat dengan Ezra (Farhan Rasyid) yang memakai nama Ezy. Ezra jatuh cinta dan ingin bertemu, tapi Aluna terus menghindar karena malu. Untuk mengetahui keseruan ceritanya saksikan tayangannya setiap hari, hanya di SCTV.</desc><image>https://thumbor.prod.vidiocdn.com/a7M3a2MF4xeWK3qFa39KfDkRDfg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390241/5daa09.jpg</image></programme>
 <programme start="20260202143000 +0000" stop="20260202160000 +0000" channel="SCTV.id@SD"><title lang="id">Jejak Duka Diandra</title><desc lang="id">Kisah cinta Diandra (Michelle Ziudith) dan Dimitri (Rio Dewanto) yang semula indah, seketika berubah drastis setelah Yunita (Baiti Syaghaf), saudara tiri Diandra mengaku mencintai Dimitri. Dimitri terjebak dalam situasi sulit akibat ulah sang adik, Jupiter (Bizael) yang menuduh Dimitri melecehkan Yunita. Hubungan Dimitri dengan Diandra pun semakin merenggang. Tuduhan lainnya juga harus diterima Dimitri sebagai penyebab insiden kecelakaan seorang wanita. Posisi Dimitri semakin terpojok setelah Diandra yang diminta sebagai saksi justru tidak berpihak kepadanya hingga Dimitri mendapat sanksi mendekam di balik jeruji besi selama lima tahun.Lima tahun berlalu, Dimitri hidup bebas dan melanjutkan usaha sang ayah. Ia pun membuka kisah cinta baru dengan Melissa (Tasya Panggabean). Takdir pun berkata lain, pertemuan Dimitri dan Diandra kembali terjadi...kisah selengkapnya, silakan saksikan hanya di SCTV.</desc><image>https://thumbor.prod.vidiocdn.com/oMFhUagHdo4551UBuIvUsG9_qZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/399305/1d17bf.jpg</image></programme>
 <programme start="20260202160000 +0000" stop="20260202174500 +0000" channel="SCTV.id@SD"><title lang="id">Ftv Primetime Pacarku Bidadari Jutek</title><desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. tayang setiap hari</desc><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
+<programme start="20260131170000 +0000" stop="20260131180000 +0000" channel="SinPoTV.id@SD"><title lang="id">Bincang Spesial</title></programme>
+<programme start="20260131180000 +0000" stop="20260131193000 +0000" channel="SinPoTV.id@SD"><title lang="id">Menyapa Indonesia Petang</title></programme>
+<programme start="20260131193000 +0000" stop="20260131213000 +0000" channel="SinPoTV.id@SD"><title lang="id">Pegadaian Championship 2025/2026</title></programme>
+<programme start="20260131213000 +0000" stop="20260131220000 +0000" channel="SinPoTV.id@SD"><title lang="id">Islam Penuh Cinta</title></programme>
+<programme start="20260131220000 +0000" stop="20260131230000 +0000" channel="SinPoTV.id@SD"><title lang="id">Kilas Sepekan</title></programme>
+<programme start="20260131230000 +0000" stop="20260201000000 +0000" channel="SinPoTV.id@SD"><title lang="id">Ruang Kabinet</title></programme>
+<programme start="20260201000000 +0000" stop="20260201003000 +0000" channel="SinPoTV.id@SD"><title lang="id">LUV - Liputan Update Viral</title></programme>
+<programme start="20260201003000 +0000" stop="20260201013000 +0000" channel="SinPoTV.id@SD"><title lang="id">Sorotan Dunia Sepekan</title></programme>
+<programme start="20260201013000 +0000" stop="20260201023000 +0000" channel="SinPoTV.id@SD"><title lang="id">Bincang Spesial</title></programme>
+<programme start="20260201023000 +0000" stop="20260201033000 +0000" channel="SinPoTV.id@SD"><title lang="id">Catatan Kriminal Sepekan</title></programme>
+<programme start="20260201033000 +0000" stop="20260201053000 +0000" channel="SinPoTV.id@SD"><title lang="id">Juragan 11</title></programme>
+<programme start="20260201053000 +0000" stop="20260201063000 +0000" channel="SinPoTV.id@SD"><title lang="id">Catatan Sinpo</title></programme>
+<programme start="20260201063000 +0000" stop="20260201070000 +0000" channel="SinPoTV.id@SD"><title lang="id">Kisah Prajurit</title></programme>
+<programme start="20260201070000 +0000" stop="20260201080000 +0000" channel="SinPoTV.id@SD"><title lang="id">Ketawa Ala SUCA</title></programme>
+<programme start="20260201080000 +0000" stop="20260201083000 +0000" channel="SinPoTV.id@SD"><title lang="id">LUV - Liputan Update Viral</title></programme>
+<programme start="20260201083000 +0000" stop="20260201103000 +0000" channel="SinPoTV.id@SD"><title lang="id">Pegadaian Championship 2025/2026</title></programme>
+<programme start="20260201103000 +0000" stop="20260201120000 +0000" channel="SinPoTV.id@SD"><title lang="id">Menyapa Indonesia Petang</title></programme>
+<programme start="20260201120000 +0000" stop="20260201140000 +0000" channel="SinPoTV.id@SD"><title lang="id">Pegadaian Championship 2025/2026</title></programme>
+<programme start="20260201140000 +0000" stop="20260201150000 +0000" channel="SinPoTV.id@SD"><title lang="id">Kilas Sepekan</title></programme>
+<programme start="20260201150000 +0000" stop="20260201160000 +0000" channel="SinPoTV.id@SD"><title lang="id">Ruang Kabinet</title></programme>
+<programme start="20260201160000 +0000" stop="20260201170000 +0000" channel="SinPoTV.id@SD"><title lang="id">Catatan Sinpo</title></programme>
+<programme start="20260201170000 +0000" stop="20260201180000 +0000" channel="SinPoTV.id@SD"><title lang="id">Bincang Spesial</title></programme>
+<programme start="20260201180000 +0000" stop="20260201193000 +0000" channel="SinPoTV.id@SD"><title lang="id">Menyapa Indonesia Petang</title></programme>
+<programme start="20260201193000 +0000" stop="20260201213000 +0000" channel="SinPoTV.id@SD"><title lang="id">Pegadaian Championship 2025/2026</title></programme>
+<programme start="20260201213000 +0000" stop="20260201220000 +0000" channel="SinPoTV.id@SD"><title lang="id">Islam Penuh Cinta</title></programme>
+<programme start="20260201220000 +0000" stop="20260202000000 +0000" channel="SinPoTV.id@SD"><title lang="id">Menyapa Indonesia Pagi</title></programme>
+<programme start="20260202000000 +0000" stop="20260202003000 +0000" channel="SinPoTV.id@SD"><title lang="id">LUV - Liputan Update Viral</title></programme>
+<programme start="20260202003000 +0000" stop="20260202013000 +0000" channel="SinPoTV.id@SD"><title lang="id">Sorotan Dunia</title></programme>
+<programme start="20260202013000 +0000" stop="20260202023000 +0000" channel="SinPoTV.id@SD"><title lang="id">Ngulik Politik</title></programme>
+<programme start="20260202023000 +0000" stop="20260202033000 +0000" channel="SinPoTV.id@SD"><title lang="id">Catatan Kriminal</title></programme>
+<programme start="20260202033000 +0000" stop="20260202053000 +0000" channel="SinPoTV.id@SD"><title lang="id">Juragan 11</title></programme>
+<programme start="20260202053000 +0000" stop="20260202070000 +0000" channel="SinPoTV.id@SD"><title lang="id">Menyapa Indonesia Siang</title></programme>
+<programme start="20260202070000 +0000" stop="20260202080000 +0000" channel="SinPoTV.id@SD"><title lang="id">Ketawa Ala SUCA</title></programme>
+<programme start="20260202080000 +0000" stop="20260202083000 +0000" channel="SinPoTV.id@SD"><title lang="id">LUV - Liputan Update Viral</title></programme>
+<programme start="20260202083000 +0000" stop="20260202110000 +0000" channel="SinPoTV.id@SD"><title lang="id">Magic Comic Show</title></programme>
+<programme start="20260202110000 +0000" stop="20260202120000 +0000" channel="SinPoTV.id@SD"><title lang="id">Menyapa Indonesia Petang</title></programme>
+<programme start="20260202120000 +0000" stop="20260202140000 +0000" channel="SinPoTV.id@SD"><title lang="id">Menyapa Indonesia Malam</title></programme>
+<programme start="20260202140000 +0000" stop="20260202160000 +0000" channel="SinPoTV.id@SD"><title lang="id">Super League 2025/2026</title></programme>
+<programme start="20260202160000 +0000" stop="20260202170000 +0000" channel="SinPoTV.id@SD"><title lang="id">Sorotan Utama</title></programme>
 <programme start="20260131181500 +0000" stop="20260131190000 +0000" channel="Trans7.id@SD"><title lang="id">Best Fishing</title></programme>
 <programme start="20260131190000 +0000" stop="20260131193000 +0000" channel="Trans7.id@SD"><title lang="id">LOL Comediha!</title></programme>
 <programme start="20260131193000 +0000" stop="20260131203000 +0000" channel="Trans7.id@SD"><title lang="id">Lapor Pak!</title></programme>
@@ -861,6 +969,72 @@
 <programme start="20260202130000 +0000" stop="20260202140000 +0000" channel="TransTV.id@SD"><title lang="id">Dunia Punya Cerita</title></programme>
 <programme start="20260202140000 +0000" stop="20260202160000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV - Bad Boys For Life</title></programme>
 <programme start="20260202160000 +0000" stop="20260202180000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV - Line of Duty</title></programme>
+<programme start="20260131170000 +0000" stop="20260131180000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260131180000 +0000" stop="20260131190000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260131190000 +0000" stop="20260131200000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260131200000 +0000" stop="20260131210000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260131210000 +0000" stop="20260131214500 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260131214500 +0000" stop="20260131220000 +0000" channel="TVMu.id@SD"><title lang="id">Opening</title></programme>
+<programme start="20260131220000 +0000" stop="20260131221500 +0000" channel="TVMu.id@SD"><title lang="id">Paham Muhammadiyah</title></programme>
+<programme start="20260131221500 +0000" stop="20260131233000 +0000" channel="TVMu.id@SD"><title lang="id">Gerakan Subuh Mengaji</title></programme>
+<programme start="20260131233000 +0000" stop="20260201003000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
+<programme start="20260201003000 +0000" stop="20260201010000 +0000" channel="TVMu.id@SD"><title lang="id">Zona Musik Religi</title></programme>
+<programme start="20260201010000 +0000" stop="20260201020000 +0000" channel="TVMu.id@SD"><title lang="id">Kajian Ahad</title></programme>
+<programme start="20260201020000 +0000" stop="20260201023000 +0000" channel="TVMu.id@SD"><title lang="id">Karima</title></programme>
+<programme start="20260201023000 +0000" stop="20260201030000 +0000" channel="TVMu.id@SD"><title lang="id">UMJ Talks</title></programme>
+<programme start="20260201030000 +0000" stop="20260201040000 +0000" channel="TVMu.id@SD"><title lang="id">Teras tvMu</title></programme>
+<programme start="20260201040000 +0000" stop="20260201043000 +0000" channel="TVMu.id@SD"><title lang="id">DiasporaMu</title></programme>
+<programme start="20260201043000 +0000" stop="20260201050000 +0000" channel="TVMu.id@SD"><title lang="id">Catatan Akhir Pekan</title></programme>
+<programme start="20260201050000 +0000" stop="20260201060000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
+<programme start="20260201060000 +0000" stop="20260201063000 +0000" channel="TVMu.id@SD"><title lang="id">Zona Musik Religi</title></programme>
+<programme start="20260201063000 +0000" stop="20260201070000 +0000" channel="TVMu.id@SD"><title lang="id">Berita Muhammadiyah Sepekan</title></programme>
+<programme start="20260201070000 +0000" stop="20260201073000 +0000" channel="TVMu.id@SD"><title lang="id">Tafsir Al - Azhar</title></programme>
+<programme start="20260201073000 +0000" stop="20260201080000 +0000" channel="TVMu.id@SD"><title lang="id">KOLAK</title></programme>
+<programme start="20260201080000 +0000" stop="20260201083000 +0000" channel="TVMu.id@SD"><title lang="id">Karima</title></programme>
+<programme start="20260201083000 +0000" stop="20260201090000 +0000" channel="TVMu.id@SD"><title lang="id">Masjidil Haram</title></programme>
+<programme start="20260201090000 +0000" stop="20260201100000 +0000" channel="TVMu.id@SD"><title lang="id">Gerakan Subuh Mengaji</title></programme>
+<programme start="20260201100000 +0000" stop="20260201110000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
+<programme start="20260201110000 +0000" stop="20260201113000 +0000" channel="TVMu.id@SD"><title lang="id">Refleksi Haedar Nashir</title></programme>
+<programme start="20260201113000 +0000" stop="20260201120000 +0000" channel="TVMu.id@SD"><title lang="id">Catatan Akhir Pekan</title></programme>
+<programme start="20260201120000 +0000" stop="20260201123000 +0000" channel="TVMu.id@SD"><title lang="id">Menuju Baitullah</title></programme>
+<programme start="20260201123000 +0000" stop="20260201133000 +0000" channel="TVMu.id@SD"><title lang="id">Dialektika tvMu</title></programme>
+<programme start="20260201133000 +0000" stop="20260201140000 +0000" channel="TVMu.id@SD"><title lang="id">DiasporaMu</title></programme>
+<programme start="20260201140000 +0000" stop="20260201150000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
+<programme start="20260201150000 +0000" stop="20260201160000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260201160000 +0000" stop="20260201170000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260201170000 +0000" stop="20260201180000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260201180000 +0000" stop="20260201190000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260201190000 +0000" stop="20260201200000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260201200000 +0000" stop="20260201210000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260201210000 +0000" stop="20260201214500 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260201214500 +0000" stop="20260201220000 +0000" channel="TVMu.id@SD"><title lang="id">Opening</title></programme>
+<programme start="20260201220000 +0000" stop="20260201221500 +0000" channel="TVMu.id@SD"><title lang="id">Paham Muhammadiyah</title></programme>
+<programme start="20260201221500 +0000" stop="20260201233000 +0000" channel="TVMu.id@SD"><title lang="id">Gerakan Subuh Mengaji</title></programme>
+<programme start="20260201233000 +0000" stop="20260202003000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
+<programme start="20260202003000 +0000" stop="20260202010000 +0000" channel="TVMu.id@SD"><title lang="id">Zona Musik Religi</title></programme>
+<programme start="20260202010000 +0000" stop="20260202013000 +0000" channel="TVMu.id@SD"><title lang="id">Kajian Ahad</title></programme>
+<programme start="20260202013000 +0000" stop="20260202023000 +0000" channel="TVMu.id@SD"><title lang="id">Karima</title></programme>
+<programme start="20260202023000 +0000" stop="20260202030000 +0000" channel="TVMu.id@SD"><title lang="id">UMJ Talks</title></programme>
+<programme start="20260202030000 +0000" stop="20260202040000 +0000" channel="TVMu.id@SD"><title lang="id">Teras tvMu</title></programme>
+<programme start="20260202040000 +0000" stop="20260202043000 +0000" channel="TVMu.id@SD"><title lang="id">DiasporaMu</title></programme>
+<programme start="20260202043000 +0000" stop="20260202050000 +0000" channel="TVMu.id@SD"><title lang="id">Catatan Akhir Pekan</title></programme>
+<programme start="20260202050000 +0000" stop="20260202060000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
+<programme start="20260202060000 +0000" stop="20260202063000 +0000" channel="TVMu.id@SD"><title lang="id">Zona Musik Religi</title></programme>
+<programme start="20260202063000 +0000" stop="20260202070000 +0000" channel="TVMu.id@SD"><title lang="id">Berita Muhammadiyah Sepekan</title></programme>
+<programme start="20260202070000 +0000" stop="20260202073000 +0000" channel="TVMu.id@SD"><title lang="id">Tafsir Al - Azhar</title></programme>
+<programme start="20260202073000 +0000" stop="20260202080000 +0000" channel="TVMu.id@SD"><title lang="id">KOLAK</title></programme>
+<programme start="20260202080000 +0000" stop="20260202083000 +0000" channel="TVMu.id@SD"><title lang="id">Karima</title></programme>
+<programme start="20260202083000 +0000" stop="20260202090000 +0000" channel="TVMu.id@SD"><title lang="id">Masjidil Haram</title></programme>
+<programme start="20260202090000 +0000" stop="20260202100000 +0000" channel="TVMu.id@SD"><title lang="id">Gerakan Subuh Mengaji</title></programme>
+<programme start="20260202100000 +0000" stop="20260202110000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
+<programme start="20260202110000 +0000" stop="20260202113000 +0000" channel="TVMu.id@SD"><title lang="id">Refleksi Haedar Nashir</title></programme>
+<programme start="20260202113000 +0000" stop="20260202120000 +0000" channel="TVMu.id@SD"><title lang="id">Catatan Akhir Pekan</title></programme>
+<programme start="20260202120000 +0000" stop="20260202123000 +0000" channel="TVMu.id@SD"><title lang="id">Menuju Baitullah</title></programme>
+<programme start="20260202123000 +0000" stop="20260202133000 +0000" channel="TVMu.id@SD"><title lang="id">Dialektika tvMu</title></programme>
+<programme start="20260202133000 +0000" stop="20260202140000 +0000" channel="TVMu.id@SD"><title lang="id">DiasporaMu</title></programme>
+<programme start="20260202140000 +0000" stop="20260202150000 +0000" channel="TVMu.id@SD"><title lang="id">Berita tvMu</title></programme>
+<programme start="20260202150000 +0000" stop="20260202160000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
+<programme start="20260202160000 +0000" stop="20260202170000 +0000" channel="TVMu.id@SD"><title lang="id">Sign Off</title></programme>
 <programme start="20260131190000 +0000" stop="20260131200000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Petang</title></programme>
 <programme start="20260131200000 +0000" stop="20260131210000 +0000" channel="tvOne.id@SD"><title lang="id">Apa Kabar Indonesia Pagi</title></programme>
 <programme start="20260131210000 +0000" stop="20260131213000 +0000" channel="tvOne.id@SD"><title lang="id">Kabar Arena Pagi</title></programme>
