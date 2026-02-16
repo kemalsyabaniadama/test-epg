@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260216">
 <channel id="AjwaTV.id@SD"><display-name>Ajwa TV</display-name><icon src="https://i.imgur.com/JXjbUhB.png"/><url>https://vidio.com</url></channel>
-<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNBCIndonesia.id@SD"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
-<channel id="GarudaTV.id@SD"><display-name>Garuda TV</display-name><icon src="https://i.imgur.com/sXsAcZ3.png"/><url>https://tivie.id</url></channel>
-<channel id="MentariTV.id@SD"><display-name>Mentari TV</display-name><icon src="https://i.imgur.com/QkTgy1M.png"/><url>https://indihometv.com</url></channel>
-<channel id="MagnaChannel.id@SD"><display-name>Magna TV</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://vidio.com</url></channel>
-<channel id="ElshintaTV.id@SD"><display-name>Elshinta TV</display-name><icon src="https://i.imgur.com/x5uoy2H.png"/><url>https://vidio.com</url></channel>
-<channel id="KompasTV.id@SD"><display-name>Kompas TV</display-name><icon src="https://i.imgur.com/bD6UHeZ.png"/><url>https://indihometv.com</url></channel>
-<channel id="JawaPosTV.id@SD"><display-name>Jawa Pos TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="DAAITV.id@SD"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
-<channel id="JakTV.id@SD"><display-name>JakTV</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://indihometv.com</url></channel>
-<channel id="iNews.id@SD"><display-name>iNews</display-name><icon src="https://i.imgur.com/M2R3lfg.png"/><url>https://visionplus.id</url></channel>
+<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVRINasional.id@SD"><display-name>TVRI Nasional</display-name><url>https://indihometv.com</url></channel>
+<channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="TVMu.id@SD"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
+<channel id="TransTV.id@SD"><display-name>TransTV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://indihometv.com</url></channel>
+<channel id="Trans7.id@SD"><display-name>Trans7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://indihometv.com</url></channel>
+<channel id="SinPoTV.id@SD"><display-name>SinPo TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/2560px-Sin_Po_TV.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://vidio.com</url></channel>
+<channel id="RodjaTV.id@SD"><display-name>Rodja TV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://indihometv.com</url></channel>
+<channel id="RajawaliTV.id@SD"><display-name>Rajawali TV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://indihometv.com</url></channel>
 <channel id="RCTI.id@SD"><display-name>RCTI</display-name><icon src="https://i.imgur.com/iLFx8ia.png"/><url>https://visionplus.id</url></channel>
+<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://indihometv.com</url></channel>
 <channel id="MDTV.id@SD"><display-name>MDTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/330px-MDTV_logo.svg.png"/><url>https://indihometv.com</url></channel>
 <channel id="Moji.id@SD"><display-name>Moji</display-name><icon src="https://i.imgur.com/mM9zapJ.png"/><url>https://vidio.com</url></channel>
 <channel id="MNCTV.id@SD"><display-name>MNCTV</display-name><icon src="https://i.imgur.com/SK8pjQy.png"/><url>https://visionplus.id</url></channel>
 <channel id="MetroTV.id@SD"><display-name>Metro TV</display-name><icon src="https://i.imgur.com/QnU70NI.png"/><url>https://indihometv.com</url></channel>
-<channel id="NusantaraTV.id@SD"><display-name>Nusantara TV</display-name><icon src="https://i.imgur.com/viun5hj.png"/><url>https://indihometv.com</url></channel>
-<channel id="CNNIndonesia.id@SD"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
+<channel id="MentariTV.id@SD"><display-name>Mentari TV</display-name><icon src="https://i.imgur.com/QkTgy1M.png"/><url>https://indihometv.com</url></channel>
+<channel id="MagnaChannel.id@SD"><display-name>Magna TV</display-name><icon src="https://i.imgur.com/tfJo0SO.png"/><url>https://vidio.com</url></channel>
+<channel id="KompasTV.id@SD"><display-name>Kompas TV</display-name><icon src="https://i.imgur.com/bD6UHeZ.png"/><url>https://indihometv.com</url></channel>
+<channel id="JawaPosTV.id@SD"><display-name>Jawa Pos TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/2560px-Jawa_Pos_TV_2024.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="JakTV.id@SD"><display-name>JakTV</display-name><icon src="https://i.imgur.com/xyLLLOi.png"/><url>https://indihometv.com</url></channel>
+<channel id="iNews.id@SD"><display-name>iNews</display-name><icon src="https://i.imgur.com/M2R3lfg.png"/><url>https://visionplus.id</url></channel>
 <channel id="Indosiar.id@SD"><display-name>Indosiar</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"/><url>https://vidio.com</url></channel>
 <channel id="GTV.id@SD"><display-name>GTV</display-name><icon src="https://i.imgur.com/jjuKnYs.png"/><url>https://visionplus.id</url></channel>
-<channel id="RajawaliTV.id@SD"><display-name>Rajawali TV</display-name><icon src="https://i.imgur.com/dlsv1sl.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRINasional.id@SD"><display-name>TVRI Nasional</display-name><url>https://indihometv.com</url></channel>
-<channel id="tvOne.id@SD"><display-name>TV One</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/2560px-TvOne_2023.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="TransTV.id@SD"><display-name>TransTV</display-name><icon src="https://i.postimg.cc/4y48dSTV/transtv.png"/><url>https://indihometv.com</url></channel>
-<channel id="Trans7.id@SD"><display-name>Trans7</display-name><icon src="https://i.imgur.com/fAbGImS.png"/><url>https://indihometv.com</url></channel>
-<channel id="SinPoTV.id@SD"><display-name>SinPo TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/2560px-Sin_Po_TV.svg.png"/><url>https://indihometv.com</url></channel>
-<channel id="RodjaTV.id@SD"><display-name>Rodja TV</display-name><icon src="https://i.imgur.com/XwCeHlC.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVRIWorld.id@SD"><display-name>TVRI World</display-name><icon src="https://i.postimg.cc/28Xg3h8M/tvriworld.png"/><url>https://indihometv.com</url></channel>
-<channel id="TVMu.id@SD"><display-name>Muhammadiyah TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png"/><url>https://indihometv.com</url></channel>
-<channel id="SCTV.id@SD"><display-name>SCTV</display-name><icon src="https://i.imgur.com/EMmOvnQ.png"/><url>https://vidio.com</url></channel>
+<channel id="GarudaTV.id@SD"><display-name>Garuda TV</display-name><icon src="https://i.imgur.com/sXsAcZ3.png"/><url>https://tivie.id</url></channel>
+<channel id="ElshintaTV.id@SD"><display-name>Elshinta TV</display-name><icon src="https://i.imgur.com/x5uoy2H.png"/><url>https://vidio.com</url></channel>
+<channel id="DAAITV.id@SD"><display-name>Daai TV</display-name><icon src="https://i.imgur.com/YC7JCHo.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNNIndonesia.id@SD"><display-name>CNN Indonesia</display-name><icon src="https://i.imgur.com/l0JyOrm.png"/><url>https://indihometv.com</url></channel>
+<channel id="CNBCIndonesia.id@SD"><display-name>CNBC Indonesia</display-name><icon src="https://i.imgur.com/bUfeG7Y.png"/><url>https://indihometv.com</url></channel>
+<channel id="BTV.id@SD"><display-name>BTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/2560px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"/><url>https://indihometv.com</url></channel>
+<channel id="ANTV.id@SD"><display-name>ANTV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png"/><url>https://indihometv.com</url></channel>
 <programme start="20260215160000 +0000" stop="20260215173000 +0000" channel="AjwaTV.id@SD"><title lang="id">Ftv Islami</title><image>https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg</image></programme>
 <programme start="20260215173000 +0000" stop="20260215183000 +0000" channel="AjwaTV.id@SD"><title lang="id">30 Hari 30 Juz</title><image>https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg</image></programme>
 <programme start="20260215183000 +0000" stop="20260215213000 +0000" channel="AjwaTV.id@SD"><title lang="id">Live Makkah</title><image>https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg</image></programme>
@@ -904,7 +904,7 @@
 <programme start="20260217000000 +0000" stop="20260217010000 +0000" channel="Moji.id@SD"><title lang="id">Bisik Pagi</title><desc lang="id">Bisik Pagi</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
 <programme start="20260217010000 +0000" stop="20260217035500 +0000" channel="Moji.id@SD"><title lang="id">Ungkap</title><desc lang="id">Ungkap</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
 <programme start="20260217035500 +0000" stop="20260217100000 +0000" channel="Moji.id@SD"><title lang="id">Tercyduk</title><desc lang="id">Tercyduk</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
-<programme start="20260217100000 +0000" stop="20260217123000 +0000" channel="Moji.id@SD"><title lang="id">Sidang Isbat 1 Ramadan 1447 H</title><desc lang="id">Sidang Isbat 1 Ramadan 1447 H</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
+<programme start="20260217100000 +0000" stop="20260217123000 +0000" channel="Moji.id@SD"><title lang="id">Sidang Isbat 1 Ramadan 1447 H</title><desc lang="id">Sidang Isbat 1 Ramadan 1447 H</desc><image>https://thumbor.prod.vidiocdn.com/vpkcqmDV7smcHJMaqKWz4COH6IA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4901950/9b813b.jpg</image></programme>
 <programme start="20260217123000 +0000" stop="20260217163000 +0000" channel="Moji.id@SD"><title lang="id">Proliga 2026</title><desc lang="id">Proliga 2026</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
 <programme start="20260217163000 +0000" stop="20260217173000 +0000" channel="Moji.id@SD"><title lang="id">Harta Tahta Cinta</title><desc lang="id">Harta Tahta Cinta</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
 <programme start="20260215170000 +0000" stop="20260215190000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Sinema India</title></programme>
