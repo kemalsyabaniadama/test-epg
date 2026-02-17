@@ -1114,8 +1114,8 @@
 <programme start="20260217160000 +0000" stop="20260217171500 +0000" channel="SCTV.id@SD"><title lang="id">Ftv Primetime Separuh Cintaku Kembali</title><desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. tayang setiap hari</desc><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
 <programme start="20260217160000 +0000" stop="20260217171500 +0000" channel="SCTV.id@SD"><title lang="id">Ftv Primetime Separuh Cintaku Kembali</title><desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. tayang setiap hari</desc><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
 <programme start="20260217171500 +0000" stop="20260217183000 +0000" channel="SCTV.id@SD"><title lang="id">Ftv Utama Wo Ai Ni Mei Lan</title><desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. tayang setiap hari</desc><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
-<programme start="20260217183000 +0000" stop="20260217200000 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Malam Gadis Cabe Merah</title><desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. tayang setiap hari</desc><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
-<programme start="20260217200000 +0000" stop="20260217220000 +0000" channel="SCTV.id@SD"><title lang="id">As Monaco Vs Psg - Uefa Champions League - Live</title><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
+<programme start="20260217183000 +0000" stop="20260217194400 +0000" channel="SCTV.id@SD"><title lang="id">Sinema Malam Gadis Cabe Merah</title><desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. tayang setiap hari</desc><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
+<programme start="20260217194400 +0000" stop="20260217220000 +0000" channel="SCTV.id@SD"><title lang="id">As Monaco Vs Psg - Uefa Champions League - Live</title><image>https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg</image></programme>
 <programme start="20260217220000 +0000" stop="20260217230000 +0000" channel="SCTV.id@SD"><title lang="id">Liputan 6 Pagi - Live</title><image>https://thumbor.prod.vidiocdn.com/-bhAD9ruakTrTeoT1eywh3r4oB8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4903088/e543ea.jpg</image></programme>
 <programme start="20260217230000 +0000" stop="20260218000000 +0000" channel="SCTV.id@SD"><title lang="id">Hot Shot</title><image>https://thumbor.prod.vidiocdn.com/GYmeH7x3PXYQQVxHKcqc4u2C_4k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382433/e64ad9.jpg</image></programme>
 <programme start="20260218000000 +0000" stop="20260218013000 +0000" channel="SCTV.id@SD"><title lang="id">Ftv Pagi Spesial Endorse Cinta Mas Kurir Makin Ke Sini Makin Ke Sana</title><desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. tayang setiap hari</desc><image>https://thumbor.prod.vidiocdn.com/8wbz0MhKwOYjtGE2yz-8xD8TIF4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4901380/6bdcd8.jpg</image></programme>
@@ -1476,44 +1476,43 @@
 <programme start="20260217150000 +0000" stop="20260217160000 +0000" channel="TVRIWorld.id@SD"><title lang="id">World Today</title></programme>
 <programme start="20260217160000 +0000" stop="20260217163000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
 <programme start="20260217163000 +0000" stop="20260217170000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
-<programme start="20260217170000 +0000" stop="20260217173000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20260217173000 +0000" stop="20260217180000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
-<programme start="20260217180000 +0000" stop="20260217183000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20260217183000 +0000" stop="20260217190000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
-<programme start="20260217190000 +0000" stop="20260217200000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Legacy</title></programme>
-<programme start="20260217200000 +0000" stop="20260217203000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Golden Spot</title></programme>
-<programme start="20260217203000 +0000" stop="20260217210000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20260217210000 +0000" stop="20260217213000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260217170000 +0000" stop="20260217180000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Legacy</title></programme>
+<programme start="20260217180000 +0000" stop="20260217190000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Echoes of Indonesia</title></programme>
+<programme start="20260217190000 +0000" stop="20260217193000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
+<programme start="20260217193000 +0000" stop="20260217200000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Stories from The Cities</title></programme>
+<programme start="20260217200000 +0000" stop="20260217203000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260217203000 +0000" stop="20260217210000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260217210000 +0000" stop="20260217213000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Game of Ancestor</title></programme>
 <programme start="20260217213000 +0000" stop="20260217220000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
-<programme start="20260217220000 +0000" stop="20260217223000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Spices</title></programme>
-<programme start="20260217223000 +0000" stop="20260217230000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Spice Your Life</title></programme>
+<programme start="20260217220000 +0000" stop="20260217223000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Spice Your Life</title></programme>
+<programme start="20260217223000 +0000" stop="20260217230000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Potential Land</title></programme>
 <programme start="20260217230000 +0000" stop="20260218000000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Taste and Culture</title></programme>
 <programme start="20260218000000 +0000" stop="20260218010000 +0000" channel="TVRIWorld.id@SD"><title lang="id">World Today</title></programme>
 <programme start="20260218010000 +0000" stop="20260218020000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Starting Point</title></programme>
-<programme start="20260218020000 +0000" stop="20260218023000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Golden Spot</title></programme>
-<programme start="20260218023000 +0000" stop="20260218030000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Special Dialogue</title></programme>
-<programme start="20260218030000 +0000" stop="20260218033000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20260218033000 +0000" stop="20260218040000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
-<programme start="20260218040000 +0000" stop="20260218043000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Coastal Life</title></programme>
-<programme start="20260218043000 +0000" stop="20260218050000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Spice Your Life</title></programme>
-<programme start="20260218050000 +0000" stop="20260218060000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Taste and Culture</title></programme>
-<programme start="20260218060000 +0000" stop="20260218063000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260218020000 +0000" stop="20260218023000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Stories from The Cities</title></programme>
+<programme start="20260218023000 +0000" stop="20260218030000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260218030000 +0000" stop="20260218033000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260218033000 +0000" stop="20260218040000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Culture Guard</title></programme>
+<programme start="20260218040000 +0000" stop="20260218043000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Pursuit of Success</title></programme>
+<programme start="20260218043000 +0000" stop="20260218050000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Spices</title></programme>
+<programme start="20260218050000 +0000" stop="20260218053000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Spice Your Life</title></programme>
+<programme start="20260218053000 +0000" stop="20260218060000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Space of Mine</title></programme>
+<programme start="20260218060000 +0000" stop="20260218063000 +0000" channel="TVRIWorld.id@SD"><title lang="id">On Location</title></programme>
 <programme start="20260218063000 +0000" stop="20260218070000 +0000" channel="TVRIWorld.id@SD"><title lang="id">News Watch</title></programme>
-<programme start="20260218070000 +0000" stop="20260218073000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20260218073000 +0000" stop="20260218080000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
-<programme start="20260218080000 +0000" stop="20260218083000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
-<programme start="20260218083000 +0000" stop="20260218090000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Golden Spot</title></programme>
-<programme start="20260218090000 +0000" stop="20260218093000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Spices</title></programme>
-<programme start="20260218093000 +0000" stop="20260218100000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Spice Your Life</title></programme>
+<programme start="20260218070000 +0000" stop="20260218080000 +0000" channel="TVRIWorld.id@SD"><title lang="id">The Heritage</title></programme>
+<programme start="20260218080000 +0000" stop="20260218083000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260218083000 +0000" stop="20260218090000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Local Wisdom</title></programme>
+<programme start="20260218090000 +0000" stop="20260218093000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
+<programme start="20260218093000 +0000" stop="20260218100000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
 <programme start="20260218100000 +0000" stop="20260218110000 +0000" channel="TVRIWorld.id@SD"><title lang="id">World Today</title></programme>
 <programme start="20260218110000 +0000" stop="20260218120000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Taste and Culture</title></programme>
-<programme start="20260218120000 +0000" stop="20260218123000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Coastal Life</title></programme>
+<programme start="20260218120000 +0000" stop="20260218123000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Sound of Indonesia</title></programme>
 <programme start="20260218123000 +0000" stop="20260218130000 +0000" channel="TVRIWorld.id@SD"><title lang="id">News Watch</title></programme>
-<programme start="20260218130000 +0000" stop="20260218133000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
-<programme start="20260218133000 +0000" stop="20260218140000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
-<programme start="20260218140000 +0000" stop="20260218143000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Special Dialogue</title></programme>
-<programme start="20260218143000 +0000" stop="20260218150000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
+<programme start="20260218130000 +0000" stop="20260218133000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Spices</title></programme>
+<programme start="20260218133000 +0000" stop="20260218140000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Special Dialogue</title></programme>
+<programme start="20260218140000 +0000" stop="20260218143000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Stories from The Cities</title></programme>
+<programme start="20260218143000 +0000" stop="20260218150000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Golden Spot</title></programme>
 <programme start="20260218150000 +0000" stop="20260218160000 +0000" channel="TVRIWorld.id@SD"><title lang="id">World Today</title></programme>
-<programme start="20260218160000 +0000" stop="20260218163000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Golden Spot</title></programme>
-<programme start="20260218163000 +0000" stop="20260218170000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Mini Features</title></programme>
+<programme start="20260218160000 +0000" stop="20260218163000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Beautiful Indonesia</title></programme>
+<programme start="20260218163000 +0000" stop="20260218170000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Inspiring Indonesia</title></programme>
 </tv>
