@@ -968,9 +968,9 @@
 <programme start="20260322095800 +0000" stop="20260322111800 +0000" channel="Moji.id@SD"><title lang="id">Tobat!</title><desc lang="id">Tobat!</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
 <programme start="20260322111800 +0000" stop="20260322134200 +0000" channel="Moji.id@SD"><title lang="id">Moji Movie Spc Lebaran : Gundala</title><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
 <programme start="20260322134200 +0000" stop="20260322161800 +0000" channel="Moji.id@SD"><title lang="id">Premier League Spurs Vs Nottingham Forest</title><desc lang="id">Premier League Spurs Vs Nottingham Forest</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
-<programme start="20260322163000 +0000" stop="20260322173000 +0000" channel="Moji.id@SD"><title lang="id">UEFA CHAMPIONS LEAGUE</title><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
-<programme start="20260322163000 +0000" stop="20260322173000 +0000" channel="Moji.id@SD"><title lang="id">UEFA CHAMPIONS LEAGUE</title><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
-<programme start="20260322173000 +0000" stop="20260322192200 +0000" channel="Moji.id@SD"><title lang="id">Moji Movie</title><desc lang="id">Moji Movie</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
+<programme start="20260322163000 +0000" stop="20260322180000 +0000" channel="Moji.id@SD"><title lang="id">UEFA CHAMPIONS LEAGUE</title><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
+<programme start="20260322163000 +0000" stop="20260322180000 +0000" channel="Moji.id@SD"><title lang="id">UEFA CHAMPIONS LEAGUE</title><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
+<programme start="20260322180000 +0000" stop="20260322192200 +0000" channel="Moji.id@SD"><title lang="id">Moji Movie</title><desc lang="id">Moji Movie</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
 <programme start="20260322192200 +0000" stop="20260322213000 +0000" channel="Moji.id@SD"><title lang="id">Moji Movie</title><desc lang="id">Moji Movie</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
 <programme start="20260322213000 +0000" stop="20260322230000 +0000" channel="Moji.id@SD"><title lang="id">Moji Sport</title><desc lang="id">Moji Sport</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
 <programme start="20260322230000 +0000" stop="20260323000000 +0000" channel="Moji.id@SD"><title lang="id">Liputan 6 Pagi Moji</title><desc lang="id">Liputan 6 Pagi Moji</desc><image>https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg</image></programme>
@@ -1011,32 +1011,28 @@
 <programme start="20260322160000 +0000" stop="20260322173000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Soundcore Senandung Ramadan</title></programme>
 <programme start="20260322173000 +0000" stop="20260322200000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Tadarus Dari Makkah</title></programme>
 <programme start="20260322200000 +0000" stop="20260322210000 +0000" channel="NusantaraTV.id@SD"><title lang="id">Celebrity Fresh</title></programme>
-<programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="RajawaliTV.id@SD"><title lang="id">STB (Sangat Tidak Biasa)</title></programme>
-<programme start="20260321173000 +0000" stop="20260321180000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Kokom (Kompilasi Komedi)</title></programme>
-<programme start="20260321180000 +0000" stop="20260321183000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Terang Kasih</title></programme>
-<programme start="20260321183000 +0000" stop="20260321190000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boba (Bombastis Banget)</title></programme>
-<programme start="20260321190000 +0000" stop="20260321200000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Smurfs</title></programme>
-<programme start="20260321200000 +0000" stop="20260321203000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Makania</title></programme>
-<programme start="20260321203000 +0000" stop="20260321213000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Omar &amp; Hana</title></programme>
-<programme start="20260321213000 +0000" stop="20260321220000 +0000" channel="RajawaliTV.id@SD"><title lang="id">I&apos;M The Best Muslim!</title></programme>
-<programme start="20260321220000 +0000" stop="20260321233000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Metal Cardbot</title></programme>
-<programme start="20260321233000 +0000" stop="20260322000000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Sylvanian Families</title></programme>
-<programme start="20260322000000 +0000" stop="20260322010000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Beyblade X</title></programme>
-<programme start="20260322010000 +0000" stop="20260322013000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ultraman Orb</title></programme>
-<programme start="20260322013000 +0000" stop="20260322020000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Cai Yoo</title></programme>
-<programme start="20260322020000 +0000" stop="20260322023000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Abrakadabra</title></programme>
-<programme start="20260322023000 +0000" stop="20260322043000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Grizzy And The Lemmings</title></programme>
-<programme start="20260322043000 +0000" stop="20260322063000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Smurfs</title></programme>
-<programme start="20260322063000 +0000" stop="20260322080000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ejen Ali</title></programme>
-<programme start="20260322080000 +0000" stop="20260322090000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Riseman</title></programme>
-<programme start="20260322090000 +0000" stop="20260322093000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Papa Pipi</title></programme>
-<programme start="20260322093000 +0000" stop="20260322110000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ibra Berkisah</title></programme>
-<programme start="20260322110000 +0000" stop="20260322123000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
-<programme start="20260322123000 +0000" stop="20260322143000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Super Wings The Movie</title></programme>
-<programme start="20260322143000 +0000" stop="20260322150000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boba (Bombastis Banget)</title></programme>
-<programme start="20260322150000 +0000" stop="20260322153000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Check In (Check Informasi)</title></programme>
-<programme start="20260322153000 +0000" stop="20260322160000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Obral (Obrolan Viral)</title></programme>
 <programme start="20260322160000 +0000" stop="20260322170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Zankuro</title></programme>
+<programme start="20260322170000 +0000" stop="20260322180000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Wu Kong</title></programme>
+<programme start="20260322180000 +0000" stop="20260322183000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Terang Kasih</title></programme>
+<programme start="20260322183000 +0000" stop="20260322200000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Movinesia</title></programme>
+<programme start="20260322200000 +0000" stop="20260322203000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ustadz On The Road</title></programme>
+<programme start="20260322203000 +0000" stop="20260322213000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Riko The Series</title></programme>
+<programme start="20260322213000 +0000" stop="20260322220000 +0000" channel="RajawaliTV.id@SD"><title lang="id">I&apos;M The Best Muslim!</title></programme>
+<programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Marsupilami</title></programme>
+<programme start="20260322230000 +0000" stop="20260323010000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Bread Barbershop</title></programme>
+<programme start="20260323010000 +0000" stop="20260323023000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Grizzy And The Lemmings</title></programme>
+<programme start="20260323023000 +0000" stop="20260323033000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Galaxy</title></programme>
+<programme start="20260323033000 +0000" stop="20260323043000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster</title></programme>
+<programme start="20260323043000 +0000" stop="20260323060000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Smurfs The Movie</title></programme>
+<programme start="20260323060000 +0000" stop="20260323080000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ejen Ali</title></programme>
+<programme start="20260323080000 +0000" stop="20260323100000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boonie Bears: Guardian Code</title></programme>
+<programme start="20260323100000 +0000" stop="20260323120000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Boboiboy Sori The Movie</title></programme>
+<programme start="20260323120000 +0000" stop="20260323143000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Mechamato The Movie</title></programme>
+<programme start="20260323143000 +0000" stop="20260323150000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Blox Buster</title></programme>
+<programme start="20260323150000 +0000" stop="20260323153000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Terkepo-Kepo</title></programme>
+<programme start="20260323153000 +0000" stop="20260323160000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Lensa Indonesia Malam</title></programme>
+<programme start="20260323160000 +0000" stop="20260323163000 +0000" channel="RajawaliTV.id@SD"><title lang="id">Ijin, Ndan !</title></programme>
+<programme start="20260323163000 +0000" stop="20260323170000 +0000" channel="RajawaliTV.id@SD"><title lang="id">STB (Sangat Tidak Biasa)</title></programme>
 <programme start="20260321233000 +0000" stop="20260322003000 +0000" channel="RCTI.id@SD"><title lang="id">Upin Ipin</title><desc lang="id">Serial animasi anak-anak asal Malaysia yang diproduksi oleh Les&apos; Copaque Production, berpusat pada kisah kehidupan sepasang anak laki-laki kembar berusia 5 tahun bernama Upin &amp; Ipin yang tinggal bersama kakaknya bernama Kak Ros dan neneknya yang biasa dipanggil Opa di Kampung Durian Runtuh- Kehidupan sehari-hari Upin &amp; Ipin yang menyenangkan dan penuh kelucuan bersama teman-teman mereka yang memiliki kepribadian dan latar belakang berbeda-beda, seperti Mei-Mei yang cerdas, Jarjit Singh yang hobi berpantun, Ehsan yang suka makan, Fizi yang suka mengejek, Mail yang hobi berjualan, dan Susanti yang berasal dari Indonesia-</desc><category lang="id">Series/Children</category><category lang="id">Series</category><category lang="id">Children/Series</category><category lang="id">Children</category><category lang="id">Series/Animated</category></programme>
 <programme start="20260322003000 +0000" stop="20260322010000 +0000" channel="RCTI.id@SD"><title lang="id">Titus The Detective</title><desc lang="id">Seorang detektif tikus bersama teman-teman kelinci dan kadalnya di Steamburg. Mereka akan bersama-sama mengungkap kejahatan salah satu musuh terbesar mereka, seekor kucing bernama Bulpan. Berawal dari seorang pencopet, Bulpan bekerja keras hingga menjadi penjahat yang sangat terampil.</desc><category lang="id">Movies/Animated</category><category lang="id">Movies</category><category lang="id">Movies/Action</category><category lang="id">Movies/Comedy</category></programme>
 <programme start="20260322010000 +0000" stop="20260322013000 +0000" channel="RCTI.id@SD"><title lang="id">Kiko S4</title><desc lang="id">Kiko season 4 tak hanya menyuguhkan aksi dan petualangan seru, namun juga pesan moral tentang persahabatan, perjuangan, kebenaran, dan pengorbanan.</desc><category lang="id">Series</category><category lang="id">Series/Action</category><category lang="id">Series/Animated</category></programme>
@@ -1226,26 +1222,6 @@
 <programme start="20260323123000 +0000" stop="20260323140000 +0000" channel="Trans7.id@SD"><title lang="id">Arisan</title></programme>
 <programme start="20260323140000 +0000" stop="20260323151500 +0000" channel="Trans7.id@SD"><title lang="id">Lapor Pak!</title></programme>
 <programme start="20260323151500 +0000" stop="20260323171500 +0000" channel="Trans7.id@SD"><title lang="id">Movievaganza Spesial Lebaran : Do You See What I See</title></programme>
-<programme start="20260321173000 +0000" stop="20260321190000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV - Dragon Lord</title></programme>
-<programme start="20260321190000 +0000" stop="20260321193000 +0000" channel="TransTV.id@SD"><title lang="id">Lacak Kriminal</title></programme>
-<programme start="20260321193000 +0000" stop="20260321200000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
-<programme start="20260321200000 +0000" stop="20260321202000 +0000" channel="TransTV.id@SD"><title lang="id">Keluarga Minus</title></programme>
-<programme start="20260321202000 +0000" stop="20260321204000 +0000" channel="TransTV.id@SD"><title lang="id">The Transmart</title></programme>
-<programme start="20260321204000 +0000" stop="20260321214000 +0000" channel="TransTV.id@SD"><title lang="id">Bidaah</title></programme>
-<programme start="20260321214000 +0000" stop="20260321220000 +0000" channel="TransTV.id@SD"><title lang="id">Bajaj Bajuri Spesial Ramadhan</title></programme>
-<programme start="20260321220000 +0000" stop="20260321233000 +0000" channel="TransTV.id@SD"><title lang="id">Islam Itu Indah</title></programme>
-<programme start="20260321233000 +0000" stop="20260322003000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Pagi</title></programme>
-<programme start="20260322003000 +0000" stop="20260322013000 +0000" channel="TransTV.id@SD"><title lang="id">Kajian Hati</title></programme>
-<programme start="20260322013000 +0000" stop="20260322033000 +0000" channel="TransTV.id@SD"><title lang="id">Sinema Spesial Liburan Pagi - Doraemon The Movie: Nobita&apos;s Earth Symphony</title></programme>
-<programme start="20260322033000 +0000" stop="20260322043000 +0000" channel="TransTV.id@SD"><title lang="id">Insert</title></programme>
-<programme start="20260322043000 +0000" stop="20260322060000 +0000" channel="TransTV.id@SD"><title lang="id">Brownis On The Weekend</title></programme>
-<programme start="20260322060000 +0000" stop="20260322080000 +0000" channel="TransTV.id@SD"><title lang="id">Sinema Spesial Liburan Siang - Doraemon The Movie: Nobita&apos;s Sky Utopia</title></programme>
-<programme start="20260322080000 +0000" stop="20260322090000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Investigasi</title></programme>
-<programme start="20260322090000 +0000" stop="20260322110000 +0000" channel="TransTV.id@SD"><title lang="id">Sinema Spesial Liburan Sore - First Strike</title></programme>
-<programme start="20260322110000 +0000" stop="20260322121500 +0000" channel="TransTV.id@SD"><title lang="id">Bikin Laper</title></programme>
-<programme start="20260322121500 +0000" stop="20260322133000 +0000" channel="TransTV.id@SD"><title lang="id">Insert Story</title></programme>
-<programme start="20260322133000 +0000" stop="20260322153000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop Spesial TransTV - The Amazing Spider-Man 2</title></programme>
-<programme start="20260322153000 +0000" stop="20260322173000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV - John Wick: Chapter 4</title></programme>
 <programme start="20260322173000 +0000" stop="20260322190000 +0000" channel="TransTV.id@SD"><title lang="id">Bioskop TransTV - Heart of Dragon</title></programme>
 <programme start="20260322190000 +0000" stop="20260322193000 +0000" channel="TransTV.id@SD"><title lang="id">Lacak Kriminal</title></programme>
 <programme start="20260322193000 +0000" stop="20260322200000 +0000" channel="TransTV.id@SD"><title lang="id">CNN Indonesia Prime News</title></programme>
@@ -1411,6 +1387,37 @@
 <programme start="20260322153000 +0000" stop="20260322163000 +0000" channel="TVRINasional.id@SD"><title lang="id">Playback</title></programme>
 <programme start="20260322163000 +0000" stop="20260322170000 +0000" channel="TVRINasional.id@SD"><title lang="id">Monitor Olahraga</title></programme>
 <programme start="20260322170000 +0000" stop="20260322173000 +0000" channel="TVRINasional.id@SD"><title lang="id">Klik Indonesia Malam</title></programme>
+<programme start="20260322173000 +0000" stop="20260322180000 +0000" channel="TVRINasional.id@SD"><title lang="id">Flasback</title></programme>
+<programme start="20260322180000 +0000" stop="20260322190000 +0000" channel="TVRINasional.id@SD"><title lang="id">SOS Show</title></programme>
+<programme start="20260322190000 +0000" stop="20260322200000 +0000" channel="TVRINasional.id@SD"><title lang="id">Kongkow On the Air</title></programme>
+<programme start="20260322200000 +0000" stop="20260322203000 +0000" channel="TVRINasional.id@SD"><title lang="id">Inspirasi Indonesia</title></programme>
+<programme start="20260322203000 +0000" stop="20260322210000 +0000" channel="TVRINasional.id@SD"><title lang="id">OTO Screen</title></programme>
+<programme start="20260322210000 +0000" stop="20260322213000 +0000" channel="TVRINasional.id@SD"><title lang="id">Jejak Islam</title></programme>
+<programme start="20260322213000 +0000" stop="20260322230000 +0000" channel="TVRINasional.id@SD"><title lang="id">Serambi Islami</title></programme>
+<programme start="20260322230000 +0000" stop="20260323000000 +0000" channel="TVRINasional.id@SD"><title lang="id">Klik Indonesia Pagi</title></programme>
+<programme start="20260323000000 +0000" stop="20260323010000 +0000" channel="TVRINasional.id@SD"><title lang="id">News Bulletin: Jendela Negeri</title></programme>
+<programme start="20260323010000 +0000" stop="20260323020000 +0000" channel="TVRINasional.id@SD"><title lang="id">Bersama Perempuan</title></programme>
+<programme start="20260323020000 +0000" stop="20260323023000 +0000" channel="TVRINasional.id@SD"><title lang="id">Mari Menggambar</title></programme>
+<programme start="20260323023000 +0000" stop="20260323033000 +0000" channel="TVRINasional.id@SD"><title lang="id">Indonesia Sehat - Halo Dokter</title></programme>
+<programme start="20260323033000 +0000" stop="20260323040000 +0000" channel="TVRINasional.id@SD"><title lang="id">Dapur Devina</title></programme>
+<programme start="20260323040000 +0000" stop="20260323050000 +0000" channel="TVRINasional.id@SD"><title lang="id">Seblak Show</title></programme>
+<programme start="20260323050000 +0000" stop="20260323060000 +0000" channel="TVRINasional.id@SD"><title lang="id">Klik Indonesia Siang</title></programme>
+<programme start="20260323060000 +0000" stop="20260323063000 +0000" channel="TVRINasional.id@SD"><title lang="id">Feature LKBN Antara</title></programme>
+<programme start="20260323063000 +0000" stop="20260323070000 +0000" channel="TVRINasional.id@SD"><title lang="id">Tekno Tani</title></programme>
+<programme start="20260323070000 +0000" stop="20260323073000 +0000" channel="TVRINasional.id@SD"><title lang="id">Pesona Indonesia</title></programme>
+<programme start="20260323073000 +0000" stop="20260323080000 +0000" channel="TVRINasional.id@SD"><title lang="id">Inspirasi Indonesia</title></programme>
+<programme start="20260323080000 +0000" stop="20260323083000 +0000" channel="TVRINasional.id@SD"><title lang="id">Mimbar Agama - Katolik</title></programme>
+<programme start="20260323083000 +0000" stop="20260323090000 +0000" channel="TVRINasional.id@SD"><title lang="id">Tapal Batas</title></programme>
+<programme start="20260323090000 +0000" stop="20260323100000 +0000" channel="TVRINasional.id@SD"><title lang="id">Pengen Beken</title></programme>
+<programme start="20260323100000 +0000" stop="20260323103000 +0000" channel="TVRINasional.id@SD"><title lang="id">Pilihan Rakyat</title></programme>
+<programme start="20260323103000 +0000" stop="20260323110000 +0000" channel="TVRINasional.id@SD"><title lang="id">Sketsa Pemilu</title></programme>
+<programme start="20260323110000 +0000" stop="20260323120000 +0000" channel="TVRINasional.id@SD"><title lang="id">Klik Indonesia Petang</title></programme>
+<programme start="20260323120000 +0000" stop="20260323130000 +0000" channel="TVRINasional.id@SD"><title lang="id">Peta Politik Nasional</title></programme>
+<programme start="20260323130000 +0000" stop="20260323140000 +0000" channel="TVRINasional.id@SD"><title lang="id">Zoom - Zona Orang Muda</title></programme>
+<programme start="20260323140000 +0000" stop="20260323143000 +0000" channel="TVRINasional.id@SD"><title lang="id">Dunia Dalam Berita</title></programme>
+<programme start="20260323143000 +0000" stop="20260323153000 +0000" channel="TVRINasional.id@SD"><title lang="id">Kenangan Masa</title></programme>
+<programme start="20260323153000 +0000" stop="20260323163000 +0000" channel="TVRINasional.id@SD"><title lang="id">Home Stay Riweuh</title></programme>
+<programme start="20260323163000 +0000" stop="20260323170000 +0000" channel="TVRINasional.id@SD"><title lang="id">Monitor Olahraga</title></programme>
 <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Indonesian Legacy</title></programme>
 <programme start="20260321173000 +0000" stop="20260321180000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Coastal Life</title></programme>
 <programme start="20260321180000 +0000" stop="20260321190000 +0000" channel="TVRIWorld.id@SD"><title lang="id">Special Dialogue</title></programme>
