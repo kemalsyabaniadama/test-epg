@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="vidio.com" site_id="7464" lang="id" xmltv_id="AjwaTV.id@SD">Ajwa TV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="ANTV.id@SD" site_id="antv">ANTV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="BTV.id@SD" site_id="beritasatu">BTV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="CNBCIndonesia.id@SD" site_id="cnbcindonesia">CNBC Indonesia</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="CNNIndonesia.id@SD" site_id="cnnindonesia">CNN Indonesia</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="DAAITV.id@SD" site_id="daaitv">Daai TV</channel>
+  <channel site="maxstream.tv" site_id="0_6y0oafne" lang="id" xmltv_id="ANTV.id@SD">ANTV</channel>
+  <channel site="maxstream.tv" site_id="0_gv023ysj" lang="id" xmltv_id="BTV.id@SD">BTV</channel>
+  <channel site="maxstream.tv" site_id="0_do3tuwa9" lang="id" xmltv_id="CNBCIndonesia.id@SD">CNBC Indonesia</channel>
+  <channel site="maxstream.tv" site_id="0_cavdcfwq" lang="id" xmltv_id="CNNIndonesia.id@SD">CNN Indonesia</channel>
+  <channel site="maxstream.tv" site_id="0_wfgm77pv" lang="id" xmltv_id="DAAITV.id@SD">DAAI TV</channel>
   <channel site="vidio.com" lang="id" xmltv_id="ElshintaTV.id@SD" site_id="10975">Elshinta TV</channel>
   <channel site="tivie.id" site_id="garudatv" lang="id" xmltv_id="GarudaTV.id@SD">Garuda TV</channel>
   <channel site="visionplus.id" lang="id" xmltv_id="GTV.id@SD" site_id="00000000000000000003">GTV</channel>
   <channel site="vidio.com" lang="id" xmltv_id="Indosiar.id@SD" site_id="205">Indosiar</channel>
   <channel site="visionplus.id" lang="id" xmltv_id="iNews.id@SD" site_id="00000000000000000004">iNews</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="JakTV.id@SD" site_id="jaktv">JakTV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="JawaPosTV.id@SD" site_id="jawapos">Jawa Pos TV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="KompasTV.id@SD" site_id="kompastv">Kompas TV</channel>
+  <channel site="maxstream.tv" site_id="0_rkv5gee2" lang="id" xmltv_id="JakTV.id@SD">JAK TV</channel>
+  <channel site="maxstream.tv" site_id="0_lrp6fabo" lang="id" xmltv_id="JawaPosTV.id@SD">Jawa Pos TV</channel>
+  <channel site="maxstream.tv" site_id="0_930nfsqj" lang="id" xmltv_id="KompasTV.id@SD">Kompas TV</channel>
   <channel site="vidio.com" lang="id" xmltv_id="MagnaChannel.id@SD" site_id="7230">Magna TV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="MentariTV.id@SD" site_id="mentaritv">Mentari TV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="MetroTV.id@SD" site_id="metrotv">Metro TV</channel>
+  <channel site="maxstream.tv" site_id="0_0hjh536t" lang="id" xmltv_id="MentariTV.id@SD">Mentari TV</channel>
+  <channel site="maxstream.tv" site_id="0_2jt2oz81" lang="id" xmltv_id="MetroTV.id@SD">Metro TV</channel>
   <channel site="visionplus.id" lang="id" xmltv_id="MNCTV.id@SD" site_id="00000000000000000002">MNCTV</channel>
   <channel site="vidio.com" lang="id" xmltv_id="Moji.id@SD" site_id="206">Moji</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="MDTV.id@SD" site_id="net">MDTV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="NusantaraTV.id@SD" site_id="nusantaratv">Nusantara TV</channel>
+  <channel site="maxstream.tv" site_id="0_keojjla6" lang="id" xmltv_id="MDTV.id@HD">MDTV</channel>
+  <channel site="vidio.com" site_id="7432" lang="id" xmltv_id="NusantaraTV.id@SD">Nusantara TV</channel>
   <channel site="visionplus.id" lang="id" xmltv_id="RCTI.id@SD" site_id="00000000000000000001">RCTI</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="RajawaliTV.id@SD" site_id="rtv">Rajawali TV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="RodjaTV.id@SD" site_id="rodjatv">Rodja TV</channel>
+  <channel site="maxstream.tv" site_id="0_hii9fpgx" lang="id" xmltv_id="RajawaliTV.id@SD">RTV</channel>
+  <channel site="maxstream.tv" site_id="0_9km1pl2v" lang="id" xmltv_id="RodjaTV.id@SD">Rodja TV</channel>
   <channel site="vidio.com" lang="id" xmltv_id="SCTV.id@SD" site_id="204">SCTV</channel>
-  <channel site="indihometv.com" site_id="sinpotv" lang="id" xmltv_id="SinPoTV.id@SD">SinPo TV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="Trans7.id@SD" site_id="trans7">Trans7</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="TransTV.id@SD" site_id="transtv">TransTV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="TVMu.id@SD" site_id="muhammadiyahtv">Muhammadiyah TV</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="tvOne.id@SD" site_id="tvone">TV One</channel>
-  <channel site="indihometv.com" lang="id" xmltv_id="TVRINasional.id@SD" site_id="tvri">TVRI Nasional</channel>
-  <channel site="indihometv.com" site_id="tvriworld" lang="id" xmltv_id="TVRIWorld.id@SD">TVRI World</channel>
+  <channel site="maxstream.tv" site_id="0_pfklvvig" lang="id" xmltv_id="SinPoTV.id@HD">Sinpo TV</channel>
+  <channel site="maxstream.tv" site_id="0_a7dno7wk" lang="id" xmltv_id="Trans7.id@SD">TRANS 7</channel>
+  <channel site="maxstream.tv" site_id="0_uakgnhip" lang="id" xmltv_id="TransTV.id@SD">Trans TV</channel>
+  <channel site="maxstream.tv" site_id="0_j93el3os" lang="id" xmltv_id="TVMu.id@SD">TV MU</channel>
+  <channel site="maxstream.tv" site_id="0_qy8d9ng1" lang="id" xmltv_id="tvOne.id@SD">TV One</channel>
+  <channel site="maxstream.tv" site_id="0_vu7lebet" lang="id" xmltv_id="TVRI.id@SD">TVRI</channel>
+  <channel site="maxstream.tv" site_id="0_iu9ah7cu" lang="id" xmltv_id="TVRIWorld.id@SD">TVRI World</channel>
 </channels>
