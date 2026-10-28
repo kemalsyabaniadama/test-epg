@@ -20,15 +20,15 @@ jobs:
 
       - name: Change working directory
         run: |
-          cd /home/runner/work/test-epg/test-epg
-          npm init
+          cd $GITHUB_WORKSPACE
+          npm init -y
 
       - name: Clone external repository
         run: |
           echo "Cloning external repository..."
           git clone --depth 1 -b master https://github.com/iptv-org/epg.git external-repo
 
-      - name: Initialize Node.js in external repository
+      - name: Initialise Node.js in external repository
         run: |
           cd external-repo
           npm init -y
