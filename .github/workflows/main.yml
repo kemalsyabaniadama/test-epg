@@ -28,22 +28,23 @@ jobs:
           echo "Cloning external repository..."
           git clone --depth 1 -b master https://github.com/iptv-org/epg.git external-repo
 
-      - name: Initialise Node.js in external repository
+      - name: Initialize Node.js in external repository
         run: |
           cd external-repo
           npm init -y
 
-      - name: Install dependencies in external repository
+      - name: Install dependencies including tsx
         run: |
           cd external-repo
           npm install
+          npm install --save-dev tsx
 
       - name: Download chlist.txt file
         run: |
           cd external-repo
           curl -o chlist.txt https://raw.githubusercontent.com/kemalsyabaniadama/test-epg/refs/heads/main/.github/workflows/chlist.txt
 
-      - name: Run script
+      - name: Run script using local tsx
         run: |
           cd external-repo
           npx tsx scripts/commands/epg/grab.ts --channels=chlist.txt
