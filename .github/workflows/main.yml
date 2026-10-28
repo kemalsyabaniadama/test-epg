@@ -11,22 +11,28 @@ jobs:
 
     steps:
       - name: Checkout current repository
-        uses: actions/checkout@v4 # Update juga action checkout ke v4
+        uses: actions/checkout@v4
         
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
-          # Menambahkan parameter ini seringkali membantu meredam masalah resolusi modul global
-          cache: 'npm'
+
+      - name: Change working directory and initialize
+        run: |
+          cd $GITHUB_WORKSPACE
+          npm init -y
+
+      - name: Clone external repository
+        run: |
+          echo "Cloning external repository..."
+          git clone --depth 1 -b master https://github.com/iptv-org/epg.git external-repo
 
       - name: Initialize & Install dependencies in external repository
         run: |
           cd external-repo
           npm init -y
           npm install
-          # Hapus tsx lama yang bermasalah dan pasang versi terbaru
-          npm uninstall tsx
           npm install tsx@latest --save-dev
 
       - name: Download chlist.txt file
@@ -34,11 +40,10 @@ jobs:
           cd external-repo
           curl -o chlist.txt https://raw.githubusercontent.com/kemalsyabaniadama/test-epg/refs/heads/main/.github/workflows/chlist.txt
 
-      - name: Run script with clean npx cache
+      - name: Run script
         run: |
           cd external-repo
-          # Membersihkan npx cache agar tidak mengambil versi tsx lama yang korup
-          npx --clear-npx-cache tsx scripts/commands/epg/grab.ts --channels=chlist.txt
+          npx tsx scripts/commands/epg/grab.ts --channels=chlist.txt
 
       - name: Copy EPG file to main repository
         run: |
