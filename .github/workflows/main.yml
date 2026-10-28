@@ -40,11 +40,14 @@ jobs:
           cd external-repo
           curl -o chlist.txt https://raw.githubusercontent.com/kemalsyabaniadama/test-epg/refs/heads/main/.github/workflows/chlist.txt
 
-      - name: Run script using node with loader bypass
+      - name: Run script
+        env:
+          NODE_OPTIONS: "--no-deprecation"
         run: |
           cd external-repo
-          ./node_modules/.bin/tsx scripts/commands/epg/grab.ts --channels=chlist.txt
-
+          # Menggunakan node eksekusi langsung lewat path lokal dengan loader ESM modern
+          node --import ./node_modules/tsx/dist/loader.mjs scripts/commands/epg/grab.ts --channels=chlist.txt
+          
       - name: Copy EPG file to main repository
         run: |
           cp external-repo/guide.xml .
