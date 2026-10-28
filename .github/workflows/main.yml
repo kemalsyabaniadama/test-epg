@@ -11,14 +11,14 @@ jobs:
 
     steps:
       - name: Checkout current repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Update juga action checkout ke v4
         
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: '22' # Gunakan Node.js 22 (atau '24')
 
-      - name: Change working directory
+      - name: Change working directory and initialize
         run: |
           cd $GITHUB_WORKSPACE
           npm init -y
@@ -28,23 +28,21 @@ jobs:
           echo "Cloning external repository..."
           git clone --depth 1 -b master https://github.com/iptv-org/epg.git external-repo
 
-      - name: Initialize Node.js in external repository
+      - name: Initialize & Upgrade dependencies in external repository
         run: |
           cd external-repo
           npm init -y
-
-      - name: Install dependencies including tsx
-        run: |
-          cd external-repo
+          # Install ulang dependencies bawaan epg
           npm install
-          npm install --save-dev tsx
+          # Paksa update 'tsx' ke versi terbaru agar kompatibel dengan Node 22/24
+          npm install tsx@latest --save-dev
 
       - name: Download chlist.txt file
         run: |
           cd external-repo
           curl -o chlist.txt https://raw.githubusercontent.com/kemalsyabaniadama/test-epg/refs/heads/main/.github/workflows/chlist.txt
 
-      - name: Run script using local tsx
+      - name: Run script
         run: |
           cd external-repo
           npx tsx scripts/commands/epg/grab.ts --channels=chlist.txt
